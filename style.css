@@ -1,8 +1,8 @@
 body {
   margin: 0;
-  padding: 15px;
+  padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  background: #f3f3f3;
+  background: #f4f4f4;
 }
 
 h1, h2 {
@@ -20,273 +20,73 @@ h2 {
   margin-bottom: 15px;
 }
 
-.canvas {
-  position: relative;
-  width: 1200px;
-  height: 700px;
+.contenedor-svg {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.organigrama-svg {
+  width: 1400px;
+  height: 760px;
+  display: block;
   margin: 0 auto;
-  background: #f3f3f3;
 }
 
-.box {
-  position: absolute;
-  z-index: 2;
-  border: 2px solid #2f3192;
-  background: #fff;
-  color: #2f3192;
-  font-weight: 700;
-  text-align: center;
-  cursor: pointer;
-  box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.dark {
-  background: #2f3192;
-  color: #fff;
-}
-
-.main {
-  left: 500px;
-  top: 35px;
-  width: 220px;
-  height: 68px;
-  background: #2f3192;
-  color: #fff;
-  font-size: 18px;
-}
-
-.dir {
-  width: 125px;
-  height: 82px;
-  font-size: 12px;
-}
-
-.small {
-  width: 92px;
-  height: 55px;
-  font-size: 8px;
-  line-height: 1.1;
-}
-
-.mini {
-  width: 75px;
-  height: 48px;
-  font-size: 7px;
-  line-height: 1.1;
-}
-
-.label {
-  position: absolute;
-  color: #25258f;
-  font-size: 17px;
-  z-index: 3;
-}
-
-.control {
-  left: 115px;
-  top: 150px;
-}
-
-.asesoria {
-  left: 865px;
-  top: 150px;
-}
-
-.negocio {
-  left: 85px;
-  top: 285px;
-}
-
-.soporte {
-  left: 920px;
-  top: 285px;
-}
-
-/* Cajas superiores */
-#auditoria {
-  left: 285px;
-  top: 75px;
-  width: 125px;
-  height: 82px;
-  font-size: 12px;
-}
-
-#fiscalia {
-  left: 285px;
-  top: 170px;
-  width: 125px;
-  height: 82px;
-  font-size: 12px;
-}
-
-#gabinete {
-  left: 535px;
-  top: 170px;
-  width: 125px;
-  height: 82px;
-  font-size: 12px;
-}
-
-#seguridad {
-  left: 135px;
-  top: 185px;
-}
-
-#participacion {
-  left: 785px;
-  top: 110px;
-}
-
-#asesores {
-  left: 785px;
-  top: 165px;
-}
-
-#prensa {
-  left: 785px;
-  top: 220px;
-}
-
-/* Direcciones */
-#educacion {
-  left: 35px;
-  top: 335px;
-}
-
-#estudios {
-  left: 165px;
-  top: 335px;
-}
-
-#coordinacion {
-  left: 295px;
-  top: 335px;
-}
-
-#legislativa {
-  left: 425px;
-  top: 335px;
-}
-
-#admin {
-  left: 770px;
-  top: 335px;
-}
-
-#ti {
-  left: 1080px;
-  top: 335px;
-}
-
-/* Unidades negocio */
-#u-educacion {
-  left: 62px;
-  top: 460px;
-}
-
-#observatorio {
-  left: 185px;
-  top: 460px;
-}
-
-#analisis {
-  left: 185px;
-  top: 535px;
-}
-
-#atencion {
-  left: 315px;
-  top: 460px;
-}
-
-#coord-inst {
-  left: 315px;
-  top: 535px;
-}
-
-/* Soporte */
-#presupuesto {
-  left: 585px;
-  top: 460px;
-}
-
-#gestion-personas {
-  left: 700px;
-  top: 460px;
-}
-
-#adquisiciones {
-  left: 815px;
-  top: 460px;
-}
-
-#control-gestion {
-  left: 930px;
-  top: 460px;
-}
-
-#contratos {
-  left: 1045px;
-  top: 460px;
-}
-
-#proyectos {
-  left: 600px;
-  top: 535px;
-}
-
-#contabilidad {
-  left: 600px;
-  top: 595px;
-}
-
-#tesoreria {
-  left: 600px;
-  top: 655px;
-}
-
-#partes {
-  left: 835px;
-  top: 535px;
-}
-
-#inventario {
-  left: 835px;
-  top: 595px;
-}
-
-#sistemas {
-  left: 1110px;
-  top: 460px;
-}
-
-#infra {
-  left: 1110px;
-  top: 535px;
-}
-
-.lines {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  pointer-events: none;
-}
-
-.lines path {
+.linea {
+  stroke: #2f3192;
+  stroke-width: 2;
   fill: none;
+}
+
+.flecha {
+  marker-end: url(#flecha);
+}
+
+.caja {
+  cursor: pointer;
+}
+
+.caja rect {
   stroke: #2f3192;
   stroke-width: 2;
 }
 
-.box:hover {
-  background: #4446b5;
-  color: #fff;
+.caja text {
+  font-family: Arial, Helvetica, sans-serif;
+  text-anchor: middle;
+  dominant-baseline: middle;
+  font-weight: 700;
+  pointer-events: none;
 }
 
-@media (max-width: 1250px) {
-  .canvas {
-    transform: scale(0.8);
-    transform-origin: top left;
-  }
+.azul rect {
+  fill: #2f3192;
+}
+
+.azul text {
+  fill: white;
+  font-size: 14px;
+}
+
+.blanca rect {
+  fill: white;
+}
+
+.blanca text {
+  fill: #2f3192;
+  font-size: 9px;
+}
+
+.etiqueta {
+  fill: #2f3192;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja:hover rect {
+  fill: #4446b5;
+}
+
+.caja:hover text {
+  fill: white;
 }
