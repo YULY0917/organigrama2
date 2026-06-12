@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Organigrama SPS</title>
-  <link rel="stylesheet" href="style.css?v=40" />
+  <link rel="stylesheet" href="style.css?v=50" />
 </head>
 
 <body>
@@ -14,7 +14,7 @@
 
 <div class="wrapper">
 
-<svg class="org" viewBox="0 0 1500 850" xmlns="http://www.w3.org/2000/svg">
+<svg class="org" viewBox="0 0 1500 900" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
@@ -24,10 +24,10 @@
 
   <!-- LÍNEAS SUPERIORES -->
   <line x1="750" y1="95" x2="750" y2="175" class="line"/>
-  <line x1="750" y1="260" x2="750" y2="355" class="line"/>
+  <line x1="750" y1="270" x2="750" y2="355" class="line"/>
   <line x1="110" y1="355" x2="1390" y2="355" class="line"/>
 
-  <!-- FLECHAS HACIA DIRECCIONES -->
+  <!-- FLECHAS DIRECCIONES -->
   <line x1="110" y1="355" x2="110" y2="405" class="line arrow"/>
   <line x1="265" y1="355" x2="265" y2="405" class="line arrow"/>
   <line x1="420" y1="355" x2="420" y2="405" class="line arrow"/>
@@ -50,11 +50,11 @@
   <!-- NEGOCIO -->
   <line x1="110" y1="485" x2="110" y2="540" class="line arrow"/>
   <line x1="265" y1="485" x2="265" y2="540" class="line arrow"/>
-  <line x1="265" y1="595" x2="265" y2="660" class="line arrow"/>
+  <line x1="265" y1="598" x2="265" y2="660" class="line arrow"/>
   <line x1="420" y1="485" x2="420" y2="540" class="line arrow"/>
-  <line x1="420" y1="595" x2="420" y2="660" class="line arrow"/>
+  <line x1="420" y1="598" x2="420" y2="660" class="line arrow"/>
 
-  <!-- SOPORTE / ADMINISTRACIÓN -->
+  <!-- ADMINISTRACIÓN -->
   <line x1="980" y1="485" x2="980" y2="520" class="line"/>
   <line x1="700" y1="520" x2="1235" y2="520" class="line"/>
 
@@ -64,20 +64,22 @@
   <line x1="1120" y1="520" x2="1120" y2="560" class="line arrow"/>
   <line x1="1235" y1="520" x2="1235" y2="560" class="line arrow"/>
 
- <!-- Subunidades que dependen de Presupuesto -->
-<line x1="645" y1="640" x2="615" y2="640" class="line"/>
-<line x1="615" y1="640" x2="615" y2="855" class="line"/>
+  <!-- Subunidades de Presupuesto -->
+  <line x1="645" y1="589" x2="615" y2="589" class="line"/>
+  <line x1="615" y1="589" x2="615" y2="857" class="line"/>
+  <line x1="615" y1="689" x2="645" y2="689" class="line arrow"/>
+  <line x1="615" y1="786" x2="645" y2="786" class="line arrow"/>
+  <line x1="615" y1="857" x2="645" y2="857" class="line arrow"/>
 
-<line x1="615" y1="690" x2="645" y2="690" class="line arrow"/>
-<line x1="615" y1="790" x2="645" y2="790" class="line arrow"/>
-<line x1="615" y1="857" x2="645" y2="857" class="line arrow"/>
+  <!-- Oficina de Partes e Inventario desde Adquisiciones -->
+  <line x1="980" y1="618" x2="980" y2="660" class="line arrow"/>
+  <line x1="980" y1="718" x2="980" y2="760" class="line arrow"/>
 
-  <line x1="980" y1="615" x2="980" y2="660" class="line arrow"/>
-  <line x1="980" y1="715" x2="980" y2="760" class="line arrow"/>
-
-  <!-- TI -->
-  <line x1="1350" y1="485" x2="1350" y2="560" class="line arrow"/>
-  <line x1="1350" y1="615" x2="1350" y2="690" class="line arrow"/>
+  <!-- TI: ambas unidades dependen de la Dirección TI -->
+  <line x1="1350" y1="485" x2="1350" y2="525" class="line"/>
+  <line x1="1295" y1="525" x2="1405" y2="525" class="line"/>
+  <line x1="1295" y1="525" x2="1295" y2="560" class="line arrow"/>
+  <line x1="1405" y1="525" x2="1405" y2="690" class="line arrow"/>
 
   <!-- ETIQUETAS -->
   <text x="180" y="135" class="area-label">Áreas de Control</text>
@@ -167,7 +169,7 @@
     <text x="575" y="473">SEGURIDAD LABORAL</text>
   </g>
 
-  <!-- DIRECCIONES SOPORTE -->
+  <!-- SOPORTE -->
   <g class="box blue" onclick="abrirPopup('admin')">
     <rect x="910" y="405" width="140" height="80"></rect>
     <text x="980" y="432">DIRECCIÓN DE</text>
@@ -218,7 +220,7 @@
     <text x="420" y="706">Institucional</text>
   </g>
 
-  <!-- UNIDADES ADMINISTRACIÓN -->
+  <!-- ADMINISTRACIÓN -->
   <g class="box white" onclick="abrirPopup('presupuesto')">
     <rect x="645" y="560" width="110" height="58"></rect>
     <text x="700" y="576">Unidad de</text>
@@ -282,25 +284,25 @@
     <text x="980" y="788">Inventario</text>
   </g>
 
-  <!-- UNIDADES TI -->
+  <!-- TI -->
   <g class="box white" onclick="abrirPopup('sistemas')">
-    <rect x="1315" y="560" width="110" height="58"></rect>
-    <text x="1370" y="576">Unidad de Sistemas</text>
-    <text x="1370" y="590">e Inteligencia de</text>
-    <text x="1370" y="604">Negocios</text>
+    <rect x="1240" y="560" width="110" height="58"></rect>
+    <text x="1295" y="576">Unidad de Sistemas</text>
+    <text x="1295" y="590">e Inteligencia de</text>
+    <text x="1295" y="604">Negocios</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('infra')">
-    <rect x="1315" y="690" width="110" height="58"></rect>
-    <text x="1370" y="710">Unidad de</text>
-    <text x="1370" y="724">Infraestructura y</text>
-    <text x="1370" y="738">Soporte</text>
+    <rect x="1350" y="690" width="110" height="58"></rect>
+    <text x="1405" y="710">Unidad de</text>
+    <text x="1405" y="724">Infraestructura y</text>
+    <text x="1405" y="738">Soporte</text>
   </g>
 
 </svg>
 
 </div>
 
-<script src="script.js?v=40"></script>
+<script src="script.js?v=50"></script>
 </body>
 </html>
