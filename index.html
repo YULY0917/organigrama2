@@ -1,295 +1,298 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Organigrama SPS</title>
-  <link rel="stylesheet" href="./style.css?v=10">
+  <link rel="stylesheet" href="./style.css?v=20" />
 </head>
 
 <body>
-
 <div class="wrapper">
 
 <svg class="org" viewBox="0 0 1500 850" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L9,3 z" fill="#2f3192"></path>
+      <path d="M0,0 L0,6 L9,3 Z" fill="#2f3192"></path>
     </marker>
   </defs>
 
-  <!-- LÍNEAS -->
-  <line x1="750" y1="85" x2="750" y2="160" class="line"/>
-  <line x1="750" y1="245" x2="750" y2="345" class="line"/>
-  <line x1="110" y1="345" x2="1390" y2="345" class="line"/>
+  <!-- LÍNEAS SUPERIORES -->
+  <line x1="750" y1="95" x2="750" y2="175" class="line"/>
+  <line x1="750" y1="260" x2="750" y2="355" class="line"/>
+  <line x1="110" y1="355" x2="1390" y2="355" class="line"/>
 
-  <line x1="110" y1="345" x2="110" y2="395" class="line arrow"/>
-  <line x1="265" y1="345" x2="265" y2="395" class="line arrow"/>
-  <line x1="420" y1="345" x2="420" y2="395" class="line arrow"/>
-  <line x1="575" y1="345" x2="575" y2="395" class="line arrow"/>
-  <line x1="980" y1="345" x2="980" y2="395" class="line arrow"/>
-  <line x1="1350" y1="345" x2="1350" y2="395" class="line arrow"/>
+  <!-- FLECHAS HACIA DIRECCIONES -->
+  <line x1="110" y1="355" x2="110" y2="405" class="line arrow"/>
+  <line x1="265" y1="355" x2="265" y2="405" class="line arrow"/>
+  <line x1="420" y1="355" x2="420" y2="405" class="line arrow"/>
+  <line x1="575" y1="355" x2="575" y2="405" class="line arrow"/>
+  <line x1="980" y1="355" x2="980" y2="405" class="line arrow"/>
+  <line x1="1350" y1="355" x2="1350" y2="405" class="line arrow"/>
 
-  <!-- Control -->
-  <polyline points="680,60 575,60 575,110 520,110" class="line arrow"/>
-  <line x1="360" y1="215" x2="520" y2="215" class="line arrow-reverse"/>
-  <line x1="650" y1="215" x2="520" y2="215" class="line arrow"/>
+  <!-- CONTROL -->
+  <polyline points="650,65 575,65 575,120 525,120" class="line arrow"/>
+  <line x1="390" y1="225" x2="305" y2="225" class="line arrow"/>
+  <line x1="650" y1="225" x2="525" y2="225" class="line arrow"/>
 
-  <!-- Asesoría -->
-  <line x1="850" y1="215" x2="1010" y2="215" class="line"/>
-  <line x1="1010" y1="120" x2="1010" y2="310" class="line"/>
-  <line x1="1010" y1="120" x2="1060" y2="120" class="line arrow"/>
-  <line x1="1010" y1="215" x2="1060" y2="215" class="line arrow"/>
-  <line x1="1010" y1="310" x2="1060" y2="310" class="line arrow"/>
+  <!-- ASESORÍA -->
+  <line x1="800" y1="225" x2="1010" y2="225" class="line"/>
+  <line x1="1010" y1="125" x2="1010" y2="315" class="line"/>
+  <line x1="1010" y1="125" x2="1060" y2="125" class="line arrow"/>
+  <line x1="1010" y1="225" x2="1060" y2="225" class="line arrow"/>
+  <line x1="1010" y1="315" x2="1060" y2="315" class="line arrow"/>
 
-  <!-- Negocio unidades -->
-  <line x1="110" y1="475" x2="110" y2="535" class="line arrow"/>
-  <line x1="265" y1="475" x2="265" y2="535" class="line arrow"/>
-  <line x1="265" y1="595" x2="265" y2="660" class="line arrow"/>
-  <line x1="420" y1="475" x2="420" y2="535" class="line arrow"/>
-  <line x1="420" y1="595" x2="420" y2="660" class="line arrow"/>
+  <!-- NEGOCIO -->
+  <line x1="110" y1="485" x2="110" y2="540" class="line arrow"/>
+  <line x1="265" y1="485" x2="265" y2="540" class="line arrow"/>
+  <line x1="265" y1="605" x2="265" y2="660" class="line arrow"/>
+  <line x1="420" y1="485" x2="420" y2="540" class="line arrow"/>
+  <line x1="420" y1="605" x2="420" y2="660" class="line arrow"/>
 
-  <!-- Administración y Finanzas -->
-  <line x1="980" y1="475" x2="980" y2="515" class="line"/>
-  <line x1="700" y1="515" x2="1260" y2="515" class="line"/>
+  <!-- SOPORTE / ADMINISTRACIÓN -->
+  <line x1="980" y1="485" x2="980" y2="520" class="line"/>
+  <line x1="700" y1="520" x2="1260" y2="520" class="line"/>
 
-  <line x1="700" y1="515" x2="700" y2="555" class="line arrow"/>
-  <line x1="840" y1="515" x2="840" y2="555" class="line arrow"/>
-  <line x1="980" y1="515" x2="980" y2="555" class="line arrow"/>
-  <line x1="1120" y1="515" x2="1120" y2="555" class="line arrow"/>
-  <line x1="1260" y1="515" x2="1260" y2="555" class="line arrow"/>
+  <line x1="700" y1="520" x2="700" y2="560" class="line arrow"/>
+  <line x1="840" y1="520" x2="840" y2="560" class="line arrow"/>
+  <line x1="980" y1="520" x2="980" y2="560" class="line arrow"/>
+  <line x1="1120" y1="520" x2="1120" y2="560" class="line arrow"/>
+  <line x1="1260" y1="520" x2="1260" y2="560" class="line arrow"/>
 
-  <line x1="700" y1="615" x2="700" y2="655" class="line arrow"/>
-  <line x1="700" y1="715" x2="700" y2="755" class="line arrow"/>
-  <line x1="700" y1="815" x2="700" y2="840" class="line arrow"/>
+  <line x1="700" y1="625" x2="700" y2="660" class="line arrow"/>
+  <line x1="700" y1="725" x2="700" y2="760" class="line arrow"/>
+  <line x1="700" y1="815" x2="700" y2="835" class="line arrow"/>
 
-  <line x1="980" y1="615" x2="980" y2="655" class="line arrow"/>
-  <line x1="980" y1="715" x2="980" y2="755" class="line arrow"/>
+  <line x1="980" y1="625" x2="980" y2="660" class="line arrow"/>
+  <line x1="980" y1="725" x2="980" y2="760" class="line arrow"/>
 
   <!-- TI -->
-  <line x1="1350" y1="475" x2="1350" y2="555" class="line arrow"/>
-  <line x1="1350" y1="615" x2="1350" y2="675" class="line arrow"/>
+  <line x1="1350" y1="485" x2="1350" y2="560" class="line arrow"/>
+  <line x1="1350" y1="625" x2="1350" y2="690" class="line arrow"/>
 
   <!-- ETIQUETAS -->
-  <text x="190" y="125" class="area-label">Áreas de Control</text>
-  <text x="1230" y="170" class="area-label">Áreas de Asesoría</text>
-  <text x="230" y="370" class="area-label">Áreas de Negocio</text>
-  <text x="1130" y="370" class="area-label">Áreas de Soporte</text>
+  <text x="180" y="135" class="area-label">Áreas de Control</text>
+  <text x="1220" y="175" class="area-label">Áreas de Asesoría</text>
+  <text x="230" y="380" class="area-label">Áreas de Negocio</text>
+  <text x="1130" y="380" class="area-label">Áreas de Soporte</text>
 
-  <!-- SUPERIOR -->
+  <!-- SUBSECRETARIO -->
   <g class="box blue" onclick="abrirPopup('subsecretaria')">
     <rect x="650" y="25" width="220" height="70"></rect>
     <text x="760" y="65" class="main-text">SUBSECRETARIO/A</text>
   </g>
 
+  <!-- CONTROL -->
   <g class="box blue" onclick="abrirPopup('auditoria')">
     <rect x="390" y="85" width="135" height="85"></rect>
     <text x="457" y="120">AUDITORÍA</text>
-    <text x="457" y="140">INTERNA</text>
+    <text x="457" y="142">INTERNA</text>
   </g>
 
   <g class="box blue" onclick="abrirPopup('fiscalia')">
     <rect x="390" y="185" width="135" height="85"></rect>
     <text x="457" y="220">DIVISIÓN</text>
-    <text x="457" y="240">FISCALÍA</text>
+    <text x="457" y="242">FISCALÍA</text>
   </g>
 
+  <g class="box white" onclick="abrirPopup('seguridad')">
+    <rect x="185" y="195" width="120" height="60"></rect>
+    <text x="245" y="211">Unidad de Seguridad</text>
+    <text x="245" y="225">de la Información y</text>
+    <text x="245" y="239">Protección de Datos</text>
+    <text x="245" y="251">Personales</text>
+  </g>
+
+  <!-- GABINETE -->
   <g class="box blue" onclick="abrirPopup('gabinete')">
     <rect x="650" y="185" width="150" height="85"></rect>
     <text x="725" y="230">GABINETE</text>
   </g>
 
-  <g class="box white" onclick="abrirPopup('seguridad')">
-    <rect x="185" y="195" width="120" height="65"></rect>
-    <text x="245" y="215">Unidad de Seguridad</text>
-    <text x="245" y="230">de la Información y</text>
-    <text x="245" y="245">Protección de Datos</text>
-    <text x="245" y="258">Personales</text>
-  </g>
-
+  <!-- ASESORÍA -->
   <g class="box white" onclick="abrirPopup('participacion')">
-    <rect x="1060" y="90" width="135" height="65"></rect>
+    <rect x="1060" y="95" width="135" height="60"></rect>
     <text x="1127" y="112">Unidad de</text>
-    <text x="1127" y="127">Participación</text>
-    <text x="1127" y="142">Ciudadana y Género</text>
+    <text x="1127" y="126">Participación</text>
+    <text x="1127" y="140">Ciudadana y Género</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('asesores')">
-    <rect x="1060" y="185" width="135" height="65"></rect>
-    <text x="1127" y="222">Asesores</text>
+    <rect x="1060" y="195" width="135" height="60"></rect>
+    <text x="1127" y="226">Asesores</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('prensa')">
-    <rect x="1060" y="280" width="135" height="65"></rect>
-    <text x="1127" y="305">Unidad de Prensa y</text>
-    <text x="1127" y="320">Comunicaciones</text>
+    <rect x="1060" y="295" width="135" height="60"></rect>
+    <text x="1127" y="318">Unidad de Prensa y</text>
+    <text x="1127" y="333">Comunicaciones</text>
   </g>
 
   <!-- DIRECCIONES NEGOCIO -->
   <g class="box blue" onclick="abrirPopup('educacion')">
-    <rect x="40" y="395" width="140" height="85"></rect>
-    <text x="110" y="425">DIRECCIÓN DE</text>
-    <text x="110" y="445">EDUCACIÓN</text>
-    <text x="110" y="465">PREVISIONAL</text>
+    <rect x="40" y="405" width="140" height="80"></rect>
+    <text x="110" y="432">DIRECCIÓN DE</text>
+    <text x="110" y="452">EDUCACIÓN</text>
+    <text x="110" y="472">PREVISIONAL</text>
   </g>
 
   <g class="box blue" onclick="abrirPopup('estudios')">
-    <rect x="195" y="395" width="140" height="85"></rect>
-    <text x="265" y="425">DIRECCIÓN DE</text>
-    <text x="265" y="445">ESTUDIOS</text>
-    <text x="265" y="465">PREVISIONALES</text>
+    <rect x="195" y="405" width="140" height="80"></rect>
+    <text x="265" y="432">DIRECCIÓN DE</text>
+    <text x="265" y="452">ESTUDIOS</text>
+    <text x="265" y="472">PREVISIONALES</text>
   </g>
 
   <g class="box blue" onclick="abrirPopup('coordinacion')">
-    <rect x="350" y="395" width="140" height="85"></rect>
-    <text x="420" y="425">DIRECCIÓN DE</text>
-    <text x="420" y="445">COORDINACIÓN</text>
-    <text x="420" y="465">INSTITUCIONAL</text>
+    <rect x="350" y="405" width="140" height="80"></rect>
+    <text x="420" y="432">DIRECCIÓN DE</text>
+    <text x="420" y="452">COORDINACIÓN</text>
+    <text x="420" y="472">INSTITUCIONAL</text>
   </g>
 
   <g class="box blue" onclick="abrirPopup('legislativa')">
-    <rect x="505" y="395" width="140" height="85"></rect>
-    <text x="575" y="417">DIVISIÓN DE</text>
-    <text x="575" y="435">ASESORÍA</text>
-    <text x="575" y="453">LEGISLATIVA Y</text>
-    <text x="575" y="471">SEGURIDAD LABORAL</text>
+    <rect x="505" y="405" width="140" height="80"></rect>
+    <text x="575" y="425">DIVISIÓN DE</text>
+    <text x="575" y="443">ASESORÍA</text>
+    <text x="575" y="461">LEGISLATIVA Y</text>
+    <text x="575" y="477">SEGURIDAD LABORAL</text>
   </g>
 
-  <!-- SOPORTE -->
+  <!-- DIRECCIONES SOPORTE -->
   <g class="box blue" onclick="abrirPopup('admin')">
-    <rect x="910" y="395" width="140" height="85"></rect>
-    <text x="980" y="425">DIRECCIÓN DE</text>
-    <text x="980" y="445">ADMINISTRACIÓN</text>
-    <text x="980" y="465">Y FINANZAS</text>
+    <rect x="910" y="405" width="140" height="80"></rect>
+    <text x="980" y="432">DIRECCIÓN DE</text>
+    <text x="980" y="452">ADMINISTRACIÓN</text>
+    <text x="980" y="472">Y FINANZAS</text>
   </g>
 
   <g class="box blue" onclick="abrirPopup('ti')">
-    <rect x="1280" y="395" width="140" height="85"></rect>
-    <text x="1350" y="423">DIRECCIÓN DE</text>
-    <text x="1350" y="443">TECNOLOGÍA DE</text>
-    <text x="1350" y="463">LA INFORMACIÓN</text>
+    <rect x="1280" y="405" width="140" height="80"></rect>
+    <text x="1350" y="432">DIRECCIÓN DE</text>
+    <text x="1350" y="452">TECNOLOGÍA DE</text>
+    <text x="1350" y="472">LA INFORMACIÓN</text>
   </g>
 
   <!-- UNIDADES NEGOCIO -->
   <g class="box white" onclick="abrirPopup('u-educacion')">
-    <rect x="55" y="535" width="110" height="65"></rect>
-    <text x="110" y="558">Unidad de</text>
-    <text x="110" y="573">Educación</text>
-    <text x="110" y="588">Previsional</text>
+    <rect x="55" y="540" width="110" height="65"></rect>
+    <text x="110" y="562">Unidad de</text>
+    <text x="110" y="577">Educación</text>
+    <text x="110" y="592">Previsional</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('observatorio')">
-    <rect x="210" y="535" width="110" height="65"></rect>
-    <text x="265" y="558">Unidad de</text>
-    <text x="265" y="573">Observatorio</text>
-    <text x="265" y="588">Previsional</text>
+    <rect x="210" y="540" width="110" height="65"></rect>
+    <text x="265" y="562">Unidad de</text>
+    <text x="265" y="577">Observatorio</text>
+    <text x="265" y="592">Previsional</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('analisis')">
     <rect x="210" y="660" width="110" height="65"></rect>
-    <text x="265" y="683">Unidad de Análisis</text>
-    <text x="265" y="698">de Políticas</text>
-    <text x="265" y="713">Previsionales</text>
+    <text x="265" y="682">Unidad de Análisis</text>
+    <text x="265" y="697">de Políticas</text>
+    <text x="265" y="712">Previsionales</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('atencion')">
-    <rect x="365" y="535" width="110" height="65"></rect>
-    <text x="420" y="558">Unidad de</text>
-    <text x="420" y="573">Atención</text>
-    <text x="420" y="588">Ciudadana y OIRS</text>
+    <rect x="365" y="540" width="110" height="65"></rect>
+    <text x="420" y="562">Unidad de</text>
+    <text x="420" y="577">Atención</text>
+    <text x="420" y="592">Ciudadana y OIRS</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('coord-inst')">
     <rect x="365" y="660" width="110" height="65"></rect>
-    <text x="420" y="683">Unidad de</text>
-    <text x="420" y="698">Coordinación</text>
-    <text x="420" y="713">Institucional</text>
+    <text x="420" y="682">Unidad de</text>
+    <text x="420" y="697">Coordinación</text>
+    <text x="420" y="712">Institucional</text>
   </g>
 
   <!-- UNIDADES ADMINISTRACIÓN -->
   <g class="box white" onclick="abrirPopup('presupuesto')">
-    <rect x="645" y="555" width="110" height="65"></rect>
-    <text x="700" y="575">Unidad de</text>
-    <text x="700" y="590">Presupuesto,</text>
-    <text x="700" y="605">Finanzas y Control</text>
+    <rect x="645" y="560" width="110" height="65"></rect>
+    <text x="700" y="579">Unidad de</text>
+    <text x="700" y="594">Presupuesto,</text>
+    <text x="700" y="609">Finanzas y Control</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('personas')">
-    <rect x="785" y="555" width="110" height="65"></rect>
-    <text x="840" y="578">Unidad de Gestión</text>
-    <text x="840" y="593">y Desarrollo de</text>
-    <text x="840" y="608">Personas</text>
+    <rect x="785" y="560" width="110" height="65"></rect>
+    <text x="840" y="582">Unidad de Gestión</text>
+    <text x="840" y="597">y Desarrollo de</text>
+    <text x="840" y="612">Personas</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('adquisiciones')">
-    <rect x="925" y="555" width="110" height="65"></rect>
-    <text x="980" y="575">Unidad de</text>
-    <text x="980" y="590">Adquisiciones y</text>
-    <text x="980" y="605">Servicios Generales</text>
+    <rect x="925" y="560" width="110" height="65"></rect>
+    <text x="980" y="579">Unidad de</text>
+    <text x="980" y="594">Adquisiciones y</text>
+    <text x="980" y="609">Servicios Generales</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('control')">
-    <rect x="1065" y="555" width="110" height="65"></rect>
-    <text x="1120" y="582">Unidad de Control</text>
-    <text x="1120" y="597">de Gestión</text>
+    <rect x="1065" y="560" width="110" height="65"></rect>
+    <text x="1120" y="588">Unidad de Control</text>
+    <text x="1120" y="603">de Gestión</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('contratos')">
-    <rect x="1205" y="555" width="110" height="65"></rect>
-    <text x="1260" y="582">Unidad de Gestión</text>
-    <text x="1260" y="597">de Contratos</text>
+    <rect x="1205" y="560" width="110" height="65"></rect>
+    <text x="1260" y="588">Unidad de Gestión</text>
+    <text x="1260" y="603">de Contratos</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('sub-presupuesto')">
-    <rect x="645" y="655" width="110" height="65"></rect>
-    <text x="700" y="677">Subunidad de</text>
-    <text x="700" y="692">Presupuesto y</text>
-    <text x="700" y="707">Control Sectorial</text>
+    <rect x="645" y="660" width="110" height="65"></rect>
+    <text x="700" y="681">Subunidad de</text>
+    <text x="700" y="696">Presupuesto y</text>
+    <text x="700" y="711">Control Sectorial</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('contabilidad')">
-    <rect x="645" y="755" width="110" height="55"></rect>
-    <text x="700" y="785">Subunidad de</text>
-    <text x="700" y="800">Contabilidad</text>
+    <rect x="645" y="760" width="110" height="55"></rect>
+    <text x="700" y="786">Subunidad de</text>
+    <text x="700" y="801">Contabilidad</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('tesoreria')">
     <rect x="645" y="835" width="110" height="45"></rect>
-    <text x="700" y="860">Subunidad de</text>
-    <text x="700" y="875">Tesorería</text>
+    <text x="700" y="857">Subunidad de</text>
+    <text x="700" y="872">Tesorería</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('partes')">
-    <rect x="925" y="655" width="110" height="65"></rect>
-    <text x="980" y="685">Oficina de</text>
-    <text x="980" y="700">Partes</text>
+    <rect x="925" y="660" width="110" height="65"></rect>
+    <text x="980" y="689">Oficina de</text>
+    <text x="980" y="704">Partes</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('inventario')">
-    <rect x="925" y="755" width="110" height="55"></rect>
-    <text x="980" y="787">Inventario</text>
+    <rect x="925" y="760" width="110" height="55"></rect>
+    <text x="980" y="791">Inventario</text>
   </g>
 
-  <!-- TI -->
+  <!-- UNIDADES TI -->
   <g class="box white" onclick="abrirPopup('sistemas')">
-    <rect x="1295" y="555" width="110" height="65"></rect>
-    <text x="1350" y="575">Unidad de Sistemas</text>
-    <text x="1350" y="590">e Inteligencia de</text>
-    <text x="1350" y="605">Negocios</text>
+    <rect x="1295" y="560" width="110" height="65"></rect>
+    <text x="1350" y="579">Unidad de Sistemas</text>
+    <text x="1350" y="594">e Inteligencia de</text>
+    <text x="1350" y="609">Negocios</text>
   </g>
 
   <g class="box white" onclick="abrirPopup('infra')">
-    <rect x="1295" y="675" width="110" height="65"></rect>
-    <text x="1350" y="700">Unidad de</text>
-    <text x="1350" y="715">Infraestructura y</text>
-    <text x="1350" y="730">Soporte</text>
+    <rect x="1295" y="690" width="110" height="65"></rect>
+    <text x="1350" y="714">Unidad de</text>
+    <text x="1350" y="729">Infraestructura y</text>
+    <text x="1350" y="744">Soporte</text>
   </g>
 
 </svg>
 
 </div>
 
-<script src="./script.js?v=10"></script>
+<script src="./script.js?v=20"></script>
 </body>
 </html>
