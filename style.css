@@ -3,6 +3,7 @@ body {
   padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
   background: #f4f4f4;
+  color: #222;
 }
 
 h1, h2 {
@@ -20,38 +21,52 @@ h2 {
   margin-bottom: 15px;
 }
 
-.contenedor-svg {
+.wrapper {
   width: 100%;
   overflow-x: auto;
 }
 
-.organigrama-svg {
-  width: 1400px;
-  height: 760px;
+.org {
   display: block;
+  width: 1500px;
+  height: 900px;
   margin: 0 auto;
 }
 
-.linea {
+.line {
   stroke: #2f3192;
   stroke-width: 2;
   fill: none;
 }
 
-.flecha {
-  marker-end: url(#flecha);
+.arrow {
+  marker-end: url(#arrow);
 }
 
-.caja {
+.arrow-reverse {
+  marker-start: url(#arrow);
+}
+
+.box {
   cursor: pointer;
 }
 
-.caja rect {
+.box rect {
   stroke: #2f3192;
   stroke-width: 2;
+  rx: 0;
+  ry: 0;
 }
 
-.caja text {
+.blue rect {
+  fill: #2f3192;
+}
+
+.white rect {
+  fill: #ffffff;
+}
+
+.box text {
   font-family: Arial, Helvetica, sans-serif;
   text-anchor: middle;
   dominant-baseline: middle;
@@ -59,34 +74,31 @@ h2 {
   pointer-events: none;
 }
 
-.azul rect {
+.blue text {
+  fill: #ffffff;
+  font-size: 11px;
+}
+
+.white text {
   fill: #2f3192;
+  font-size: 8px;
 }
 
-.azul text {
-  fill: white;
-  font-size: 14px;
+.main-text {
+  font-size: 15px !important;
 }
 
-.blanca rect {
-  fill: white;
-}
-
-.blanca text {
-  fill: #2f3192;
-  font-size: 9px;
-}
-
-.etiqueta {
+.area-label {
   fill: #2f3192;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
 }
 
-.caja:hover rect {
-  fill: #4446b5;
+.box:hover rect {
+  fill: #4547b8;
 }
 
-.caja:hover text {
-  fill: white;
+.box:hover text {
+  fill: #ffffff;
 }
