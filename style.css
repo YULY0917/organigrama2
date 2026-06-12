@@ -6,7 +6,8 @@ body {
   color: #222;
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
   margin: 0;
   font-weight: 700;
@@ -14,6 +15,7 @@ h1, h2 {
 
 h1 {
   font-size: 18px;
+  letter-spacing: 0.3px;
 }
 
 h2 {
@@ -43,10 +45,6 @@ h2 {
   marker-end: url(#arrow);
 }
 
-.arrow-reverse {
-  marker-start: url(#arrow);
-}
-
 .box {
   cursor: pointer;
 }
@@ -54,8 +52,7 @@ h2 {
 .box rect {
   stroke: #2f3192;
   stroke-width: 2;
-  rx: 0;
-  ry: 0;
+  fill: #ffffff;
 }
 
 .blue rect {
@@ -81,7 +78,7 @@ h2 {
 
 .white text {
   fill: #2f3192;
-  font-size: 8px;
+  font-size: 7.5px;
 }
 
 .main-text {
