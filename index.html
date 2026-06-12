@@ -4,87 +4,137 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Organigrama SPS</title>
-  <link rel="stylesheet" href="./style.css?v=2">
+  <link rel="stylesheet" href="./style.css?v=3">
 </head>
 
 <body>
-<div class="canvas">
+<div class="contenedor-svg">
 
-  <button class="box main" id="subsecretario">SUBSECRETARIO/A</button>
+<svg viewBox="0 0 1400 760" class="organigrama-svg">
 
-  <button class="box dark" id="auditoria">AUDITORÍA<br>INTERNA</button>
-  <button class="box dark" id="fiscalia">DIVISIÓN<br>FISCALÍA</button>
-  <button class="box dark" id="gabinete">GABINETE</button>
+  <defs>
+    <marker id="flecha" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2f3192"/>
+    </marker>
+  </defs>
 
-  <p class="label control">Áreas de Control</p>
-  <p class="label asesoria">Áreas de Asesoría</p>
-  <p class="label negocio">Áreas de Negocio</p>
-  <p class="label soporte">Áreas de Soporte</p>
+  <!-- LÍNEAS PRINCIPALES -->
+  <line x1="700" y1="90" x2="700" y2="160" class="linea"/>
+  <line x1="700" y1="240" x2="700" y2="320" class="linea"/>
+  <line x1="120" y1="320" x2="1280" y2="320" class="linea"/>
 
-  <button class="box small" id="seguridad">Unidad de Seguridad<br>de la Información y<br>Protección de Datos<br>Personales</button>
+  <!-- Flechas a direcciones -->
+  <line x1="120" y1="320" x2="120" y2="370" class="linea flecha"/>
+  <line x1="260" y1="320" x2="260" y2="370" class="linea flecha"/>
+  <line x1="400" y1="320" x2="400" y2="370" class="linea flecha"/>
+  <line x1="540" y1="320" x2="540" y2="370" class="linea flecha"/>
+  <line x1="930" y1="320" x2="930" y2="370" class="linea flecha"/>
+  <line x1="1280" y1="320" x2="1280" y2="370" class="linea flecha"/>
 
-  <button class="box small" id="participacion">Unidad de<br>Participación<br>Ciudadana y Género</button>
-  <button class="box small" id="asesores">Asesores</button>
-  <button class="box small" id="prensa">Unidad de Prensa y<br>Comunicaciones</button>
+  <!-- Control y asesoría -->
+  <polyline points="630,70 530,70 530,110 490,110" class="linea flecha"/>
+  <polyline points="620,200 490,200" class="linea flecha"/>
+  <polyline points="780,200 880,200 880,110 920,110" class="linea flecha"/>
+  <polyline points="880,200 920,200" class="linea flecha"/>
+  <polyline points="880,200 880,290 920,290" class="linea flecha"/>
+  <line x1="360" y1="200" x2="260" y2="200" class="linea flecha"/>
 
-  <button class="box dark dir" id="educacion">DIRECCIÓN DE<br>EDUCACIÓN<br>PREVISIONAL</button>
-  <button class="box dark dir" id="estudios">DIRECCIÓN DE<br>ESTUDIOS<br>PREVISIONALES</button>
-  <button class="box dark dir" id="coordinacion">DIRECCIÓN DE<br>COORDINACIÓN<br>INSTITUCIONAL</button>
-  <button class="box dark dir" id="legislativa">DIVISIÓN DE<br>ASESORÍA<br>LEGISLATIVA Y<br>SEGURIDAD LABORAL</button>
+  <!-- Subunidades negocio -->
+  <line x1="120" y1="450" x2="120" y2="500" class="linea flecha"/>
+  <line x1="260" y1="450" x2="260" y2="500" class="linea flecha"/>
+  <line x1="260" y1="560" x2="260" y2="610" class="linea flecha"/>
+  <line x1="400" y1="450" x2="400" y2="500" class="linea flecha"/>
+  <line x1="400" y1="560" x2="400" y2="610" class="linea flecha"/>
 
-  <button class="box dark dir" id="admin">DIRECCIÓN DE<br>ADMINISTRACIÓN<br>Y FINANZAS</button>
-  <button class="box dark dir" id="ti">DIRECCIÓN DE<br>TECNOLOGÍA DE<br>LA INFORMACIÓN</button>
+  <!-- Administración -->
+  <line x1="930" y1="450" x2="930" y2="485" class="linea"/>
+  <line x1="680" y1="485" x2="1180" y2="485" class="linea"/>
+  <line x1="680" y1="485" x2="680" y2="520" class="linea flecha"/>
+  <line x1="805" y1="485" x2="805" y2="520" class="linea flecha"/>
+  <line x1="930" y1="485" x2="930" y2="520" class="linea flecha"/>
+  <line x1="1055" y1="485" x2="1055" y2="520" class="linea flecha"/>
+  <line x1="1180" y1="485" x2="1180" y2="520" class="linea flecha"/>
 
-  <button class="box small" id="u-educacion">Unidad de<br>Educación<br>Previsional</button>
-  <button class="box small" id="observatorio">Unidad de<br>Observatorio<br>Previsional</button>
-  <button class="box small" id="analisis">Unidad de Análisis<br>de Políticas<br>Previsionales</button>
-  <button class="box small" id="atencion">Unidad de<br>Atención<br>Ciudadana y OIRS</button>
-  <button class="box small" id="coord-inst">Unidad de<br>Coordinación<br>Institucional</button>
+  <line x1="680" y1="580" x2="680" y2="625" class="linea flecha"/>
+  <line x1="680" y1="685" x2="680" y2="725" class="linea flecha"/>
+  <line x1="930" y1="580" x2="930" y2="625" class="linea flecha"/>
+  <line x1="930" y1="685" x2="930" y2="725" class="linea flecha"/>
 
-  <button class="box small" id="presupuesto">Unidad de<br>Presupuesto,<br>Finanzas y Control<br>Sectorial</button>
-  <button class="box small" id="gestion-personas">Unidad de Gestión<br>y Desarrollo de<br>Personas</button>
-  <button class="box small" id="adquisiciones">Unidad de<br>Adquisiciones y<br>Servicios Generales</button>
-  <button class="box small" id="control-gestion">Unidad de Control<br>de Gestión</button>
-  <button class="box small" id="contratos">Unidad de Gestión<br>de Contratos</button>
+  <!-- TI -->
+  <line x1="1280" y1="450" x2="1280" y2="520" class="linea flecha"/>
+  <line x1="1280" y1="580" x2="1280" y2="640" class="linea flecha"/>
 
-  <button class="box mini" id="proyectos">Subunidad de<br>Presupuesto y<br>Control Sector<br>Previsional</button>
-  <button class="box mini" id="contabilidad">Subunidad de<br>Contabilidad</button>
-  <button class="box mini" id="tesoreria">Subunidad de<br>Tesorería</button>
+  <!-- ETIQUETAS -->
+  <text x="170" y="125" class="etiqueta">Áreas de Control</text>
+  <text x="1060" y="150" class="etiqueta">Áreas de Asesoría</text>
+  <text x="200" y="345" class="etiqueta">Áreas de Negocio</text>
+  <text x="1020" y="345" class="etiqueta">Áreas de Soporte</text>
 
-  <button class="box mini" id="partes">Oficina de<br>Partes</button>
-  <button class="box mini" id="inventario">Inventario</button>
+  <!-- CAJAS -->
+  <g class="caja azul" onclick="abrirPopup('subsecretaria')">
+    <rect x="620" y="30" width="200" height="60"/>
+    <text x="720" y="67">SUBSECRETARIO/A</text>
+  </g>
 
-  <button class="box small" id="sistemas">Unidad de Sistemas<br>e Inteligencia de<br>Negocios</button>
-  <button class="box small" id="infra">Unidad de<br>Infraestructura y<br>Soporte</button>
+  <g class="caja azul" onclick="abrirPopup('auditoria')">
+    <rect x="360" y="80" width="130" height="80"/>
+    <text x="425" y="115">AUDITORÍA</text>
+    <text x="425" y="135">INTERNA</text>
+  </g>
 
-  <svg class="lines" viewBox="0 0 1200 700" preserveAspectRatio="none">
-    <path d="M600 92 L600 150" />
-    <path d="M600 190 L600 300" />
-    <path d="M600 300 L75 300" />
-    <path d="M600 300 L1130 300" />
+  <g class="caja azul" onclick="abrirPopup('fiscalia')">
+    <rect x="360" y="170" width="130" height="80"/>
+    <text x="425" y="205">DIVISIÓN</text>
+    <text x="425" y="225">FISCALÍA</text>
+  </g>
 
-    <path d="M75 300 L75 335" />
-    <path d="M205 300 L205 335" />
-    <path d="M335 300 L335 335" />
-    <path d="M465 300 L465 335" />
-    <path d="M805 300 L805 335" />
-    <path d="M1110 300 L1110 335" />
+  <g class="caja azul" onclick="abrirPopup('gabinete')">
+    <rect x="620" y="170" width="140" height="80"/>
+    <text x="690" y="215">GABINETE</text>
+  </g>
 
-    <path d="M480 170 L350 170" />
-    <path d="M350 170 L350 165" />
+  <g class="caja blanca"><rect x="160" y="170" width="110" height="60"/><text x="215" y="190">Unidad de Seguridad</text><text x="215" y="205">de la Información y</text><text x="215" y="220">Protección de Datos</text></g>
 
-    <path d="M600 92 L460 92" />
-    <path d="M460 92 L460 128" />
-    <path d="M460 128 L425 128" />
+  <g class="caja blanca"><rect x="920" y="80" width="120" height="60"/><text x="980" y="105">Unidad de</text><text x="980" y="120">Participación</text><text x="980" y="135">Ciudadana y Género</text></g>
+  <g class="caja blanca"><rect x="920" y="165" width="120" height="60"/><text x="980" y="200">Asesores</text></g>
+  <g class="caja blanca"><rect x="920" y="250" width="120" height="60"/><text x="980" y="275">Unidad de Prensa y</text><text x="980" y="290">Comunicaciones</text></g>
 
-    <path d="M675 170 L755 170" />
-    <path d="M755 125 L755 215" />
-    <path d="M755 125 L785 125" />
-    <path d="M755 170 L785 170" />
-    <path d="M755 215 L785 215" />
-  </svg>
+  <!-- Direcciones negocio -->
+  <g class="caja azul"><rect x="60" y="370" width="130" height="80"/><text x="125" y="400">DIRECCIÓN DE</text><text x="125" y="418">EDUCACIÓN</text><text x="125" y="436">PREVISIONAL</text></g>
+  <g class="caja azul"><rect x="200" y="370" width="130" height="80"/><text x="265" y="400">DIRECCIÓN DE</text><text x="265" y="418">ESTUDIOS</text><text x="265" y="436">PREVISIONALES</text></g>
+  <g class="caja azul"><rect x="340" y="370" width="130" height="80"/><text x="405" y="398">DIRECCIÓN DE</text><text x="405" y="416">COORDINACIÓN</text><text x="405" y="434">INSTITUCIONAL</text></g>
+  <g class="caja azul"><rect x="480" y="370" width="130" height="80"/><text x="545" y="393">DIVISIÓN DE</text><text x="545" y="411">ASESORÍA</text><text x="545" y="429">LEGISLATIVA Y</text><text x="545" y="447">SEGURIDAD LABORAL</text></g>
+
+  <!-- Soporte -->
+  <g class="caja azul"><rect x="865" y="370" width="130" height="80"/><text x="930" y="400">DIRECCIÓN DE</text><text x="930" y="418">ADMINISTRACIÓN</text><text x="930" y="436">Y FINANZAS</text></g>
+  <g class="caja azul"><rect x="1215" y="370" width="130" height="80"/><text x="1280" y="398">DIRECCIÓN DE</text><text x="1280" y="416">TECNOLOGÍA DE</text><text x="1280" y="434">LA INFORMACIÓN</text></g>
+
+  <!-- Unidades -->
+  <g class="caja blanca"><rect x="75" y="500" width="100" height="60"/><text x="125" y="525">Unidad de</text><text x="125" y="540">Educación</text><text x="125" y="555">Previsional</text></g>
+  <g class="caja blanca"><rect x="210" y="500" width="100" height="60"/><text x="260" y="525">Unidad de</text><text x="260" y="540">Observatorio</text><text x="260" y="555">Previsional</text></g>
+  <g class="caja blanca"><rect x="210" y="610" width="100" height="60"/><text x="260" y="635">Unidad de Análisis</text><text x="260" y="650">de Políticas</text><text x="260" y="665">Previsionales</text></g>
+  <g class="caja blanca"><rect x="350" y="500" width="100" height="60"/><text x="400" y="525">Unidad de</text><text x="400" y="540">Atención</text><text x="400" y="555">Ciudadana y OIRS</text></g>
+  <g class="caja blanca"><rect x="350" y="610" width="100" height="60"/><text x="400" y="635">Unidad de</text><text x="400" y="650">Coordinación</text><text x="400" y="665">Institucional</text></g>
+
+  <g class="caja blanca"><rect x="630" y="520" width="100" height="60"/><text x="680" y="540">Unidad de</text><text x="680" y="555">Presupuesto,</text><text x="680" y="570">Finanzas y Control</text></g>
+  <g class="caja blanca"><rect x="755" y="520" width="100" height="60"/><text x="805" y="545">Unidad de Gestión</text><text x="805" y="560">y Desarrollo de</text><text x="805" y="575">Personas</text></g>
+  <g class="caja blanca"><rect x="880" y="520" width="100" height="60"/><text x="930" y="540">Unidad de</text><text x="930" y="555">Adquisiciones y</text><text x="930" y="570">Servicios Generales</text></g>
+  <g class="caja blanca"><rect x="1005" y="520" width="100" height="60"/><text x="1055" y="545">Unidad de Control</text><text x="1055" y="560">de Gestión</text></g>
+  <g class="caja blanca"><rect x="1130" y="520" width="100" height="60"/><text x="1180" y="545">Unidad de Gestión</text><text x="1180" y="560">de Contratos</text></g>
+
+  <g class="caja blanca"><rect x="630" y="625" width="100" height="60"/><text x="680" y="650">Subunidad de</text><text x="680" y="665">Presupuesto y</text><text x="680" y="680">Control Sectorial</text></g>
+  <g class="caja blanca"><rect x="630" y="725" width="100" height="35"/><text x="680" y="748">Subunidad de Tesorería</text></g>
+
+  <g class="caja blanca"><rect x="880" y="625" width="100" height="60"/><text x="930" y="655">Oficina de</text><text x="930" y="670">Partes</text></g>
+  <g class="caja blanca"><rect x="880" y="725" width="100" height="35"/><text x="930" y="748">Inventario</text></g>
+
+  <g class="caja blanca"><rect x="1230" y="520" width="100" height="60"/><text x="1280" y="540">Unidad de Sistemas</text><text x="1280" y="555">e Inteligencia de</text><text x="1280" y="570">Negocios</text></g>
+  <g class="caja blanca"><rect x="1230" y="640" width="100" height="60"/><text x="1280" y="665">Unidad de</text><text x="1280" y="680">Infraestructura y</text><text x="1280" y="695">Soporte</text></g>
+
+</svg>
 
 </div>
 
+<script src="./script.js?v=3"></script>
 </body>
 </html>
