@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Organigrama SPS</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
+  <h1>ORGANIGRAMA</h1>
+  <h2>SUBSECRETARÍA DE PREVISIÓN SOCIAL</h2>
+
+  <main class="organigrama">
+
+    <div class="nivel nivel-1">
+      <button class="card principal" onclick="abrirPopup('subsecretaria')">
+        SUBSECRETARIO/A
+      </button>
+    </div>
+
+    <div class="nivel nivel-2">
+      <button class="card" onclick="abrirPopup('auditoria')">
+        AUDITORÍA<br>INTERNA
+      </button>
+
+      <button class="card" onclick="abrirPopup('gabinete')">
+        GABINETE
+      </button>
+
+      <button class="card" onclick="abrirPopup('fiscalia')">
+        DIVISIÓN<br>FISCALÍA
+      </button>
+    </div>
+
+    <div class="nivel nivel-3">
+      <button class="card" onclick="abrirPopup('educacion')">
+        DIRECCIÓN DE<br>EDUCACIÓN PREVISIONAL
+      </button>
+
+      <button class="card" onclick="abrirPopup('estudios')">
+        DIRECCIÓN DE<br>ESTUDIOS PREVISIONALES
+      </button>
+
+      <button class="card" onclick="abrirPopup('coordinacion')">
+        DIRECCIÓN DE<br>COORDINACIÓN INSTITUCIONAL
+      </button>
+
+      <button class="card" onclick="abrirPopup('administracion')">
+        DIRECCIÓN DE<br>ADMINISTRACIÓN Y FINANZAS
+      </button>
+
+      <button class="card" onclick="abrirPopup('ti')">
+        DIRECCIÓN DE<br>TECNOLOGÍA DE LA INFORMACIÓN
+      </button>
+    </div>
+
+  </main>
+
+  <div id="popup" class="popup">
+    <div class="popup-contenido">
+      <span class="cerrar" onclick="cerrarPopup()">&times;</span>
+      <h3 id="popup-titulo"></h3>
+      <h4 id="popup-nombre"></h4>
+      <p id="popup-texto"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
