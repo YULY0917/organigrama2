@@ -8,78 +8,81 @@
 </head>
 
 <body>
+<div class="canvas">
 
-<div class="organigrama">
+  <button class="box main" id="subsecretario">SUBSECRETARIO/A</button>
 
-  <div class="fila centro">
-    <button class="card grande">SUBSECRETARIO/A</button>
-  </div>
+  <button class="box dark" id="auditoria">AUDITORÍA<br>INTERNA</button>
+  <button class="box dark" id="fiscalia">DIVISIÓN<br>FISCALÍA</button>
+  <button class="box dark" id="gabinete">GABINETE</button>
 
-  <div class="fila centro">
-    <button class="card">AUDITORÍA INTERNA</button>
-    <button class="card">GABINETE</button>
-    <button class="card">DIVISIÓN FISCALÍA</button>
-  </div>
+  <p class="label control">Áreas de Control</p>
+  <p class="label asesoria">Áreas de Asesoría</p>
+  <p class="label negocio">Áreas de Negocio</p>
+  <p class="label soporte">Áreas de Soporte</p>
 
-  <p class="area">ÁREAS DE ASESORÍA</p>
+  <button class="box small" id="seguridad">Unidad de Seguridad<br>de la Información y<br>Protección de Datos<br>Personales</button>
 
-  <div class="fila centro">
-    <button class="card small">PARTICIPACIÓN CIUDADANA Y GÉNERO</button>
-    <button class="card small">ASESORES</button>
-    <button class="card small">PRENSA Y COMUNICACIONES</button>
-    <button class="card small">CONTRATACIÓN PÚBLICA</button>
-    <button class="card small">CUMPLIMIENTO NORMATIVO</button>
-  </div>
+  <button class="box small" id="participacion">Unidad de<br>Participación<br>Ciudadana y Género</button>
+  <button class="box small" id="asesores">Asesores</button>
+  <button class="box small" id="prensa">Unidad de Prensa y<br>Comunicaciones</button>
 
-  <p class="area">ÁREAS DE NEGOCIO</p>
+  <button class="box dark dir" id="educacion">DIRECCIÓN DE<br>EDUCACIÓN<br>PREVISIONAL</button>
+  <button class="box dark dir" id="estudios">DIRECCIÓN DE<br>ESTUDIOS<br>PREVISIONALES</button>
+  <button class="box dark dir" id="coordinacion">DIRECCIÓN DE<br>COORDINACIÓN<br>INSTITUCIONAL</button>
+  <button class="box dark dir" id="legislativa">DIVISIÓN DE<br>ASESORÍA<br>LEGISLATIVA Y<br>SEGURIDAD LABORAL</button>
 
-  <div class="fila grupos">
-    <div class="grupo">
-      <button class="card">DIRECCIÓN DE EDUCACIÓN PREVISIONAL</button>
-      <button class="card small">UNIDAD DE EDUCACIÓN PREVISIONAL</button>
-      <button class="card small">FONDO PARA LA EDUCACIÓN PREVISIONAL</button>
-    </div>
+  <button class="box dark dir" id="admin">DIRECCIÓN DE<br>ADMINISTRACIÓN<br>Y FINANZAS</button>
+  <button class="box dark dir" id="ti">DIRECCIÓN DE<br>TECNOLOGÍA DE<br>LA INFORMACIÓN</button>
 
-    <div class="grupo">
-      <button class="card">DIRECCIÓN DE ESTUDIOS PREVISIONALES</button>
-      <button class="card small">OBSERVATORIO PREVISIONAL</button>
-      <button class="card small">ANÁLISIS DE POLÍTICAS PREVISIONALES</button>
-    </div>
+  <button class="box small" id="u-educacion">Unidad de<br>Educación<br>Previsional</button>
+  <button class="box small" id="observatorio">Unidad de<br>Observatorio<br>Previsional</button>
+  <button class="box small" id="analisis">Unidad de Análisis<br>de Políticas<br>Previsionales</button>
+  <button class="box small" id="atencion">Unidad de<br>Atención<br>Ciudadana y OIRS</button>
+  <button class="box small" id="coord-inst">Unidad de<br>Coordinación<br>Institucional</button>
 
-    <div class="grupo">
-      <button class="card">DIRECCIÓN DE COORDINACIÓN INSTITUCIONAL</button>
-      <button class="card small">ATENCIÓN CIUDADANA Y OIRS</button>
-      <button class="card small">COORDINACIÓN Y SEGUIMIENTO LEGISLATIVO</button>
-    </div>
+  <button class="box small" id="presupuesto">Unidad de<br>Presupuesto,<br>Finanzas y Control<br>Sectorial</button>
+  <button class="box small" id="gestion-personas">Unidad de Gestión<br>y Desarrollo de<br>Personas</button>
+  <button class="box small" id="adquisiciones">Unidad de<br>Adquisiciones y<br>Servicios Generales</button>
+  <button class="box small" id="control-gestion">Unidad de Control<br>de Gestión</button>
+  <button class="box small" id="contratos">Unidad de Gestión<br>de Contratos</button>
 
-    <div class="grupo">
-      <button class="card">DIVISIÓN DE ASESORÍA LEGISLATIVA Y SEGURIDAD LABORAL</button>
-      <button class="card small">ASESORÍA LEGISLATIVA Y CONVENIOS INTERNACIONALES</button>
-      <button class="card small">SEGURIDAD Y SALUD LABORAL</button>
-    </div>
-  </div>
+  <button class="box mini" id="proyectos">Subunidad de<br>Presupuesto y<br>Control Sector<br>Previsional</button>
+  <button class="box mini" id="contabilidad">Subunidad de<br>Contabilidad</button>
+  <button class="box mini" id="tesoreria">Subunidad de<br>Tesorería</button>
 
-  <p class="area">ÁREAS DE SOPORTE</p>
+  <button class="box mini" id="partes">Oficina de<br>Partes</button>
+  <button class="box mini" id="inventario">Inventario</button>
 
-  <div class="fila grupos">
-    <div class="grupo grande-grupo">
-      <button class="card">DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS</button>
-      <button class="card small">PRESUPUESTO, FINANZAS Y CONTROL SECTORIAL</button>
-      <button class="card small">GESTIÓN FINANCIERA</button>
-      <button class="card small">TESORERÍA</button>
-      <button class="card small">ADQUISICIONES Y SERVICIOS GENERALES</button>
-      <button class="card small">OFICINA DE PARTES</button>
-      <button class="card small">GESTIÓN Y DESARROLLO DE PERSONAS</button>
-      <button class="card small">CONTROL DE GESTIÓN</button>
-    </div>
+  <button class="box small" id="sistemas">Unidad de Sistemas<br>e Inteligencia de<br>Negocios</button>
+  <button class="box small" id="infra">Unidad de<br>Infraestructura y<br>Soporte</button>
 
-    <div class="grupo">
-      <button class="card">DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN</button>
-      <button class="card small">SISTEMAS E INTELIGENCIA DE NEGOCIOS</button>
-      <button class="card small">INFRAESTRUCTURA, SOPORTE Y SEGURIDAD</button>
-      <button class="card small">ADMINISTRACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN</button>
-    </div>
-  </div>
+  <svg class="lines" viewBox="0 0 1200 700" preserveAspectRatio="none">
+    <path d="M600 92 L600 150" />
+    <path d="M600 190 L600 300" />
+    <path d="M600 300 L75 300" />
+    <path d="M600 300 L1130 300" />
+
+    <path d="M75 300 L75 335" />
+    <path d="M205 300 L205 335" />
+    <path d="M335 300 L335 335" />
+    <path d="M465 300 L465 335" />
+    <path d="M805 300 L805 335" />
+    <path d="M1110 300 L1110 335" />
+
+    <path d="M480 170 L350 170" />
+    <path d="M350 170 L350 165" />
+
+    <path d="M600 92 L460 92" />
+    <path d="M460 92 L460 128" />
+    <path d="M460 128 L425 128" />
+
+    <path d="M675 170 L755 170" />
+    <path d="M755 125 L755 215" />
+    <path d="M755 125 L785 125" />
+    <path d="M755 170 L785 170" />
+    <path d="M755 215 L785 215" />
+  </svg>
 
 </div>
 
