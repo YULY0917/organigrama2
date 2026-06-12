@@ -15,24 +15,26 @@ h2 {
 
 h1 {
   font-size: 18px;
-  letter-spacing: 0.3px;
 }
 
 h2 {
   font-size: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .wrapper {
   width: 100%;
+  display: flex;
+  justify-content: center;
   overflow-x: auto;
 }
 
 .org {
+  width: 100%;
+  max-width: 1250px;
+  height: auto;
   display: block;
-  width: 1500px;
-  height: 900px;
-  margin: 0 auto;
+  background: #f4f4f4;
 }
 
 .line {
@@ -87,7 +89,7 @@ h2 {
 
 .area-label {
   fill: #2f3192;
-  font-size: 18px;
+  font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
 }
