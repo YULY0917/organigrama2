@@ -1,72 +1,86 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Organigrama SPS</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+
+  <h1>ORGANIGRAMA</h1>
+  <h2>SUBSECRETARÍA DE PREVISIÓN SOCIAL</h2>
+
   <main class="organigrama">
 
-    <div class="nivel nivel-1">
-      <button class="card principal" onclick="abrirPopup('subsecretaria')">
-        SUBSECRETARIO/A
-      </button>
-    </div>
+    <!-- NIVEL SUPERIOR -->
+    <section class="nivel superior">
+      <button class="card principal">SUBSECRETARIO/A</button>
+    </section>
 
-    <div class="nivel nivel-2">
-      <button class="card" onclick="abrirPopup('auditoria')">
-        AUDITORÍA<br>INTERNA
-      </button>
+    <!-- CONTROL -->
+    <h3 class="titulo-area">ÁREAS DE CONTROL</h3>
+    <section class="nivel">
+      <button class="card">AUDITORÍA INTERNA</button>
+    </section>
 
-      <button class="card" onclick="abrirPopup('gabinete')">
-        GABINETE
-      </button>
-      
-    <div class="nivel nivel-2">
-      <button class="card" onclick="abrirPopup('fiscalia')">
-        DIVISIÓN<br>FISCALÍA
-      </button>
-    </div>
+    <!-- ASESORÍA -->
+    <h3 class="titulo-area">ÁREAS DE ASESORÍA</h3>
+    <section class="nivel">
+      <button class="card">GABINETE</button>
+      <button class="card">DIVISIÓN FISCALÍA</button>
+      <button class="card">ASESORES</button>
+      <button class="card">PRENSA Y COMUNICACIONES</button>
+      <button class="card">PARTICIPACIÓN CIUDADANA Y GÉNERO</button>
+    </section>
 
-    <div class="nivel nivel-3">
-      <button class="card" onclick="abrirPopup('educacion')">
-        DIRECCIÓN DE<br>EDUCACIÓN PREVISIONAL
-      </button>
+    <section class="nivel subnivel">
+      <button class="card small">CONTRATACIÓN PÚBLICA Y COORDINACIÓN ADMINISTRATIVA</button>
+      <button class="card small">CUMPLIMIENTO NORMATIVO, TRANSPARENCIA E INTEGRIDAD</button>
+    </section>
 
-      <button class="card" onclick="abrirPopup('estudios')">
-        DIRECCIÓN DE<br>ESTUDIOS PREVISIONALES
-      </button>
+    <!-- NEGOCIO -->
+    <h3 class="titulo-area">ÁREAS DE NEGOCIO</h3>
+    <section class="nivel">
+      <button class="card">DIRECCIÓN DE EDUCACIÓN PREVISIONAL</button>
+      <button class="card">DIRECCIÓN DE ESTUDIOS PREVISIONALES</button>
+      <button class="card">DIRECCIÓN DE COORDINACIÓN INSTITUCIONAL</button>
+      <button class="card">DIVISIÓN DE ASESORÍA LEGISLATIVA Y SEGURIDAD LABORAL</button>
+    </section>
 
-      <button class="card" onclick="abrirPopup('coordinacion')">
-        DIRECCIÓN DE<br>COORDINACIÓN INSTITUCIONAL
-      </button>
+    <section class="nivel subnivel">
+      <button class="card small">UNIDAD DE EDUCACIÓN PREVISIONAL</button>
+      <button class="card small">FONDO PARA LA EDUCACIÓN PREVISIONAL</button>
+      <button class="card small">OBSERVATORIO PREVISIONAL</button>
+      <button class="card small">ANÁLISIS DE POLÍTICAS PREVISIONALES</button>
+      <button class="card small">ATENCIÓN CIUDADANA Y OIRS</button>
+      <button class="card small">COORDINACIÓN Y SEGUIMIENTO LEGISLATIVO</button>
+      <button class="card small">ASESORÍA LEGISLATIVA Y CONVENIOS INTERNACIONALES</button>
+      <button class="card small">SEGURIDAD Y SALUD LABORAL</button>
+    </section>
 
-      <div class="nivel nivel-3">
-      <button class="card" onclick="abrirPopup('educacion')">
-        DIVISIÓN DE<br>ASESORIA LEGISLATIVA Y <br>SEGURIDAD LABORAL
-      </button>
+    <!-- SOPORTE -->
+    <h3 class="titulo-area">ÁREAS DE SOPORTE</h3>
+    <section class="nivel">
+      <button class="card">DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS</button>
+      <button class="card">DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN</button>
+    </section>
 
-      <button class="card" onclick="abrirPopup('administracion')">
-        DIRECCIÓN DE<br>ADMINISTRACIÓN Y FINANZAS
-      </button>
-
-      <button class="card" onclick="abrirPopup('ti')">
-        DIRECCIÓN DE<br>TECNOLOGÍA DE LA INFORMACIÓN
-      </button>
-    </div>
+    <section class="nivel subnivel">
+      <button class="card small">PRESUPUESTO, FINANZAS Y CONTROL SECTORIAL</button>
+      <button class="card small">GESTIÓN FINANCIERA</button>
+      <button class="card small">TESORERÍA</button>
+      <button class="card small">ADQUISICIONES Y SERVICIOS GENERALES</button>
+      <button class="card small">OFICINA DE PARTES</button>
+      <button class="card small">GESTIÓN Y DESARROLLO DE PERSONAS</button>
+      <button class="card small">CONTROL DE GESTIÓN</button>
+      <button class="card small">SISTEMAS E INTELIGENCIA DE NEGOCIOS</button>
+      <button class="card small">INFRAESTRUCTURA, SOPORTE Y SEGURIDAD DE LA INFORMACIÓN</button>
+      <button class="card small">ADMINISTRACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN</button>
+    </section>
 
   </main>
-
-  <div id="popup" class="popup">
-    <div class="popup-contenido">
-      <span class="cerrar" onclick="cerrarPopup()">&times;</span>
-      <h3 id="popup-titulo"></h3>
-      <h4 id="popup-nombre"></h4>
-      <p id="popup-texto"></p>
-    </div>
-  </div>
 
   <script src="script.js"></script>
 </body>
