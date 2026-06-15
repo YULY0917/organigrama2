@@ -10,10 +10,11 @@ const datos = {
     titulo: "Gabinete",
     nombre: "Cristian Olivares Pino",
     cargo: "Jefe de Gabinete",
-    texto: `Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, a través de acciones de coordinación entre sus distintas Divisiones, Direcciones, Unidades y Subunidades para el funcionamiento eficiente del servicio y la 
-    implementación de los productos estratégicos.Además, asesora a la autoridad del servicio en todas las materias relacionadas con el quehacer técnico y administrativo de la Subsecretaría. <br> Gabinete se relacionará directamente con la autoridad entregando la información e insumos necesarios para la toma de decisiones y 
-    el adecuado control interno de la Institución. </br><br>Este se relaciona de manera directa con los jefes/as de Gabinete de los servicios relacionados del sector previsional con el objetivo de entregar los lineamientos de la autoridad y
-    supervisar la implementación de las políticas y el desarrollo del programa de Gobierno.</br> `
+    texto: `Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, a través de acciones de coordinación entre sus distintas Divisiones, Direcciones, Unidades y Subunidades para el funcionamiento eficiente del servicio y la implementación de los productos estratégicos. Además, asesora a la autoridad del servicio en todas las materias relacionadas con el quehacer técnico y administrativo de la Subsecretaría.
+    
+    Gabinete se relacionará directamente con la autoridad entregando la información e insumos necesarios para la toma de decisiones y el adecuado control interno de la Institución.
+    
+    Este se relaciona de manera directa con los jefes/as de Gabinete de los servicios relacionados del sector previsional con el objetivo de entregar los lineamientos de la autoridad y supervisar la implementación de las políticas y el desarrollo del programa de Gobierno. `
   },
 
   auditoria: {
