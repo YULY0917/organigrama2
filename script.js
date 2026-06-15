@@ -39,8 +39,16 @@ const datos = {
     titulo: "División Fiscalía",
     nombre: "Jaime Ale Tapia",
     cargo: "Fiscal",
-    texto: `Vela por la legalidad y control de los actos administrativos de la Subsecretaría, asesorando jurídicamente a las distintas áreas del servicio.`
-  },
+    texto: `División responsable de velar por la legalidad y control tanto de las actuaciones y/o de los actos administrativos que se suscriban al interior de la Subsecretaría, asesorando al Gabinete, otras Divisiones, Direcciones, Unidades y Subunidades para el cumplimiento de las leyes, reglamentos e instrucciones internas del Servicio. 
+
+    Sus funciones son:
+
+        -	Asesorar a la autoridad en la dictación de los actos administrativos que requiera la Institución para el debido cumplimiento de sus funciones y todas aquellas materias jurídicas que requiera una interpretación y análisis, proporcionando soluciones oportunas, ajustadas a derecho y en el marco legal vigente.
+        -	Coordinar las acciones relativas al Sistema de Integridad Pública, velando por el estricto cumplimiento de la probidad administrativa y la ética pública, así como los compromisos relativos a la Unidad de Análisis Financiero (UAF) y el sistema interno de prevención de lavado de activos, financiamiento del terrorismo y delitos funcionarios. Corresponde a esta jefatura el cargo de Oficial de Cumplimiento Interno ante la UAF.
+        -	Gestionar respuestas oportunas y adecuadas a las solicitudes de información efectuadas invocando la ley N°20.285, de 2008, sobre Acceso a la Información Pública con el objetivo de cumplir con los principios de relevancia, libertad de información, apertura o transparencia, máxima divulgación, divisibilidad, facilitación, no discriminación, oportunidad, control, responsabilidad y gratuidad. 
+        -	Velar por el cumplimiento de la ley N°20.730, de 2014, que Regula el Lobby y las Gestiones que Representan Intereses Particulares ante la Autoridades y Funcionarios, con el objetivo de registrar y dar publicidad a las reuniones y audiencias solicitadas por lobbistas y gestores de intereses particulares que tengan como finalidad influir en una decisión pública, los viajes que realicen el ejercicio de sus funciones y los regalos que reciban en cuanto autoridad y funcionarios. 
+        -	Corresponde a su jefatura actuar como Ministro de Fe de la Institución. `
+ },
 
   seguridad: {
     titulo: "Unidad de Seguridad de la Información y Protección de Datos Personales",
