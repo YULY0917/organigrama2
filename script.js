@@ -3,7 +3,7 @@ const datos = {
     titulo: "Subsecretario/a",
     nombre: "María Elisa Cabezón Otero",
     cargo: "Subsecretaria de Previsión Social",
-    texto: `Jefatura superior de la Subsecretaría de Previsión Social, órgano de colaboración inmediata del Ministerio del Trabajo y Previsión Social.`
+    texto: `De conformidad con lo dispuesto en el artículo 41 de la ley Nº20.255 de 2008, el/la Subsecretario/a de Previsión Social es el/la jefe/a Superior de la Subsecretaría de Previsión Social, órgano de colaboración inmediata del Ministerio del Trabajo y Previsión Social.`
   },
 
   gabinete: {
