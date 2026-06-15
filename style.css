@@ -1,101 +1,316 @@
-body {
-  margin: 0;
-  padding: 10px;
-  font-family: Arial, Helvetica, sans-serif;
-  background: #f4f4f4;
-  color: #111;
-}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Organigrama SPS</title>
+  <link rel="stylesheet" href="style.css?v=600" />
+</head>
 
-h1,
-h2 {
-  text-align: center;
-  margin: 0;
-  font-weight: 700;
-}
+<body>
 
-h1 {
-  font-size: 18px;
-}
+<h1>ORGANIGRAMA</h1>
+<h2>SUBSECRETARÍA DE PREVISIÓN SOCIAL</h2>
 
-h2 {
-  font-size: 15px;
-  margin-bottom: 10px;
-}
+<div class="wrapper">
 
-.wrapper {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  overflow-x: auto;
-}
+<svg class="org" viewBox="0 0 1200 780" xmlns="http://www.w3.org/2000/svg">
 
-.org {
-  width: 100%;
-  max-width: 1200px;
-  height: auto;
-  display: block;
-}
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 Z" fill="#2f3192"></path>
+    </marker>
+  </defs>
 
-.line {
-  stroke: #2f3192;
-  stroke-width: 2;
-  fill: none;
-}
+  <!-- LÍNEAS SUPERIORES -->
+  <line x1="600" y1="90" x2="600" y2="175" class="line"/>
+  <line x1="600" y1="245" x2="600" y2="335" class="line"/>
+  <line x1="80" y1="335" x2="1120" y2="335" class="line"/>
 
-.arrow {
-  marker-end: url(#arrow);
-}
+  <!-- CONTROL -->
+  <polyline points="540,65 485,65 485,115 445,115" class="line arrow"/>
+  <line x1="340" y1="205" x2="250" y2="205" class="line arrow"/>
+  <line x1="540" y1="205" x2="445" y2="205" class="line arrow"/>
 
-.box {
-  cursor: pointer;
-}
+  <!-- ASESORÍA -->
+  <line x1="660" y1="205" x2="790" y2="205" class="line"/>
+  <line x1="790" y1="120" x2="790" y2="285" class="line"/>
+  <line x1="790" y1="120" x2="830" y2="120" class="line arrow"/>
+  <line x1="790" y1="205" x2="830" y2="205" class="line arrow"/>
+  <line x1="790" y1="285" x2="830" y2="285" class="line arrow"/>
 
-.box rect {
-  stroke: #2f3192;
-  stroke-width: 2;
-}
+  <!-- FLECHAS HACIA DIRECCIONES -->
+  <line x1="110" y1="335" x2="110" y2="380" class="line arrow"/>
+  <line x1="240" y1="335" x2="240" y2="380" class="line arrow"/>
+  <line x1="370" y1="335" x2="370" y2="380" class="line arrow"/>
+  <line x1="500" y1="335" x2="500" y2="380" class="line arrow"/>
+  <line x1="780" y1="335" x2="780" y2="380" class="line arrow"/>
+  <line x1="1060" y1="335" x2="1060" y2="380" class="line arrow"/>
 
-.blue rect {
-  fill: #2f3192;
-}
+  <!-- NEGOCIO -->
+  <line x1="110" y1="450" x2="110" y2="500" class="line arrow"/>
 
-.white rect {
-  fill: #ffffff;
-}
+  <line x1="240" y1="450" x2="240" y2="490" class="line"/>
+  <line x1="205" y1="490" x2="205" y2="610" class="line"/>
+  <line x1="205" y1="520" x2="220" y2="520" class="line arrow"/>
+  <line x1="205" y1="590" x2="220" y2="590" class="line arrow"/>
 
-.box text {
-  font-family: Arial, Helvetica, sans-serif;
-  text-anchor: middle;
-  dominant-baseline: middle;
-  font-weight: 700;
-  pointer-events: none;
-}
+  <line x1="370" y1="450" x2="370" y2="490" class="line"/>
+  <line x1="335" y1="490" x2="335" y2="610" class="line"/>
+  <line x1="335" y1="520" x2="350" y2="520" class="line arrow"/>
+  <line x1="335" y1="590" x2="350" y2="590" class="line arrow"/>
 
-.blue text {
-  fill: #ffffff;
-  font-size: 10px;
-}
+  <!-- ADMINISTRACIÓN Y FINANZAS -->
+  <line x1="780" y1="450" x2="780" y2="490" class="line"/>
+  <line x1="600" y1="490" x2="960" y2="490" class="line"/>
+  <line x1="600" y1="490" x2="600" y2="520" class="line arrow"/>
+  <line x1="690" y1="490" x2="690" y2="520" class="line arrow"/>
+  <line x1="780" y1="490" x2="780" y2="520" class="line arrow"/>
+  <line x1="870" y1="490" x2="870" y2="520" class="line arrow"/>
+  <line x1="960" y1="490" x2="960" y2="520" class="line arrow"/>
 
-.white text {
-  fill: #2f3192;
-  font-size: 6.5px;
-}
+  <!-- SUBUNIDADES DE PRESUPUESTO -->
+  <line x1="600" y1="570" x2="570" y2="570" class="line"/>
+  <line x1="570" y1="570" x2="710" y2="570" class="line"/>
+  <line x1="570" y1="570" x2="570" y2="710" class="line"/>
+  <line x1="570" y1="585" x2="600" y2="585" class="line arrow"/>
+  <line x1="570" y1="645" x2="600" y2="645" class="line arrow"/>
+  <line x1="570" y1="695" x2="600" y2="695" class="line arrow"/>
 
-.main-text {
-  font-size: 14px !important;
-}
+  <!-- OFICINA DE PARTES E INVENTARIO DESDE ADQUISICIONES -->
+  <line x1="780" y1="570" x2="750" y2="570" class="line"/>
+  <line x1="750" y1="570" x2="870" y2="570" class="line"/>
+  <line x1="750" y1="570" x2="750" y2="665" class="line"/>
+  <line x1="750" y1="585" x2="780" y2="585" class="line arrow"/>
+  <line x1="750" y1="645" x2="780" y2="645" class="line arrow"/>
 
-.area-label {
-  fill: #2f3192;
-  font-size: 15px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 500;
-}
+  <!-- TECNOLOGÍA DE LA INFORMACIÓN -->
+  <line x1="1060" y1="450" x2="1060" y2="490" class="line"/>
+  <line x1="1030" y1="490" x2="1030" y2="645" class="line"/>
+  <line x1="1030" y1="520" x2="1060" y2="520" class="line arrow"/>
+  <line x1="1030" y1="625" x2="1060" y2="625" class="line arrow"/>
 
-.box:hover rect {
-  fill: #4547b8;
-}
+  <!-- ETIQUETAS -->
+  <text x="135" y="320" class="area-label">Áreas de Negocio</text>
+  <text x="890" y="320" class="area-label">Áreas de Soporte</text>
+  <text x="135" y="125" class="area-label">Áreas de Control</text>
+  <text x="960" y="150" class="area-label">Áreas de Asesoría</text>
 
-.box:hover text {
-  fill: #ffffff;
-}
+  <!-- SUBSECRETARIO -->
+  <g class="box blue" onclick="abrirPopup('subsecretaria')">
+    <rect x="540" y="35" width="140" height="55"></rect>
+    <text x="610" y="65" class="main-text">SUBSECRETARIO/A</text>
+  </g>
+
+  <!-- CONTROL -->
+  <g class="box blue" onclick="abrirPopup('auditoria')">
+    <rect x="340" y="85" width="105" height="70"></rect>
+    <text x="392" y="115">AUDITORÍA</text>
+    <text x="392" y="135">INTERNA</text>
+  </g>
+
+  <g class="box blue" onclick="abrirPopup('fiscalia')">
+    <rect x="340" y="175" width="105" height="70"></rect>
+    <text x="392" y="205">DIVISIÓN</text>
+    <text x="392" y="225">FISCALÍA</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('seguridad')">
+    <rect x="155" y="185" width="95" height="45"></rect>
+    <text x="202" y="198">Unidad de Seguridad</text>
+    <text x="202" y="210">de la Información y</text>
+    <text x="202" y="222">Protección de Datos</text>
+  </g>
+
+  <!-- GABINETE -->
+  <g class="box blue" onclick="abrirPopup('gabinete')">
+    <rect x="540" y="175" width="120" height="70"></rect>
+    <text x="600" y="215">GABINETE</text>
+  </g>
+
+  <!-- ASESORÍA -->
+  <g class="box white" onclick="abrirPopup('participacion')">
+    <rect x="830" y="95" width="110" height="45"></rect>
+    <text x="885" y="109">Unidad de</text>
+    <text x="885" y="121">Participación</text>
+    <text x="885" y="133">Ciudadana y Género</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('asesores')">
+    <rect x="830" y="185" width="110" height="45"></rect>
+    <text x="885" y="210">Asesores</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('prensa')">
+    <rect x="830" y="275" width="110" height="45"></rect>
+    <text x="885" y="292">Unidad de Prensa y</text>
+    <text x="885" y="305">Comunicaciones</text>
+  </g>
+
+  <!-- DIRECCIONES NEGOCIO -->
+  <g class="box blue" onclick="abrirPopup('educacion')">
+    <rect x="50" y="380" width="120" height="70"></rect>
+    <text x="110" y="405">DIRECCIÓN DE</text>
+    <text x="110" y="423">EDUCACIÓN</text>
+    <text x="110" y="441">PREVISIONAL</text>
+  </g>
+
+  <g class="box blue" onclick="abrirPopup('estudios')">
+    <rect x="180" y="380" width="120" height="70"></rect>
+    <text x="240" y="405">DIRECCIÓN DE</text>
+    <text x="240" y="423">ESTUDIOS</text>
+    <text x="240" y="441">PREVISIONALES</text>
+  </g>
+
+  <g class="box blue" onclick="abrirPopup('coordinacion')">
+    <rect x="310" y="380" width="120" height="70"></rect>
+    <text x="370" y="405">DIRECCIÓN DE</text>
+    <text x="370" y="423">COORDINACIÓN</text>
+    <text x="370" y="441">INSTITUCIONAL</text>
+  </g>
+
+  <g class="box blue" onclick="abrirPopup('legislativa')">
+    <rect x="440" y="380" width="120" height="70"></rect>
+    <text x="500" y="400">DIVISIÓN DE</text>
+    <text x="500" y="416">ASESORÍA</text>
+    <text x="500" y="432">LEGISLATIVA Y</text>
+    <text x="500" y="446">SEGURIDAD LABORAL</text>
+  </g>
+
+  <!-- SOPORTE -->
+  <g class="box blue" onclick="abrirPopup('admin')">
+    <rect x="720" y="380" width="120" height="70"></rect>
+    <text x="780" y="405">DIRECCIÓN DE</text>
+    <text x="780" y="423">ADMINISTRACIÓN</text>
+    <text x="780" y="441">Y FINANZAS</text>
+  </g>
+
+  <g class="box blue" onclick="abrirPopup('ti')">
+    <rect x="1000" y="380" width="120" height="70"></rect>
+    <text x="1060" y="405">DIRECCIÓN DE</text>
+    <text x="1060" y="423">TECNOLOGÍA DE</text>
+    <text x="1060" y="441">LA INFORMACIÓN</text>
+  </g>
+
+  <!-- UNIDADES NEGOCIO -->
+  <g class="box white" onclick="abrirPopup('u-educacion')">
+    <rect x="65" y="500" width="90" height="45"></rect>
+    <text x="110" y="515">Unidad de</text>
+    <text x="110" y="527">Educación</text>
+    <text x="110" y="539">Previsional</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('observatorio')">
+    <rect x="220" y="500" width="90" height="45"></rect>
+    <text x="265" y="515">Unidad de</text>
+    <text x="265" y="527">Observatorio</text>
+    <text x="265" y="539">Previsional</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('analisis')">
+    <rect x="220" y="570" width="90" height="45"></rect>
+    <text x="265" y="585">Unidad de Análisis</text>
+    <text x="265" y="597">de Políticas</text>
+    <text x="265" y="609">Previsionales</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('atencion')">
+    <rect x="350" y="500" width="90" height="45"></rect>
+    <text x="395" y="515">Unidad de</text>
+    <text x="395" y="527">Atención</text>
+    <text x="395" y="539">Ciudadana y OIRS</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('coord-inst')">
+    <rect x="350" y="570" width="90" height="45"></rect>
+    <text x="395" y="585">Unidad de</text>
+    <text x="395" y="597">Coordinación</text>
+    <text x="395" y="609">Institucional</text>
+  </g>
+
+  <!-- ADMINISTRACIÓN -->
+  <g class="box white" onclick="abrirPopup('presupuesto')">
+    <rect x="555" y="520" width="90" height="50"></rect>
+    <text x="600" y="535">Unidad de</text>
+    <text x="600" y="547">Presupuesto,</text>
+    <text x="600" y="559">Finanzas y Control</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('personas')">
+    <rect x="645" y="520" width="90" height="50"></rect>
+    <text x="690" y="537">Unidad de Gestión</text>
+    <text x="690" y="549">y Desarrollo de</text>
+    <text x="690" y="561">Personas</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('adquisiciones')">
+    <rect x="735" y="520" width="90" height="50"></rect>
+    <text x="780" y="535">Unidad de</text>
+    <text x="780" y="547">Adquisiciones y</text>
+    <text x="780" y="559">Servicios Generales</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('control')">
+    <rect x="825" y="520" width="90" height="50"></rect>
+    <text x="870" y="542">Unidad de Control</text>
+    <text x="870" y="555">de Gestión</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('contratos')">
+    <rect x="915" y="520" width="90" height="50"></rect>
+    <text x="960" y="542">Unidad de Gestión</text>
+    <text x="960" y="555">de Contratos</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('sub-presupuesto')">
+    <rect x="600" y="575" width="90" height="50"></rect>
+    <text x="645" y="592">Subunidad de</text>
+    <text x="645" y="604">Presupuesto y</text>
+    <text x="645" y="616">Control Sectorial</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('contabilidad')">
+    <rect x="600" y="635" width="90" height="45"></rect>
+    <text x="645" y="657">Subunidad de</text>
+    <text x="645" y="670">Contabilidad</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('tesoreria')">
+    <rect x="600" y="690" width="90" height="40"></rect>
+    <text x="645" y="709">Subunidad de</text>
+    <text x="645" y="721">Tesorería</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('partes')">
+    <rect x="780" y="575" width="90" height="50"></rect>
+    <text x="825" y="598">Oficina de</text>
+    <text x="825" y="611">Partes</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('inventario')">
+    <rect x="780" y="635" width="90" height="45"></rect>
+    <text x="825" y="660">Inventario</text>
+  </g>
+
+  <!-- TI -->
+  <g class="box white" onclick="abrirPopup('sistemas')">
+    <rect x="1060" y="500" width="90" height="50"></rect>
+    <text x="1105" y="515">Unidad de Sistemas</text>
+    <text x="1105" y="527">e Inteligencia de</text>
+    <text x="1105" y="539">Negocios</text>
+  </g>
+
+  <g class="box white" onclick="abrirPopup('infra')">
+    <rect x="1060" y="605" width="90" height="50"></rect>
+    <text x="1105" y="623">Unidad de</text>
+    <text x="1105" y="635">Infraestructura y</text>
+    <text x="1105" y="647">Soporte</text>
+  </g>
+
+</svg>
+
+</div>
+
+<script src="script.js?v=600"></script>
+</body>
+</html>
