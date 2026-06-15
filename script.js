@@ -3,91 +3,217 @@ const datos = {
     titulo: "Subsecretario/a",
     nombre: "María Elisa Cabezón Otero",
     cargo: "Subsecretaria de Previsión Social",
-    texto: "De conformidad con lo dispuesto en el artículo 41 de la Ley N°20.255 de 2008, el/la Subsecretario/a de Previsión Social es el/la jefe/a superior de la Subsecretaría de Previsión Social, órgano de colaboración inmediata del Ministerio del Trabajo y Previsión Social."
+    texto: `Jefatura superior de la Subsecretaría de Previsión Social, órgano de colaboración inmediata del Ministerio del Trabajo y Previsión Social.`
   },
 
   gabinete: {
     titulo: "Gabinete",
     nombre: "Cristian Olivares Pino",
     cargo: "Jefe de Gabinete",
-    texto: "Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, coordinando Divisiones, Direcciones, Unidades y Subunidades para el funcionamiento eficiente del servicio y la implementación de los productos estratégicos."
+    texto: `Ejerce el control general de la gestión institucional, coordinando Divisiones, Direcciones, Unidades y Subunidades para el funcionamiento eficiente del servicio y la implementación de los productos estratégicos.`
   },
 
   auditoria: {
     titulo: "Auditoría Interna",
     nombre: "Johnny Astudillo Rojas",
     cargo: "Jefatura Auditoría Interna",
-    texto: "Unidad encargada de prestar asesoría especializada en materias de auditoría y control interno a la autoridad superior de la Institución."
+    texto: `Presta asesoría especializada en auditoría y control interno. Evalúa sistemas de control, uso de recursos, cumplimiento normativo y seguimiento de recomendaciones.`
   },
 
   fiscalia: {
     titulo: "División Fiscalía",
     nombre: "Jaime Ale Tapia",
     cargo: "Fiscal",
-    texto: "División responsable de velar por la legalidad y control de las actuaciones y actos administrativos de la Subsecretaría, asesorando a las distintas áreas para el cumplimiento de la normativa vigente."
+    texto: `Vela por la legalidad y control de los actos administrativos de la Subsecretaría, asesorando jurídicamente a las distintas áreas del servicio.`
   },
 
-  asesores: {
-    titulo: "Asesores",
-    nombre: "Macarena Pinto Gutiérrez",
-    cargo: "Jefatura Asesores",
-    texto: "Área encargada de proporcionar apoyo técnico y político a la Subsecretaría mediante propuestas de elaboración y modificación del marco normativo previsional."
-  },
-
-  prensa: {
-    titulo: "Unidad de Prensa y Comunicaciones",
-    nombre: "Eugenio Figueroa Bustos",
-    cargo: "Jefatura Unidad de Prensa y Comunicaciones",
-    texto: "Unidad responsable de generar contenidos informativos sobre las políticas públicas y coordinar su entrega a los medios de comunicación."
+  seguridad: {
+    titulo: "Unidad de Seguridad de la Información y Protección de Datos Personales",
+    nombre: "",
+    cargo: "",
+    texto: `Unidad vinculada al resguardo de la seguridad de la información y la protección de datos personales institucionales.`
   },
 
   participacion: {
     titulo: "Unidad de Participación Ciudadana y Género",
     nombre: "Katherine Quijada López",
     cargo: "Jefatura Unidad de Participación Ciudadana y Género",
-    texto: "Unidad encargada de implementar mecanismos de participación ciudadana e incorporar la perspectiva de género en las políticas públicas."
+    texto: `Implementa mecanismos de participación ciudadana e incorpora el enfoque de género en las políticas públicas de seguridad social.`
+  },
+
+  asesores: {
+    titulo: "Asesores",
+    nombre: "Macarena Pinto Gutiérrez",
+    cargo: "Jefatura Asesores",
+    texto: `Apoya la gestión técnica y política de la Subsecretaría, especialmente en propuestas normativas y políticas públicas previsionales.`
+  },
+
+  prensa: {
+    titulo: "Unidad de Prensa y Comunicaciones",
+    nombre: "Eugenio Figueroa Bustos",
+    cargo: "Jefatura Unidad de Prensa y Comunicaciones",
+    texto: `Genera contenidos informativos, coordina medios de comunicación, campañas, productos audiovisuales, redes sociales y sitio web institucional.`
   },
 
   educacion: {
     titulo: "Dirección de Educación Previsional",
     nombre: "Rodrigo Pérez Fuentes",
     cargo: "Jefatura Dirección de Educación Previsional",
-    texto: "Dirección encargada de liderar y coordinar los procesos de educación previsional para promover la cultura previsional en Chile."
+    texto: `Lidera y coordina procesos de educación previsional para promover la cultura previsional en Chile.`
+  },
+
+  "u-educacion": {
+    titulo: "Unidad de Educación Previsional",
+    nombre: "Elizabeth Ramírez Piña",
+    cargo: "Jefatura Unidad de Educación Previsional",
+    texto: `Desarrolla estrategias educativas para difundir información previsional a la ciudadanía y contribuir a la cultura previsional.`
   },
 
   estudios: {
     titulo: "Dirección de Estudios Previsionales",
     nombre: "Ivonne Bueno Velasco",
     cargo: "Jefatura Dirección de Estudios Previsionales",
-    texto: "Dirección responsable del análisis, evaluación y propuesta de políticas en el ámbito de la previsión social."
+    texto: `Realiza análisis, evaluación, estudios y propuestas de políticas en previsión social, además del mantenimiento de bases de datos previsionales.`
+  },
+
+  observatorio: {
+    titulo: "Unidad Observatorio Previsional",
+    nombre: "Luis Figueroa Medizabal",
+    cargo: "Jefatura Unidad Observatorio Previsional",
+    texto: `Resguarda y procesa bases de datos administrativas, gestiona la Encuesta de Protección Social y produce estudios e indicadores previsionales.`
+  },
+
+  analisis: {
+    titulo: "Unidad de Análisis de Políticas Previsionales",
+    nombre: "",
+    cargo: "",
+    texto: `Elabora insumos para el análisis de la reforma previsional, políticas públicas, modelos de pronóstico, informes estadísticos y documentos técnicos.`
   },
 
   coordinacion: {
     titulo: "Dirección de Coordinación Institucional",
     nombre: "Katia Soto Cárcamo",
     cargo: "Jefatura Dirección de Coordinación Institucional",
-    texto: "Dirección encargada de coordinar a los servicios relacionados para asegurar la calidad de los procesos institucionales."
+    texto: `Coordina a los servicios relacionados para asegurar la calidad de los procesos institucionales y la continuidad operacional.`
+  },
+
+  atencion: {
+    titulo: "Unidad de Atención Ciudadana y OIRS",
+    nombre: "Romina Ibaceta Godoy",
+    cargo: "Jefatura Unidad de Atención Ciudadana y OIRS",
+    texto: `Administra y gestiona consultas, reclamos, sugerencias y felicitaciones, asegurando respuestas oportunas y dentro del marco legal.`
+  },
+
+  "coord-inst": {
+    titulo: "Unidad de Coordinación y Seguimiento Legislativo",
+    nombre: "Katherine Cáceres Fuentes",
+    cargo: "Jefatura Unidad de Coordinación y Seguimiento Legislativo",
+    texto: `Apoya el seguimiento, coordinación y gestión de proyectos con instituciones del sector y monitorea canales de atención para promover mejoras.`
   },
 
   legislativa: {
     titulo: "División de Asesoría Legislativa y Seguridad Laboral",
     nombre: "Pedro Contador Abraham",
     cargo: "Jefatura División de Asesoría Legislativa y Seguridad Laboral",
-    texto: "División encargada de asesorar en la preparación y tramitación de proyectos de ley en materias previsionales y de seguridad laboral."
+    texto: `Asesora en la preparación y tramitación de proyectos de ley en materias previsionales, seguridad y salud en el trabajo.`
   },
 
-  administracion: {
+  admin: {
     titulo: "Dirección de Administración y Finanzas",
     nombre: "Lidia Lueiza Baeza",
     cargo: "Jefatura Dirección de Administración y Finanzas",
-    texto: "Dirección encargada de administrar y supervisar los recursos financieros, presupuestarios y materiales de la Subsecretaría."
+    texto: `Administra, gestiona y supervisa los recursos financieros, presupuestarios y materiales de la Subsecretaría.`
+  },
+
+  presupuesto: {
+    titulo: "Unidad de Presupuesto, Finanzas y Control Sectorial",
+    nombre: "Dan Muñoz Silva",
+    cargo: "Jefatura Unidad de Presupuesto, Finanzas y Control Sectorial",
+    texto: `Coordina, planifica, gestiona y controla el presupuesto institucional y monitorea la ejecución presupuestaria de servicios relacionados.`
+  },
+
+  "sub-presupuesto": {
+    titulo: "Subunidad de Presupuesto y Control Sectorial",
+    nombre: "",
+    cargo: "",
+    texto: `Apoya la gestión presupuestaria, el control sectorial y el seguimiento de la ejecución financiera institucional.`
+  },
+
+  contabilidad: {
+    titulo: "Subunidad de Contabilidad",
+    nombre: "Freddy Gómez Salgado",
+    cargo: "Jefatura Subunidad de Gestión Financiera",
+    texto: `Gestiona el registro, control y verificación contable y financiera de la Subsecretaría, generando información para la toma de decisiones.`
+  },
+
+  tesoreria: {
+    titulo: "Subunidad de Tesorería",
+    nombre: "Christian Pérez Díaz",
+    cargo: "Jefatura Subunidad de Tesorería",
+    texto: `Controla y maneja los recursos financieros de la Subsecretaría, velando por el cumplimiento de la normativa vigente.`
+  },
+
+  adquisiciones: {
+    titulo: "Unidad de Adquisiciones y Servicios Generales",
+    nombre: "Carla Miranda Soto",
+    cargo: "Jefatura Unidad de Adquisiciones y Servicios Generales",
+    texto: `Gestiona abastecimiento, servicios generales, compras, inventario, activos institucionales y funcionamiento de Oficina de Partes.`
+  },
+
+  partes: {
+    titulo: "Oficina de Partes",
+    nombre: "Jonathan Faundez González",
+    cargo: "Jefatura Oficina de Partes",
+    texto: `Gestiona la documentación oficial de ingreso y egreso de la Subsecretaría, manteniendo registro, despacho, control y custodia documental.`
+  },
+
+  inventario: {
+    titulo: "Inventario",
+    nombre: "",
+    cargo: "",
+    texto: `Área asociada al control, registro y resguardo de los bienes institucionales, dependiente de Adquisiciones y Servicios Generales.`
+  },
+
+  personas: {
+    titulo: "Unidad de Gestión y Desarrollo de Personas",
+    nombre: "Taty Orellana",
+    cargo: "Jefatura Unidad de Gestión y Desarrollo de Personas",
+    texto: `Gestiona políticas de desarrollo organizacional, administración del personal, capacitación, desempeño, bienestar y ciclo de vida laboral.`
+  },
+
+  control: {
+    titulo: "Unidad de Control de Gestión",
+    nombre: "Rigoberto Millacura Herrera",
+    cargo: "Jefatura Unidad de Control de Gestión",
+    texto: `Dirige procesos y sistemas de control de gestión, indicadores institucionales, PMG, CDC, matriz de riesgos y reportes de gestión.`
+  },
+
+  contratos: {
+    titulo: "Unidad de Gestión de Contratos",
+    nombre: "",
+    cargo: "",
+    texto: `Apoya la gestión, seguimiento y control de contratos institucionales, velando por su correcta ejecución y cumplimiento.`
   },
 
   ti: {
     titulo: "Dirección de Tecnologías de la Información",
     nombre: "Álvaro Gazmuri Cornejo",
     cargo: "Jefatura Dirección de Tecnologías de la Información",
-    texto: "Dirección encargada de proponer, gestionar y ejecutar las actividades relacionadas con el desarrollo estratégico y operacional de las tecnologías de la información."
+    texto: `Gestiona el desarrollo estratégico y operacional de las tecnologías de la información, sistemas, infraestructura, seguridad y soporte tecnológico.`
+  },
+
+  sistemas: {
+    titulo: "Unidad de Sistemas e Inteligencia de Negocios",
+    nombre: "Renato Llantén Almonacid",
+    cargo: "Jefatura Unidad de Sistemas e Inteligencia de Negocios",
+    texto: `Diseña e implementa sistemas de información, automatización de procesos y modelos de inteligencia de negocios para apoyar la gestión institucional.`
+  },
+
+  infra: {
+    titulo: "Unidad de Infraestructura, Soporte y Seguridad de la Información",
+    nombre: "",
+    cargo: "",
+    texto: `Asegura la continuidad operativa de los servicios tecnológicos, infraestructura TI, soporte computacional y seguridad de la información.`
   }
 };
 
@@ -95,14 +221,21 @@ function abrirPopup(id) {
   const info = datos[id];
 
   if (!info) {
-    alert("Información pendiente de incorporar.");
+    alert("Información pendiente de incorporar: " + id);
     return;
   }
 
-  alert(
-    info.titulo + "\n\n" +
-    info.nombre + "\n" +
-    info.cargo + "\n\n" +
-    info.texto
-  );
+  let mensaje = info.titulo + "\n\n";
+
+  if (info.nombre) {
+    mensaje += info.nombre + "\n";
+  }
+
+  if (info.cargo) {
+    mensaje += info.cargo + "\n\n";
+  }
+
+  mensaje += info.texto;
+
+  alert(mensaje);
 }
