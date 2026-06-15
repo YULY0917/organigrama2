@@ -170,7 +170,24 @@
     titulo: "Unidad de Análisis de Políticas Previsionales",
     nombre: "",
     cargo: "",
-    texto: `Elabora insumos para el análisis de la reforma previsional, políticas públicas, modelos de pronóstico, informes estadísticos y documentos técnicos.`
+    texto: `Unidad encargada de elaborar insumos para la conceptualización, análisis de la reforma previsional, prospección y coordinación de políticas públicas previsionales.
+    
+    Sus funciones son:
+    
+    -	Entregar insumos a las autoridades del sector que sirven para el análisis y fundamento de las propuestas de la reforma previsional y políticas públicas previsionales.
+    -	Programar y actualizar el instrumento Técnico de Focalización (ITF) que asigna los beneficios del sistema de Pensiones Solidarias y los beneficios de la Pensión Garantizada Universal. 
+    -	Coordinar el trabajo interinstitucional para la elaboración de contenidos de la reforma y políticas previsionales.
+    -	Extraer información y analizar bases de datos para la elaboración de minutas y documentos de trabajo para la evaluación de propuestas de políticas públicas en el área de pensiones. 
+    -	Desarrollar y aplicar modelos para pronósticos de beneficiarios y costos de diferentes programas o cambios regulatorios del sistema previsional. 
+    -	Elaborar y publicar informes estadísticos mensuales y semestrales que relacionan el pilar solidario y el sistema de seguridad social. 
+    -	Elaborar y publicar notas ciudadanas en materia de pensiones y/o seguridad social. 
+    -	Construir y visualizar en la página Web información interactiva del Sistema de Pensiones.
+    -	Construir y visualizar en la página Web, sección género, que contenga visualizaciones interactivas y documentos de investigación.
+    -	Construir fichas estadísticas semestrales sobre el sistema de seguridad social para las autoridades del sector.
+    -	Proveer de asesoría técnica y administrativa al Consejo Consultivo Previsional y a la Comisión de Usuarios del Sistema de Pensiones. 
+    -	Elaborar documentos técnicos en materia de pensiones y/o seguridad social. 
+    -	Construir bases de datos consolidadas que servirán como insumo para el análisis de información en materia de pensiones.
+    -	Dar respuesta al H. Congreso Nacional y otras instituciones nacionales e internacionales de requerimiento en materia de pensiones y/o previsionales.`
   },
 
   coordinacion: {
