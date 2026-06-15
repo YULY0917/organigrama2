@@ -164,7 +164,10 @@ h2 {
 }
 
 #popup-texto {
-  line-height: 1.6;
+  line-height: 1.7;
   color: #333;
   white-space: pre-line;
+  text-align: justify;
+  font-size: 15px;
+  letter-spacing: 0.2px;
 }
