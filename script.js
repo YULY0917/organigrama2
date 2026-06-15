@@ -21,7 +21,16 @@ const datos = {
     titulo: "Auditoría Interna",
     nombre: "Johnny Astudillo Rojas",
     cargo: "Jefatura Auditoría Interna",
-    texto: `Presta asesoría especializada en auditoría y control interno. Evalúa sistemas de control, uso de recursos, cumplimiento normativo y seguimiento de recomendaciones.`
+    texto: `Unidad que depende directamente del Subsecretario/a de Previsión Social, encargada de prestar asesoría especializada en materias de auditoría y control interno a la autoridad superior de la Institución, con el objetivo de evaluar el funcionamiento y el cumplimiento de la normativa en los proceso contables, financieros, administrativos y estratégicos de la Subsecretaría de Previsión Social. 
+    Sus funciones son:
+        - Evaluar en forma permanente los sistemas de control interno institucional y proponer las recomendaciones para su mejoramiento.
+        -	Evaluar el grado de economía y eficiencia con que se utilizan los recursos humanos, financieros y materiales.
+        -	Promover la adopción de mecanismos de autocontrol en las unidades operativas de la organización.
+        -	Verificar que la gestión de la institución se enmarque en los lineamientos estratégicos definidos y que las decisiones de la autoridad se ajusten al ordenamiento jurídico que rige.
+        -	Elaborar y proponer para su aprobación el Programa Anual de Auditoría.
+        -	Efectuar seguimiento de las recomendaciones y observaciones hechas a la administración durante los procesos de auditoría.
+        -	Efectuar seguimiento de las medidas preventivas y correctivas emanadas de los informes de auditoría interna, aprobadas por la autoridad.
+        -	Coordinar y facilitar las orientaciones emanadas del Consejo de Auditoría Interna General de Gobierno (CAIGG) y Auditoría Ministerial.`
   },
 
   fiscalia: {
