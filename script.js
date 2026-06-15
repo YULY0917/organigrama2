@@ -61,7 +61,24 @@ const datos = {
     titulo: "Unidad de Participación Ciudadana y Género",
     nombre: "Katherine Quijada López",
     cargo: "Jefatura Unidad de Participación Ciudadana y Género",
-    texto: `Implementa mecanismos de participación ciudadana e incorpora el enfoque de género en las políticas públicas de seguridad social.`
+    texto: `Unidad encargada de implementar los mecanismos establecidos en la ley N°20.500, de “Asociaciones y Participación Ciudadana en la Gestión Pública”, fortaleciendo los espacios de participación existentes e incorporando a la ciudadanía en los procesos de formulación de políticas públicas propias del área de desarrollo de la Subsecretaría de Previsión Social. Además de contribuir a que todas las acciones y políticas desarrolladas, tanto a nivel institucional como aquellas dirigidas hacia la ciudadanía, incorporen la perspectiva de género, de modo tal de aportar hacia la disminución de las brechas y barreras existentes en el sistema de Seguridad Social, y la equidad entre mujeres, hombres y disidencias sexo-genéricas.
+
+    Por lo anterior, la Unidad de Participación Ciudadana y Género tiene como objetivo el potenciar la participación ciudadana en la gestión pública e incorporar el enfoque de género en las políticas públicas en materia de seguridad social, aportando a ellas de manera dinámica y en el marco de la innovación pública.
+
+    Funciones:
+
+    -	Establecer una contraparte para la coordinación permanente en cada una de las Instituciones y desarrollar un plan de trabajo para relacionarse con ellas, tanto para participación ciudadana como en género.
+    -	Implementar, de acuerdo con la ley sobre asociaciones y participación ciudadana en la gestión pública, todos los mecanismos señalados y derivados de dicha normativa.
+    -	Generar condiciones necesarias para el adecuado funcionamiento del Consejo de la Sociedad Civil para la Seguridad Social.
+    -	Implementar planes y programas, u otras acciones, que aseguren y promuevan compromisos de fortalecimiento de la sociedad civil y la participación ciudadana de los distintos estamentos, grupos, sectores, sin distinción en la gestión pública.
+    -	Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades.
+    -	Asesorar y brindar asistencia técnica a la Subsecretaría de Previsión Social y a sus servicios relacionados, en la tarea de transversalizar la perspectiva de género en todo su quehacer institucional. 
+    -	Coordinar y asesorar la incorporación de criterios de equidad de género de forma transversal en las políticas de la Institución y de los organismos relacionados de la Subsecretaría de Previsión Social, estableciendo acciones e iniciativas, realizando seguimiento y promoción de la perspectiva de género. Aportar en la formulación de las políticas, programas y acciones para la integración y desarrollo del enfoque de derechos humanos, la perspectiva de género e interseccionalidad. 
+    -	Proponer acciones que permitan la generación de espacios laborales libres de todo tipo de violencia o discriminación en razón de género, desde la perspectiva de la transformación de las prácticas o conductas abusivas, ya sea entre pares o en relaciones laborales jerárquicas.
+    -	Impulsar la dictación y/o actualización de políticas, procedimientos o protocolos institucionales, como, por ejemplo, sobre maltrato, abuso laboral y sexual, entre otros. 
+    -	Coordinación interinstitucional en materia de género, y actuará como contraparte técnica ante otros organismos públicos o privados, velando por la debida articulación entre estos.  Para lo anterior podrá constituir mesas de trabajo, destinadas al estudio de temas que por su especialidad o complejidad lo requieran.
+    -	Proveer asesoramiento técnico y estratégico a las distintas áreas y organismos relacionados con la Subsecretaría de Previsión Social para incorporar criterios de equidad de género en sus políticas y prácticas.
+    -	Desarrollar y promover acciones e iniciativas específicas que fomenten la equidad de género dentro de la institución y sus organismos asociados. `
   },
 
   asesores: {
