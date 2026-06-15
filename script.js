@@ -1,4 +1,4 @@
-const datos = {
+  const datos = {
   subsecretaria: {
     titulo: "Subsecretario/a",
     nombre: "María Elisa Cabezón Otero",
@@ -119,28 +119,51 @@ const datos = {
     titulo: "Dirección de Educación Previsional",
     nombre: "Rodrigo Pérez Fuentes",
     cargo: "Jefatura Dirección de Educación Previsional",
-    texto: `Lidera y coordina procesos de educación previsional para promover la cultura previsional en Chile.`
+    texto: `Dirección encargada de liderar y coordinar los procesos de educación de los ciudadanos sobre temas previsionales, con el objetivo de generar y promover la cultura previsional en Chile dentro del marco de la Política de Educación Previsional.
+    
+    Además, está a cargo de implementar y desarrollar los programas y planes que define la Política de Educación, a través de la Unidad de Educación Previsional y de generar y promover la cultura previsional, a través de la correcta administración del Fondo para la Educación Previsional (FEP), cuyo propósito es apoyar financieramente proyectos, programas, actividades, medidas de promoción y educación previsional.`
   },
 
   "u-educacion": {
     titulo: "Unidad de Educación Previsional",
     nombre: "Elizabeth Ramírez Piña",
     cargo: "Jefatura Unidad de Educación Previsional",
-    texto: `Desarrolla estrategias educativas para difundir información previsional a la ciudadanía y contribuir a la cultura previsional.`
+    texto: `Unidad encargada de desarrollar estrategias educativas con el fin de difundir información en temas previsionales a la ciudadanía, contribuyendo al desarrollo de la cultura previsional.
+    
+    Sus funciones son:
+    
+    -	Implementar y desarrollar los programas y planes de la Política Nacional de Educación Previsional.
+    -	Proponer y diseñar planes y programas de educación previsional para el intersector.
+    -	Crear instrumentos de evaluación y seguimiento de implementación de los planes y programas de educación previsional.
+    -	Velar por la correcta ejecución de los planes y programas impulsados por la Subsecretaría de Previsión Social.
+    -	Controlar, evaluar y efectuar el seguimiento de los programas ejecutados.
+    -	Elaboración de contenidos e insumos para campañas comunicacionales de educación previsional.
+    -	Definir, revisar y/o aprobar todo el material que se publique en virtud del desarrollo del Fondo de Educación Previsional.
+`
   },
 
   estudios: {
     titulo: "Dirección de Estudios Previsionales",
     nombre: "Ivonne Bueno Velasco",
     cargo: "Jefatura Dirección de Estudios Previsionales",
-    texto: `Realiza análisis, evaluación, estudios y propuestas de políticas en previsión social, además del mantenimiento de bases de datos previsionales.`
+    texto: `Esta Dirección estará a cargo del análisis, evaluación, estudio y propuesta de políticas en el ámbito de Previsión Social, y de la evaluación permanente de los programas del sector. Además, será el área responsable del mantenimiento de las bases de datos previsionales para el desarrollo de análisis.`
   },
 
   observatorio: {
     titulo: "Unidad Observatorio Previsional",
     nombre: "Luis Figueroa Medizabal",
     cargo: "Jefatura Unidad Observatorio Previsional",
-    texto: `Resguarda y procesa bases de datos administrativas, gestiona la Encuesta de Protección Social y produce estudios e indicadores previsionales.`
+    texto: `Unidad encargada del resguardo y procesamiento de las bases de datos administrativas (internas y externas) de la Subsecretaria de Previsión Social. Asimismo, le corresponderá contribuir a la prospección de contenidos de la reforma y políticas previsionales. Además, es la unidad encargada de la gestión y administración de la Encuesta de Protección Social (EPS) y otras fuentes de información primaria y secundaria. 
+
+    Sus funciones son:
+   
+    -	Velar por el resguardo de la información de los datos administrativos tanto de la Subsecretaria de Previsión Social como de otros organismos o instituciones del Estado.
+    -	Contribuir con el desarrollo de procesos (validación y depuración) que aseguren un uso eficiente de las bases de datos dentro de la Dirección de Estudios Previsionales.
+    -	Colaborar con el proceso de limpieza, clasificación y orden de los datos disponibles.
+    -	Gestionar el proceso de licitación de la Encuesta de Protección Social y otras encuestas asociadas a la misma.
+    -	Producir estudios, e indicadores cualitativos y cuantitativos a partir de los datos longitudinales, encuestas, y otras fuentes de información cualitativas y cuantitativas de información para el análisis previsional y de seguridad social del país.
+    -	Investigar y proponer metodologías de procesamiento y análisis de información longitudinal.
+    -	Desarrollar una red de contactos y mesas con instituciones lideres en el uso de datos longitudinales para el análisis de la seguridad social. `
   },
 
   analisis: {
