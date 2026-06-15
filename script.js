@@ -68,14 +68,34 @@ const datos = {
     titulo: "Asesores",
     nombre: "Macarena Pinto Gutiérrez",
     cargo: "Jefatura Asesores",
-    texto: `Apoya la gestión técnica y política de la Subsecretaría, especialmente en propuestas normativas y políticas públicas previsionales.`
+    texto: `Área encargada de proporcionar apoyo a la gestión técnica y política de la Subsecretaría de Previsión Social, en la creación de políticas públicas a través de propuestas de elaboración y modificación del marco normativo y reglamentario en materias previsionales y de seguridad laboral.
+    
+    Sus funciones son:
+    
+    -	Coordinar reuniones y mesas de trabajo para el análisis de políticas públicas.
+    -	Revisión de normativas vigentes, para el análisis de propuestas legales. 
+    -	Diseño de propuestas normativas para la creación políticas públicas.
+    -	Elaboración de minutas y documentos de trabajo para el análisis, discusión, elaboración y evaluación de políticas públicas en materia previsional.
+    -	Acompañamiento a la autoridad en procesos de discusión de proyectos de ley en el Congreso. 
+`
   },
 
   prensa: {
     titulo: "Unidad de Prensa y Comunicaciones",
     nombre: "Eugenio Figueroa Bustos",
     cargo: "Jefatura Unidad de Prensa y Comunicaciones",
-    texto: `Genera contenidos informativos, coordina medios de comunicación, campañas, productos audiovisuales, redes sociales y sitio web institucional.`
+    texto: `Unidad responsable de generar contenidos informativos sobre las políticas públicas que emanan de la Subsecretaría de Previsión Social, y coordinar su entrega a los medios de comunicación.
+    
+    Sus funciones son:
+    
+    -	Proponer, diseñar, coordinar y supervisar la implementación de campañas comunicacionales sobre beneficios, programas y políticas previsionales y de seguridad y salud en el trabajo.
+    -	Gestionar entrevistas, reportajes y publicaciones de la autoridad y vocerías técnicas, cuando se estimen necesarias. 
+    -	Mantener un proceso de comunicación continua con los encargados de prensa del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo y servicios relacionados.
+    -	Comunicar a las autoridades la Agenda Pública del o la Subsecretario/a.
+    -	Desarrollar productos audiovisuales y gráficos orientados a la difusión y educación previsional.
+    -	Supervisar y coordinar la correcta aplicación de la imagen corporativa de productos generados por la Institución o por ella patrocinados.
+    -	Administrar y actualizar soportes online informativos de la Subsecretaría: web y redes sociales.
+`
   },
 
   educacion: {
