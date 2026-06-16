@@ -463,31 +463,35 @@
 
   control: {
     titulo: "Unidad de Control de Gestión",
-    nombre: "Rigoberto Millacura Herrera",
-    cargo: "Jefatura Unidad de Control de Gestión",
-    texto: `Unidad encargada de dirigir los procesos y sistemas de control de gestión de la Subsecretaría de Previsión Social con el objetivo de dar cumplimiento a los compromisos establecidos por el servicio. 
+    texto: `Unidad encargada de dirigir los procesos y sistemas de control de gestión de la Subsecretaría de  Previsión Social con el objetivo de dar cumplimiento a los compromisos establecidos por el servicio.   
     
     Sus funciones son:
     
-    -	Participar del proceso de formulación y diseño de las Definiciones Estratégicas (formulario A1) del Servicio, en el marco del proceso de formulación presupuestaria del año t+1.
-    -	Encabezar el proceso de levantamiento, seguimiento y evaluación de los indicadores de Desempeño (H) de la Institución, asociados a los objetivos estratégicos y presupuesto solicitado.
-    -	Coordinar la formulación, seguimiento, monitoreo y evaluación de los indicadores y sistemas que componen el Programa de Mejoramiento de la Gestión (PMG), en el marco de la aplicación de la ley N°19.553. de Modernización del Estado.
-    -	Coordinar la formulación, seguimiento, monitoreo y evaluación de los indicadores comprometidos por los equipos de trabajo que conforman el Convenio de Desempeño Colectivo (CDC), en el marco de la aplicación de la ley N°19.553, de Modernización del Estado.
-    -	Elaboración del informe de monitoreo del Sistema de Información de la Gestión (SIG).
-    -	Coordinar y redactar el Balance de Gestión Integral del Servicio.
-    -	Coordinar el proceso de elaboración, actualización, seguimiento y evaluación de la Matriz de Riesgo Institucional de manera anual.
-    -	Coordinar el proceso mensual de actualización del portal de Transparencia Activa, asegurar su correcta publicación y en plazo. Además, realizar los ejercicios de auto fiscalización una vez al año y ser contraparte como enlace ante el Consejo de Transparencia.
-    -	Coordinar y gestionar la publicación de la información correspondiente a Transparencia Proactiva.
-    -	Apoyar el proceso coordinación para la elaboración de la Cuenta Pública Participativa.
-    -	Participar como contraparte en el proceso de formulación de los Convenios de Alta Dirección Pública de Primer nivel Jerárquico.
-    -	Administración de la ley N°20.285 en materia de Transparencia Activa y como enlace ante el Consejo de Transparencia.`
+    - Participar del proceso de formulación y diseño de las Definiciones Estratégicas (formulario  A1) del Servicio, en el marco del proceso de formulación presupuestaria. 
+    - Encabezar el proceso de levantamiento, seguimiento y evaluación de los indicadores de  Desempeño (H) de la Institución, asociados a los objetivos estratégicos y presupuesto  solicitado. 
+    - Coordinar la formulación, seguimiento, monitoreo y evaluación de los indicadores y sistemas  que componen el Programa de Mejoramiento de la Gestión (PMG), en el marco de la  aplicación de la ley N°19.553. de Modernización del Estado. 
+    - Coordinar la formulación, seguimiento, monitoreo y evaluación de los indicadores  comprometidos por los equipos de trabajo que conforman el Convenio de Desempeño  Colectivo (CDC), en el marco de la aplicación de la ley N°19.553, de Modernización del  Estado. 
+    - Elaboración del informe de monitoreo del Sistema de Información de la Gestión (SIG). - Coordinar y redactar el Balance de Gestión Integral del Servicio. 
+    - Coordinar el proceso de elaboración, actualización, seguimiento y evaluación de la Matriz de  Riesgo Institucional de manera anual. 
+    - Coordinar el proceso mensual de actualización del portal de Transparencia Activa, asegurar  su correcta publicación y en plazo. Además, realizar los ejercicios de auto fiscalización una  vez al año y ser contraparte como enlace ante el Consejo para la Transparencia. 
+    - Coordinar y gestionar la publicación de la información correspondiente a Transparencia  Proactiva. 
+    - Apoyar el proceso coordinación para la elaboración de la Cuenta Pública Participativa. - Participar como contraparte en el proceso de formulación de los Convenios de Alta Dirección  Pública de Primer nivel Jerárquico. 
+    - Administración de la ley N°20.285 en materia de Transparencia Activa y como enlace ante  el Consejo de Transparencia.`
   },
 
   contratos: {
     titulo: "Unidad de Gestión de Contratos",
-    nombre: "",
-    cargo: "",
-    texto: `Apoya la gestión, seguimiento y control de contratos institucionales, velando por su correcta ejecución y cumplimiento.`
+    texto: `Controlar y supervisar de manera eficiente y transparente el ciclo de vida de los contratos de la  institución desde la suscripción de éstos hasta el término, con el fin de dar apoyo a la Contraparte  Técnica responsable, dé cumplimiento de las normativas legales vigentes, la correcta ejecución de  los acuerdos y la protección de los intereses institucionales.
+    
+    Sus funciones son:
+    
+  - Colaborar en la preparación de bases administrativas, en forma conjunta con la Unidad de  Adquisiciones y Servicios Generales. 
+  - Mantener el control a través del registro integral de los contratos de la Institución (plazos,  montos, obligaciones, entre otros),  
+  - Seguimiento y control de cumplimiento de los plazos, hitos, multas, etc de los contratos según lo establecido en las bases de licitación o términos de referencias, Revisión de  aspectos financieros: Validar que se cumplan requisitos para pago como son: recepción  conforme, OC asociada, respaldos, factura correctamente emitida según condiciones de las  bases, etc. 
+  - Verificar la correcta ejecución presupuestaria y financiera de los contratos, coordinando y  revisando los antecedentes de los pagos, estados de avance y compromisos asociados. 
+  - Identificar, prevenir, informar y mitigar riesgos asociados a la ejecución de los contratos. - Coordinación de manera efectiva y oportuna con las áreas vinculadas al proceso contractual  
+  - Generar reportes de gestión contractual, estados de avance y cumplimiento para la toma de  decisiones. 
+  - Mantener actualizado la Plataforma Mercado Público en el módulo de “Contratos”, para el  cumplimiento normativo.`
   },
 
   ti: {
