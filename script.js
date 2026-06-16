@@ -358,72 +358,91 @@
 
   contabilidad: {
     titulo: "Subunidad de Contabilidad",
-    nombre: "Freddy Gómez Salgado",
-    cargo: "Jefatura Subunidad de Gestión Financiera",
-    texto: `Gestiona el registro, control y verificación contable y financiera de la Subsecretaría, generando información para la toma de decisiones.`
+    texto: `Encargada de gestionar el registro, control y verificación de la contabilidad de la Subsecretaría, con  el objeto de generar información confiable y eficiente que sirva para la toma de decisiones del  servicio, velando por el desarrollo de los procedimientos contables y financieros conforme con la  Resolución N° 16 de fecha 16/02/2015 que aprueba normativa del sistema de contabilidad general  de la nación, aplicando en ello criterios según Contabilidad Gubernamental, NICSP. 
+    
+    Sus principales funciones son:
+    
+  - Registrar la información financiera contable de manera oportuna y eficiente, de acuerdo con  el principio contable del devengo, con la finalidad de proveer la información necesaria para  la toma de decisiones. 
+  - Preparación de Balances y Estados Financieros de la Subsecretaría de Previsión Social y  otros informes solicitados por los organismos de control y jefatura directa. 
+  - Efectuar revisión selectiva de materias propias del área de las rendiciones de fondos  asignados a terceros vía proyectos provenientes del Fondo de Educación Previsional, así  como también de los/as funcionarios/as que cuenten con recursos asignados. 
+  - Revisiones y análisis mensuales de las cuentas por pagar y cuentas por cobrar.  
+  - Revisar diariamente que el registro de facturas se encuentre en Sistema de Gestión de  Documentos Tributarios Electrónicos (SGDTE). 
+  - Análisis y revisión de la documentación de respaldo para pago, exceptuando los que  provengan de un contrato y/o acuerdo complementario. 
+  - Efectuar cuadratura periódica de los bienes depreciables de la SPS, entre el sistema  contable SIGFE y el sistema de inventario.
+  - Registro de licencias médicas para la recuperación del Subsidio de Incapacidad Laboral y/o  los pagos previsionales, y junto con ello realizar cuadraturas mensuales de cuentas por  cobrar. 
+  - Confeccionar mensualmente las Conciliaciones Bancarias. 
+  - Desempeñar otras funciones y/o coordinaciones encomendadas por la jefatura, dentro de su  ámbito de responsabilidad. 
+
+`
   },
 
   tesoreria: {
     titulo: "Subunidad de Tesorería",
-    nombre: "Christian Pérez Díaz",
-    cargo: "Jefatura Subunidad de Tesorería",
-    texto: `Subunidad dependiente Unidad de Presupuesto, Finanzas y Control Sectorial, encargada de controlar y manejar los recursos financieros de la Subsecretaría, velando por el cumplimiento de la normativa vigente en materia de operación de flujo monetario. 
+    texto: `Encargada de controlar y manejar los recursos financieros de la Subsecretaría de Previsión Social,  velando por el cumplimiento de la normativa vigente en materia de operación de flujo monetario.   
     
-    Sus funciones son:
+   Sus principales funciones son: 
     
-    -	Controlar los recursos financieros asignados a la Institución, para dar cumplimiento a las obligaciones contraídas.
-    -	Realizar los pagos de las obligaciones contraídas por la Subsecretaría.
-    -	Velar por la custodia y gestión de los instrumentos de la Subsecretaría.
-    -	Controlar y custodiar los comprobantes contables.
-    -	Efectuar la proyección y registro de la distribución presupuestaria del FEP y del Anteproyecto Regional de Inversión (ARI) y del Programa Público de Inversiones Regionales (PROPIR) en el portal de Chile Indica.
-    -	Efectuar seguimiento a pagos centralizados efectuados por TGR enviando alertas vía correo.
-    -	Elaborar, controlar y gestionar programa de caja mensual con la Dirección de Presupuesto.
-    -	Ejecutar y gestionar las cobranzas a nivel institucional, incluido el Subsidio de Incapacidad Laboral.`
+  - Controlar los recursos financieros asignados a la Institución, para dar cumplimiento a las  obligaciones contraídas. 
+  - Realizar los pagos de las obligaciones contraídas por la Subsecretaría de Previsión Social. 
+  - Velar por la custodia, gestión y control de los instrumentos financieros (Garantías) que  ingresan a la Subsecretaría de Previsión Social. 
+  - Controlar y custodiar los comprobantes contables. 
+  - Efectuar la proyección y registro de la distribución presupuestaria del FEP y del Anteproyecto  Regional de Inversión (ARI) y del Programa Público de Inversiones Regionales (PROPIR) en  el portal de Chile Indica. 
+  - Mantener Registro de Transferencias en Portal Registro Central de Colaboradores del  Estado (www.registros19862.gob.cl) 
+  - Emitir Informe diario de DTE Registrados en Portal SII enviado a Unidad de Presupuesto,  Finanzas y Control Sectorial 
+  - Efectuar seguimiento a pagos centralizados efectuados por TGR enviando alertas diarias a  la jefatura de la Dirección de Administración y Finanzas y a la Unidad de Presupuesto.  Finanzas y Control Sectorial, para realizar los pagos dentro del plazo de los 30 días. 
+  - Efectuar seguimiento a pago de Viáticos dentro del plazo establecido, emitiendo alertas  cuando corresponda. 
+  - Elaborar, controlar y gestionar programa de caja mensual con la Dirección de Presupuestos.
+  - Ejecutar y gestionar las cobranzas a nivel institucional, incluido el Subsidio de Incapacidad  Laboral de las licencias médicas. 
+  - Administrar Fondo Fijo controlando gastos y emitiendo rendición mensual. 
+  - Efectuar registro contable de Ingresos y Egresos en SIGFE.`
   },
 
   adquisiciones: {
     titulo: "Unidad de Adquisiciones y Servicios Generales",
-    nombre: "Carla Miranda Soto",
-    cargo: "Jefatura Unidad de Adquisiciones y Servicios Generales",
-    texto: `Unidad encargada de la gestión de abastecimiento, servicios generales y control de activos e inventario de la Subsecretaria, dando cumplimiento a la normativa vigente y velando por el uso y control eficiente de los recursos institucionales.
+    texto: `Unidad encargada de la gestión de abastecimiento, servicios generales y control de activos e  inventario de la Subsecretaria, dando cumplimiento a la normativa vigente y velando por el uso y  control eficiente de los recursos institucionales.  
     
     Sus funciones son:
     
-    -	Liderar la elaboración del Plan Anual de Compras Institucional (PAC) que respalda y justifica el gasto público en iniciativas concretas, considerando en la estimación: tiempo, lugar, cantidad, precio, modalidad de compra, y la estructura presupuestaria vigente, entre otros, y hacer seguimiento a su ejecución.
-    -	Apoyar a las contrapartes técnicas en la elaboración de los requerimientos y supervisar la correcta ejecución de los procesos de compras y contrataciones de acuerdo a la ley N°19.886, a su reglamento y normativa vigente y manual interno de la Subsecretaría de Previsión Social.
-    -	Administrar la plataforma de MercadoPúblico para la ejecución de las compras institucionales.
-    -	Administrar y gestionar los servicios generales necesarios para el correcto funcionamiento de la infraestructura institucional y los servicios de apoyo asociados, en coordinación con el administrador del edificio ministerial, en lo que corresponda.
-    -	Administrar, controlar, registrar y tomar las medidas de resguardo de los bienes institucionales.
-    -	Proveer los bienes y servicios que requieran las distintas áreas, de acuerdo con el plan anual de compras. 
-    -	Supervisar y gestionar las prestaciones de servicios asociados a contratos donde es contraparte técnica.
-    -	Supervisar la correcta realización de toma de inventario.
-    -	Supervisar y controlar el correcto y eficiente stock de bodega, entrega de suministros y materiales a los/as funcionarios/as. 
-    -	Gestionar la contratación y coordinación de servicios menores (mantenciones, reparaciones y servicios varios).
-    -	Supervisar el Control de activo fijo, mediante el ingreso de altas y bajas de bienes en el sistema de apoyo existente.
-    -	Supervisión del trabajo de proveedores, para los distintos servicios contratados que digan relación con los servicios generales.
-    -	Control y supervisión del estado de la documentación oficial de la subsecretaría tanto aquella que se resguarda en bodegas internas como externas. Así como realizar anualmente las coordinaciones necesarias para el envío de información a DIBAM.
-    -	Gestionar la formalización de los contratos provenientes de procesos de compras hasta el envío de la Orden de Compra, donde posteriormente comienza la prestación del servicio y queda a cargo de las distintas contrapartes técnicas.
-    -	Mantener el control y correcto funcionamiento de la Oficina de Partes de la Subsecretaría de Previsión Social.`
+    - Coordinar, liderar y preparar la elaboración del Plan Anual de Compras Institucional (PAC)  que respalda y justifica el gasto público en iniciativas concretas, considerando en la estimación: tiempo, lugar, cantidad, precio, modalidad de compra, entre otros, y hacer  seguimiento a su ejecución. 
+    - Apoyar a las contrapartes técnicas en la elaboración de los requerimientos y supervisar la  correcta ejecución de los procesos de compras y contrataciones de acuerdo a la ley  N°19.886, a su reglamento y normativa vigente y manual interno de la Subsecretaría de  Previsión Social. 
+    - Administrar la plataforma de Mercado Público para la ejecución de las compras  institucionales. 
+    - Administrar y gestionar los servicios generales necesarios para el correcto funcionamiento  de la infraestructura institucional y los servicios de apoyo asociados, en coordinación con el  administrador del edificio ministerial, en lo que corresponda. 
+    - Administrar, controlar, registrar y tomar las medidas de resguardo de los bienes  institucionales. 
+    - Proveer los bienes y servicios que requieran las distintas áreas de la Subsecretaría - Supervisar y gestionar las prestaciones de servicios asociados a contratos donde es  contraparte técnica. 
+    - Supervisar la correcta realización de toma de inventario. 
+    - Supervisar y controlar el correcto y eficiente stock de bodega, entrega de suministros y  materiales a los/as funcionarios/as.  
+    - Gestionar la contratación y coordinación de servicios menores (mantenciones, reparaciones  y servicios varios). 
+    - Supervisar el Control de activo fijo, mediante el ingreso de altas y bajas de bienes en el  sistema de apoyo existente. 
+    - Supervisar el trabajo de proveedores, para los distintos servicios contratados que digan  relación con los servicios generales. 
+    - Supervisar el estado de la documentación oficial de la subsecretaría tanto aquella que se  resguarda en bodegas internas como externas. 
+    - Gestionar la formalización de los contratos provenientes de procesos de compras hasta el  envío de la Orden de Compra, donde posteriormente comienza la prestación del servicio y  queda a cargo de las distintas contrapartes técnicas. 
+    - Supervisar el correcto funcionamiento de la Oficina de Partes de la Subsecretaría de  Previsión Social. `
   },
 
   partes: {
     titulo: "Oficina de Partes",
-    nombre: "Jonathan Faundez González",
-    cargo: "Jefatura Oficina de Partes",
-    texto: `Oficina dependiente de la Unidad de Adquisiciones y Servicios Generales, encargada de la gestión documental de la Subsecretaría, tanto en el ingreso como egreso de la documentación oficial, manteniendo el registro, despacho y control de la información, como también de la custodia oficial de la información de la Subsecretaria en su ámbito de responsabilidad. 
+    texto: `Oficina dependiente de la Unidad de Adquisiciones y Servicios Generales, encargada de la gestión  documental de la Subsecretaría, tanto en el ingreso como egreso de la documentación oficial,  manteniendo el registro, despacho y control de la información, como también de la custodia oficial  de la información de la Subsecretaria en su ámbito de responsabilidad.  
     
     Sus funciones son:
     
-    -	Gestionar la documentación de ingreso y egreso de la Subsecretaría, de manera oportuna y eficiente, manteniendo los registros y controles adecuados.
-    -	Mantener la custodia oficial de la documentación en su ámbito de responsabilidad, velando por su buen resguardo, estado de conservación, administración y control.
-`
+    - Gestionar la documentación de ingreso y egreso de la Subsecretaría, de manera oportuna y  eficiente, manteniendo los registros y controles adecuados. 
+    - Mantener la custodia oficial de la documentación en su ámbito de responsabilidad, velando  por su buen resguardo, estado de conservación, administración y control. 
+    - Control y supervisión del estado de la documentación oficial de la Subsecretaría tanto  aquella que se resguarda en bodegas internas como externas. Así como realizar anualmente  las coordinaciones necesarias para el envío de información a DIBAM.`
   },
 
   inventario: {
     titulo: "Inventario",
-    nombre: "",
-    cargo: "",
-    texto: `Área asociada al control, registro y resguardo de los bienes institucionales, dependiente de Adquisiciones y Servicios Generales.`
+    texto: `Área Encargada de gestionar, controlar y resguardar los bienes institucionales de la SPS, mediante  la realización de inventarios físicos periódicos, el registro y seguimiento de los movimientos de bienes  (altas, traslados, modificaciones y bajas), y la mantención actualizada de los sistemas y  documentación de control, asegurando el cumplimiento de la normativa vigente, el uso eficiente de  los recursos y la adecuada información a las jefaturas respecto del estado de los activos  institucionales. 
+    
+  - Realización del inventario físico de los bienes de la SPS en forma semestral, en los términos  establecidos en el Manual de Control de Activos Fijos vigente. 
+  - Iniciar y hacer seguimiento a los procesos de Alta, Traslado, Modificación y Baja de bienes,  así como también de la elaboración y actualización de las Hojas Murales, ubicadas en cada  puesto de trabajo de la SPS. 
+  - Gestionar las acciones encomendadas por el/la jefe/a de la Unidad de Adquisiciones y  Servicios Generales, relativas al resguardo de los bienes de la SPS.
+  - Presentar a la jefatura DAF el estado de los bienes institucionales, y los posibles cambios  de estado (alta, baja, donación, etc.). 
+  - Revisión semanal y firma de la bitácora del vehículo institucional. 
+  - Realizar el registro y control administrativo de los bienes de uso de la institución mediante el  sistema de control vigente, así como gestionar su entrega a los/as funcionarios/as según  sean requeridos. 
+  - Elaborar términos de referencia y gestionar compras menores relacionadas con la  mantención de stock de los bienes de uso. 
+
+`
   },
 
   personas: {
