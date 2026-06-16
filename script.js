@@ -496,11 +496,15 @@
 
   ti: {
     titulo: "Dirección de Tecnologías de la Información",
-    nombre: "Álvaro Gazmuri Cornejo",
-    cargo: "Jefatura Dirección de Tecnologías de la Información",
-    texto: `Dirección encargada de proponer, gestionar y ejecutar las distintas actividades relacionadas con el desarrollo estratégico y operacional de las tecnologías de la información en la Subsecretaría de Previsión Social.
+    texto: `Dirección encargada de proponer, gestionar y ejecutar las actividades relacionadas con el desarrollo  estratégico, técnico y operacional de las tecnologías de la información en la Subsecretaría de  Previsión Social. 
     
-    Sus labores están orientadas a brindar soluciones tecnológicas que apoyen el cumplimiento de la estrategia y misión institucional; desarrollar y velar por el cumplimiento de políticas en los ámbitos de uso de los recursos computacionales, de sistemas de información y de seguridad de la información; asegurar la disponibilidad, seguridad y rendimiento de la infraestructura tecnológica y de los sistemas informáticos, de acuerdo a los lineamientos institucionales, las políticas y estándares definidos; entregar el soporte computacional; desarrollar o proponer los sistemas de información; y adoptar estándares y buenas prácticas en la gestión de las tecnologías de la información.`
+    Sus labores están orientadas principalmente a proveer servicios tecnológicos confiables, seguros y  oportunos, que respalden la continuidad operativa de la institución y el adecuado funcionamiento de  sus procesos, mediante la entrega de soporte computacional, la administración de la infraestructura  tecnológica, el desarrollo y mantención de sistemas de información y la aplicación de estándares  técnicos y buenas prácticas en gestión TI. 
+    
+    Asimismo, le corresponderá desarrollar, proponer y velar por el cumplimiento de políticas, normas y  procedimientos en los ámbitos del uso de los recursos computacionales, los sistemas de información,  la seguridad de la información y la ciberseguridad, asegurando la disponibilidad, integridad,  confidencialidad y rendimiento de la infraestructura tecnológica y de los sistemas informáticos,  conforme a la normativa vigente, los lineamientos institucionales y los estándares definidos a nivel  gubernamental. 
+    
+    Del mismo modo, la Dirección deberá apoyar y ejecutar iniciativas de Transformación Digital del  Estado, promoviendo la automatización de procesos, la interoperabilidad de los sistemas  institucionales con otras entidades públicas, el uso eficiente de la información y la adopción de  soluciones tecnológicas que fortalezcan la gestión institucional y la atención de usuarios internos y  externos. 
+    
+    Para el cumplimiento de estos objetivos, la Dirección de Tecnologías de la Información contempla  las siguientes Unidades: `
   },
 
   sistemas: {
