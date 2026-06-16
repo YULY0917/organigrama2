@@ -290,51 +290,70 @@
 
   legislativa: {
     titulo: "División de Asesoría Legislativa y Seguridad Laboral",
-    nombre: "Pedro Contador Abraham",
-    cargo: "Jefatura División de Asesoría Legislativa y Seguridad Laboral",
-    texto: `División encargada de asesorar al Subsecretario/a en la preparación y tramitación en el Congreso Nacional de proyectos de ley en el ámbito de la Previsión Social y de Seguridad y Salud en el Trabajo, así como en la negociación y aplicación de los convenios internacionales que digan relación con dichas materias.
+    texto: `División encargada de asesorar al Subsecretario/a en la preparación y tramitación en el Congreso  Nacional de proyectos de ley en el ámbito de la Previsión Social y de Seguridad y Salud en el Trabajo,  así como en la negociación y aplicación de los convenios internacionales que digan relación con  dichas materias. 
     
-     Además, se encarga de proponer e implementar las políticas públicas y el diálogo social en los ámbitos de su competencia.`
+     Además, se encarga de proponer e implementar las políticas públicas y el diálogo social en los  ámbitos de su competencia.
+     
+     Sus funciones son: 
+     - Asesorar al Subsecretario/a en la preparación y tramitación en el Congreso Nacional de  proyectos de ley en el ámbito de la Previsión Social y de Seguridad y Salud en el Trabajo.
+     - Diseñar y elaborar reglamentos y otras normas jurídicas que sean necesarias para la plena  vigencia y ejecución de normas legales previsionales y de la seguridad y salud en el trabajo  nacionales e internacionales. 
+    - Participar en las instancias de diálogo social que promueva la Subsecretaría.  
+    - Elaborar informes jurídicos y técnicos en materias de relaciones internacionales y otras  materias vinculadas a los regímenes previsionales de competencia de esta Subsecretaría. 
+    - Elaborar informes legislativos. 
+    - Participar en la tramitación de los tratados y/o convenios internacionales, en materia  previsional y de seguridad y salud laboral y en su aplicación, relacionándose con los  organismos del sector. 
+    - Participar en las relaciones internacionales en materias previsionales y de seguridad laboral,  con terceros Estados y en organismos internacionales relativos al tema. 
+    - Representar a la autoridad competente en la aplicación de los convenios de seguridad social  suscritos por Chile y evaluar su aplicación.  
+    - Participar en la implementación de las actividades relacionadas con el acceso a los derechos  de la seguridad social de los chilenos en el exterior como de los trabajadores migrantes en  Chile. 
+    - Proponer y coordinar las actividades de la Subsecretaría y de los servicios del sector, en el  ámbito de la Seguridad y Salud en el trabajo y evaluar su implementación. 
+    - Evaluar el funcionamiento del Sistema Nacional de Seguridad y Salud en el trabajo y  proponer el mejoramiento de sus normativas e instituciones. 
+    - Coordinar la gestión de las actividades e implementación de la Política y Programa Nacional  de la Seguridad y Salud en el Trabajo.  
+    - Proponer, diseñar, fomentar, implementar políticas de dialogo social en el ámbito de sus  competencias. 
+    - Realizar labores que se le encomienden relacionadas con el Comité de Ministros de  Seguridad y Salud en el Trabajo y con el Consejo Consultivo de Seguridad y Salud en el  Trabajo, incluyendo la labor de Secretaría Ejecutiva. 
+    - Realización de estudios que permitan implementar las políticas públicas en seguridad y salud  en el trabajo, facilitar la prevención de los riesgos laborales y proponer los ajustes normativos  que correspondan.  
+    - Ejecutar labores de difusión y promoción de las políticas y normativas de seguridad y salud  en el trabajo. 
+    - Evacuar informes técnicos en el área de su especialidad. 
+`
   },
 
   admin: {
     titulo: "Dirección de Administración y Finanzas",
-    nombre: "Lidia Lueiza Baeza",
-    cargo: "Jefatura Dirección de Administración y Finanzas",
-    texto: `Dirección encargada de administrar, gestionar y supervisar los recursos financieros, presupuestarios y materiales de la Subsecretaría de Previsión Social, procurando su correcta ejecución y dando conformidad a la normativa vigente, velando por el cumplimiento de los objetivos institucionales. 
+    texto: `La Dirección de Administración y Finanzas es la unidad responsable de administrar, gestionar y  supervisar los recursos financieros, presupuestarios y contables de la Subsecretaría de Previsión  Social, velando por el uso eficiente, transparente y oportuno de éstos, en conformidad con la  normativa vigente y los lineamientos institucionales, a fin de contribuir al cumplimiento de la misión  y objetivos estratégicos del Servicio.  
     
-    Asimismo, le corresponderá la coordinación en materia de planificación presupuestaria y el seguimiento a su ejecución, así como informes de auditorías e indicadores de gestión, entre otros, a los servicios públicos del sector Previsión Social.`
+    Asimismo, le corresponderá coordinar los procesos de planificación y ejecución presupuestaria,  efectuar el seguimiento y control de la gestión institucional mediante el monitoreo de indicadores, compromisos y acciones de mejora continua, así como apoyar y supervisar estas materias respecto  de los servicios públicos del sector Previsión Social.
+    
+    Del mismo modo, deberá promover una gestión de personas orientada al desarrollo institucional, el  fortalecimiento de capacidades, el bienestar laboral y la adecuada administración del ciclo de vida  funcionaria.
+    
+    La Dirección de Administración y Finanzas estará compuesta por las siguientes Unidades: `
   },
 
   presupuesto: {
     titulo: "Unidad de Presupuesto, Finanzas y Control Sectorial",
-    nombre: "Dan Muñoz Silva",
-    cargo: "Jefatura Unidad de Presupuesto, Finanzas y Control Sectorial",
-    texto: `Unidad encargada de coordinar, planificar, gestionar y controlar el presupuesto de la Subsecretaría de Previsión Social y monitorear y controlar la ejecución del presupuesto de los servicios dependientes y relacionados, proponiendo los ajustes necesarios que permitan optimizar el uso de los recursos públicos de acuerdo con la normativa vigente, manteniendo el equilibrio financiero con un riesgo controlado, utilizando para ellos, herramientas de control y gestión.
-    
-    Sus funciones son:
-    
-    -	Coordinar periódicamente el comportamiento de la Ejecución Presupuestaria de la Subsecretaría y sus Servicios dependientes. 
-    -	Coordinar y consolidar formulación presupuestaria de la Subsecretaría y los servicios dependientes.
-    -	Coordinar y realizar seguimiento de glosas presupuestarias de la Subsecretaría y los servicios dependientes.
-    -	Elaborar, controlar y gestionar el presupuesto de la institución, preservando máxima eficiencia y transparencia, en la operación y análisis de los procesos.
-    -	Apoyar, a la Jefatura de Adquisiciones y Servicios Generales, la elaboración del Plan Anual de Compras Institucional (PAC) que respalda y justifica el gasto público en iniciativas concretas, considerando en la estimación: tiempo, lugar, cantidad, precio, modalidad de compra, y la estructura presupuestaria vigente, entre otros.
-    -	Liderar reuniones con los responsables de los centros de costos que ejecutan presupuestos, para garantizar la correcta, eficiente y oportuna ejecución presupuestaria.
-    -	Consolidar la información del Presupuesto Institucional en un formato agregado, considerando la distribución vigente, disponibilidades, ejecución, Plan de Compras, centros de costos, programación de caja, entre otros.
-    -	Responder a los requerimientos de información presupuestaria del Ministerio de Hacienda, de la Dirección de Presupuestos, y de otros organismos que lo requieren.
-    -	Monitorear, analizar y preparar la información de la ejecución del presupuesto asociado al PAC vigente cuando sea requerido.
-    -	Solicitar y consolidar la información a los diferentes centros de costos para preparar el Presupuesto Exploratorio del año siguiente, justificando en las instancias pertinentes su contenido y estructura.
-    -	Coordinar el registro en sistema de gestión financiera los requerimientos presupuestarios, incorporando ajustes y modificaciones cuando proceda.
-    -	Controlar la ejecución de los contratos vigentes de la Subsecretaría, efectuando seguimiento a los hitos y/o productos.
-    -	Desempeñar otras funciones y/o coordinaciones encomendadas por la jefatura, dentro de su ámbito de responsabilidad.
-    -	Análisis y revisión de la documentación de respaldo para el pago de todo lo que provenga de un contrato y/o acuerdo complementario.`
+    texto: `Unidad encargada de coordinar, planificar, gestionar y controlar el presupuesto de la Subsecretaría  de Previsión Social, mantener la contabilidad institucional actualizada, gestionar los cobros y pagos  en forma oportuna, para los registros contables, de acuerdo a la normativa vigente y a las  Instrucciones impartidas por la Contraloría General de la República, Ministerio de Hacienda,  Dirección de Presupuestos y las directrices entregadas por el Ministerio del Trabajo y Previsión  Social. Además, debe monitorear y revisar la ejecución presupuestaria de los servicios dependientes  y relacionados y realizar la coordinación con ellos y el Ministerio del Trabajo y Previsión Social.  
+
+    Además, apoyar a la Unidad de Gestión y Desarrollo de las Personas, en el proceso de cálculo y  pago de las remuneraciones y la presentación de las Declaraciones Juradas de Impuestos a la  Renta, de las Remuneraciones y de los Honorarios a Suma Alzada, estas funciones son realizadas  por el Jefe de la Unidad y/o con el apoyo del Tesorero (cálculo de remuneraciones). 
+
+    Para el cumplimiento de las funciones de la Unidad debe coordinar el trabajo desarrollado por las  Subunidades que se detallan a continuación: `
   },
 
   "sub-presupuesto": {
-    titulo: "Subunidad de Presupuesto y Control Sectorial",
-    nombre: "",
-    cargo: "",
-    texto: `Apoya la gestión presupuestaria, el control sectorial y el seguimiento de la ejecución financiera institucional.`
+    titulo: "Subunidad de Presupuesto y Control Sector Previsional",
+    texto: `Encargada de coordinar, planificar, gestionar y controlar el presupuesto de la Subsecretaría de  Previsión Social, monitorear y revisar la ejecución presupuestaria de los servicios dependientes y  relacionados y realizar la coordinación con ellos y el Ministerio del Trabajo y Previsión Social, de  acuerdo a las directrices entregadas por la Contraloría General de la República, Ministerio de  Hacienda y la Dirección de Presupuestos.
+    
+    Sus principales funciones son:
+    
+   - Coordinar periódicamente el comportamiento de la Ejecución Presupuestaria de la  Subsecretaría y sus Servicios dependientes.  
+   - Coordinar y consolidar formulación presupuestaria de la Subsecretaría y los servicios  dependientes. 
+   - Coordinar y realizar seguimiento de glosas presupuestarias de la Subsecretaría y los  servicios dependientes. 
+   - Elaborar, controlar y gestionar el presupuesto de la institución, preservando máxima  eficiencia y transparencia, en la operación y análisis de los procesos. 
+   - Apoyar, a la Jefatura de Adquisiciones y Servicios Generales, la elaboración del Plan Anual  de Compras Institucional (PAC) que respalda y justifica el gasto público en iniciativas concretas, considerando en la estimación: tiempo, lugar, cantidad, precio, modalidad de  compra, y la estructura presupuestaria vigente, entre otros. 
+  - Liderar reuniones con los responsables de los centros de costos que ejecutan presupuestos,  para garantizar la correcta, eficiente y oportuna ejecución presupuestaria. 
+  - Consolidar la información del Presupuesto Institucional en un formato agregado,  considerando la distribución vigente, disponibilidades, ejecución, Plan de Compras, centros  de costos, programación de caja, entre otros. 
+  - Responder a los requerimientos de información presupuestaria del Ministerio de Hacienda,  de la Dirección de Presupuestos, Ministerio del Trabajo y Previsión Social y de otros  organismos que lo requieren. 
+  - Monitorear, analizar y preparar la información de la ejecución del presupuesto asociado al  PAC vigente cuando sea requerido. 
+  - Solicitar y consolidar la información a los diferentes centros de costos para preparar el  Presupuesto Exploratorio del año siguiente, justificando en las instancias pertinentes su  contenido y estructura. 
+  - Coordinar el registro en sistema de gestión financiera los requerimientos presupuestarios,  incorporando ajustes y modificaciones cuando proceda. 
+  - Revisar y validar las disponibilidades presupuestarias de los servicios relacionadas de los  contratos a honorarios a suma alzada. 
+  - Desempeñar otras funciones y/o coordinaciones encomendadas por la jefatura, dentro de su  ámbito de responsabilidad.`
   },
 
   contabilidad: {
