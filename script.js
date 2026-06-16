@@ -509,39 +509,39 @@
 
   sistemas: {
     titulo: "Unidad de Sistemas e Inteligencia de Negocios",
-    nombre: "Renato Llantén Almonacid",
-    cargo: "Jefatura Unidad de Sistemas e Inteligencia de Negocios",
-    texto: `Unidad encargada de proponer, diseñar e implementar sistemas de información que apoyen los distintos procesos de la Subsecretaría, favoreciendo el cumplimiento de las estrategias institucionales y la puesta en valor de la información, mediante la automatización los procesos y generación de modelos de Inteligencia de Negocios.
+    texto: `Unidad encargada de proponer, diseñar, desarrollar, implementar y mantener los sistemas de  información que apoyan los procesos operativos y estratégicos de la Subsecretaría, promoviendo la  automatización, la interoperabilidad y el uso intensivo de la información para la toma de decisiones,  mediante modelos de Inteligencia de Negocios. 
     
-    Sus funciones son:
-    
-    -	Gestionar y promover la eficiencia y productividad de los procesos internos de la institución, mediante el desarrollo, implementación y mantención de sistemas de información estratégicos.
-    -	Coordinar e implementar las necesidades de sistemas tecnológicos de la institución, proponiendo para ello, herramientas que estén en línea con las directrices estratégicas de la institución y cumplan la satisfacción directa de los usuarios.
-    -	Supervisar, coordinar y ejecutar la política de seguridad y las normativas gubernamentales relacionadas a sitios y servicios web, considerando para ello, el aseguramiento de la usabilidad y accesibilidad.
-    -	Proponer, gestionar e implementar plataforma web que promuevan los sitios públicos y sitios internos, como interfaces de comunicación y participación de los procesos estratégicos de la institución.
-    -	Proponer y liderar proyectos de innovación tecnológica, que apoyen a la mejora continua en los procesos estratégicos de la institución, a través de Transformación Digital del Estado.
-    -	Mantener actualizado el mapa de Sistemas institucional. 
-    -	Proponer, diseñar e implementar y difundir modelos de inteligencia de Negocios, que pongan en valor la información disponible y favorezca la gestión basada en evidencia, favoreciendo la gestión eficiente de los procesos institucionales. `
-  
-  },
+    Sus funciones son: 
+
+    - Gestionar y promover la eficiencia y productividad de los procesos internos de la institución,  mediante el desarrollo, implementación, mantención y mejora continua de sistemas de  información estratégicos. 
+    - Levantar, analizar y coordinar las necesidades de sistemas tecnológicos de las distintas  áreas, proponiendo soluciones técnicas alineadas con las directrices estratégicas  institucionales y orientadas a la satisfacción de los usuarios. 
+    - Diseñar e implementar soluciones de interoperabilidad, integración de sistemas y consumo  de servicios, en concordancia con los lineamientos de la Transformación Digital del Estado  y las plataformas gubernamentales vigentes. 
+    - Proponer la utilización, e integración de tecnologías emergentes. 
+    - Supervisar, coordinar y ejecutar la aplicación de políticas de seguridad, normativas  gubernamentales y estándares técnicos asociados a sitios y servicios web, asegurando  criterios de usabilidad, accesibilidad, continuidad operativa e integridad de la información. 
+    - Proponer, gestionar e implementar plataformas web institucionales, tanto públicas como  internas, como interfaces de comunicación, participación y soporte a los procesos  estratégicos y operativos de la Subsecretaría. 
+    - Proponer y liderar proyectos de innovación tecnológica y automatización de procesos, en el  marco de iniciativas de Transformación Digital del Estado y estrategia de Gobierno Digital. 
+    - Mantener actualizado el mapa de sistemas institucional, asegurando su trazabilidad,  interoperabilidad, manteniendo la coherencia con los procesos, la arquitectura tecnológica. 
+    - Proponer, diseñar, implementar y difundir modelos de Inteligencia de Negocios, reportes y  tableros de control que permitan poner en valor la información institucional y favorecer una  gestión basada en evidencia. 
+    - Desempeñar otras funciones y coordinaciones que le encomiende la jefatura, dentro de su  ámbito de responsabilidad.`
+    },
 
   infra: {
     titulo: "Unidad de Infraestructura, Soporte y Seguridad de la Información",
-    nombre: "",
-    cargo: "",
-    texto: `Unidad encargada de la continuidad operativa de los dispositivos informáticos y la seguridad de la información.
+    texto: `Unidad encargada de asegurar la continuidad operativa de la infraestructura tecnológica, la provisión  de servicios de soporte computacional y la implementación de medidas técnicas de ciberseguridad,  resguardando los activos tecnológicos y la información institucional. 
     
     Sus funciones son:
     
-    -	Asegurar el funcionamiento de la plataforma de servicios tecnológicos centralizados que soporta el data center de comunicaciones y sistemas institucionales, mediante la implementación, gestión y mantención de la Infraestructura TI (Servidores y Telecomunicaciones).
-    -	Supervisar, coordinar y ejecutar la asistencia técnica del software y hardware institucional, garantizando calidad y oportunidad en la prestación del servicio a los distintos usuarios de la organización.
-    -	Proponer, gestionar y aplicar las políticas de seguridad de la información de la institución, y las recomendadas por otras instituciones relacionadas.
-    -	Coordinar e implementar las necesidades de equipamiento tecnológico de la institución, proponiendo para ello, herramientas que estén en línea con las directrices estratégicas de la institución y cumplan la satisfacción directa de los usuarios.
-    -	Administrar los recursos tecnológicos de la institución velando por el correcto uso de estos dispositivos.
-    -	Implementar y gestionar las soluciones de infraestructura Cloud en sus modalidades LaaS, PaaS y SaaS según sea el caso.
-    -	Gestionar las Cloud de ofimática, entre ellas Office, Correo Electrónico y todos aquellos que se integren a dicha plataforma colaborativa.
-    -	Implementar las mejores prácticas de Administración de Base de Datos, asegurando el óptimo desempeño de las diferentes Bases de Datos y seguridad de los datos e información contenida. 
-    -	Mantener actualizado el inventario de activos de la información institucional, en particular los equipos bajo la custodia de la Dirección de Tecnologías de la Información.`
+    - Asegurar el funcionamiento, disponibilidad y rendimiento de la plataforma de servicios  tecnológicos centralizados que soportan el data center, las comunicaciones y los sistemas  institucionales, mediante la implementación, administración y mantención de la  infraestructura TI (servidores, redes y telecomunicaciones). 
+    - Supervisar, coordinar y ejecutar la asistencia técnica de hardware y software institucional,  garantizando una atención oportuna, eficiente y de calidad a los usuarios de la organización.
+    - Implementar y administrar soluciones de infraestructura tecnológica, en entornos Cloud como on premise, en sus modalidades IaaS, PaaS y SaaS, de acuerdo con las necesidades  institucionales y los lineamientos vigentes. 
+    - Gestionar las plataformas colaborativas y de ofimática institucional, incluyendo correo  electrónico, entre otros servicios asociados, asegurando su correcta operación y  disponibilidad. 
+    - Ejecutar acciones técnicas de seguridad de la información y ciberseguridad, tales como  gestión de accesos, protección perimetral, respaldo y recuperación, monitoreo de eventos,  bastionado de plataformas y gestión de vulnerabilidades. 
+    - Administrar y aplicar las políticas de seguridad de la información y ciberseguridad definidas por la institución y las recomendaciones técnicas emitidas por organismos competentes,  velando por su cumplimiento operativo. 
+    - Implementar y administrar las mejores prácticas de administración de bases de datos,  asegurando su desempeño, disponibilidad, respaldo y seguridad de la información  contenida. 
+    - Coordinar e implementar las necesidades de equipamiento tecnológico institucional,  proponiendo soluciones técnicas acordes a los estándares definidos y a los requerimientos  de los usuarios. 
+    - Administrar los recursos tecnológicos de la institución, velando por su correcto uso, control  y optimización. 
+    - Colaborar con la actualización del inventario de activos de información y tecnológicos  institucionales en coordinación con el inventario central de la Dirección de Administración y  Finanzas. 
+    - Desempeñar otras funciones y coordinaciones que le encomiende la jefatura, dentro de su  ámbito de responsabilidad.`
   }
 };
 
