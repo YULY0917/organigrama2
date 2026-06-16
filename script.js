@@ -447,20 +447,18 @@
 
   personas: {
     titulo: "Unidad de Gestión y Desarrollo de Personas",
-    nombre: "Taty Orellana",
-    cargo: "Jefatura Unidad de Gestión y Desarrollo de Personas",
-    texto: `Unidad encargada de la generación e implementación de políticas de desarrollo organizacional de la Subsecretaría, así como la administración y el mejoramiento de los subsistemas de gestión de personas, tales como: evaluación de desempeño, capacitación y formación, remuneraciones y administración del personal.
+    texto: `Unidad encargada de la generación e implementación de políticas de desarrollo organizacional de la  Subsecretaría, así como la administración y el mejoramiento de los subsistemas de gestión de  personas, tales como: evaluación de desempeño, capacitación y formación, remuneraciones y  administración del personal. 
     
     Sus funciones son:
     
-    -	Planificar y gestionar estratégicamente los distintos subsistemas de gestión de personas (reclutamiento y selección, inducción, capacitación y formación, gestión del desempeño, administración de personal, calidad de vida y bienestar, egreso) contribuyendo al adecuado uso de los recursos disponibles, de acuerdo a los lineamientos institucionales definidos. 
-    -	Proponer y asesorar a la jefatura de dirección respecto a políticas, prácticas, procedimientos e indicadores de gestión de personas. 
-    -	Proponer e implementar proyectos de desarrollo organizacional, orientados a mejorar el rendimiento del personal y a impulsar procesos de cambio organizacional, que contribuyan al cumplimiento de los objetivos de la Subsecretaría y la mejora continua de ambientes laborales. 
-    -	Administrar el ciclo de vida laboral del personal de la Subsecretaría, asegurando el cumplimiento de actos administrativos y procedimentales de la administración pública. 
-    -	Integrar y actuar como contraparte técnica en instancias bipartitas del servicio (capacitación, higiene y seguridad). 
-    -	Garantizar el cumplimiento con calidad y oportunidad de los procesos, actos administrativos y reportes de gestión requeridos por la Dirección de Presupuestos (DIPRES), Subsecretaria de Hacienda, Contraloría General de la República u otro organismo relacionado. 
-    -	Proponer, implementar y difundir al interior de la Institución las políticas de inclusión relevadas por la administración central.
-    -	Coordinación, en materias de Gestión y Desarrollo de Personas de los servicios relacionados.`
+  - Planificar y gestionar estratégicamente los distintos subsistemas de gestión de personas  (reclutamiento y selección, inducción, capacitación y formación, gestión del desempeño,  administración de personal, calidad de vida y bienestar, egreso) contribuyendo al adecuado  uso de los recursos disponibles, de acuerdo a los lineamientos institucionales definidos.  
+  - Proponer y asesorar a la jefatura de dirección respecto a políticas, prácticas, procedimientos  e indicadores de gestión de personas.  
+  - Proponer e implementar proyectos de desarrollo organizacional, orientados a mejorar el  rendimiento del personal y a impulsar procesos de cambio organizacional, que contribuyan  al cumplimiento de los objetivos de la Subsecretaría y la mejora continua de ambientes  laborales.  
+  - Administrar el ciclo de vida laboral del personal de la Subsecretaría, asegurando el  cumplimiento de actos administrativos y procedimentales de la administración pública.  
+  - Integrar y actuar como contraparte técnica en instancias bipartitas del servicio (capacitación,  higiene y seguridad). 
+  - Garantizar el cumplimiento con calidad y oportunidad de los procesos, actos administrativos  y reportes de gestión requeridos por la Dirección de Presupuestos (DIPRES), Subsecretaria  de Hacienda, Contraloría General de la República u otro organismo relacionado.  
+  - Proponer, implementar y difundir al interior de la Institución las políticas de inclusión  relevadas por la administración central. 
+  - Coordinación, en materias de Gestión y Desarrollo de Personas de los servicios  relacionados.`
   },
 
   control: {
