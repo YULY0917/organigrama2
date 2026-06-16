@@ -409,21 +409,46 @@
     titulo: "Dirección de Tecnologías de la Información",
     nombre: "Álvaro Gazmuri Cornejo",
     cargo: "Jefatura Dirección de Tecnologías de la Información",
-    texto: `Gestiona el desarrollo estratégico y operacional de las tecnologías de la información, sistemas, infraestructura, seguridad y soporte tecnológico.`
+    texto: `Dirección encargada de proponer, gestionar y ejecutar las distintas actividades relacionadas con el desarrollo estratégico y operacional de las tecnologías de la información en la Subsecretaría de Previsión Social.
+    
+    Sus labores están orientadas a brindar soluciones tecnológicas que apoyen el cumplimiento de la estrategia y misión institucional; desarrollar y velar por el cumplimiento de políticas en los ámbitos de uso de los recursos computacionales, de sistemas de información y de seguridad de la información; asegurar la disponibilidad, seguridad y rendimiento de la infraestructura tecnológica y de los sistemas informáticos, de acuerdo a los lineamientos institucionales, las políticas y estándares definidos; entregar el soporte computacional; desarrollar o proponer los sistemas de información; y adoptar estándares y buenas prácticas en la gestión de las tecnologías de la información.`
   },
 
   sistemas: {
     titulo: "Unidad de Sistemas e Inteligencia de Negocios",
     nombre: "Renato Llantén Almonacid",
     cargo: "Jefatura Unidad de Sistemas e Inteligencia de Negocios",
-    texto: `Diseña e implementa sistemas de información, automatización de procesos y modelos de inteligencia de negocios para apoyar la gestión institucional.`
+    texto: `Unidad encargada de proponer, diseñar e implementar sistemas de información que apoyen los distintos procesos de la Subsecretaría, favoreciendo el cumplimiento de las estrategias institucionales y la puesta en valor de la información, mediante la automatización los procesos y generación de modelos de Inteligencia de Negocios.
+    
+    Sus funciones son:
+    
+    -	Gestionar y promover la eficiencia y productividad de los procesos internos de la institución, mediante el desarrollo, implementación y mantención de sistemas de información estratégicos.
+    -	Coordinar e implementar las necesidades de sistemas tecnológicos de la institución, proponiendo para ello, herramientas que estén en línea con las directrices estratégicas de la institución y cumplan la satisfacción directa de los usuarios.
+    -	Supervisar, coordinar y ejecutar la política de seguridad y las normativas gubernamentales relacionadas a sitios y servicios web, considerando para ello, el aseguramiento de la usabilidad y accesibilidad.
+    -	Proponer, gestionar e implementar plataforma web que promuevan los sitios públicos y sitios internos, como interfaces de comunicación y participación de los procesos estratégicos de la institución.
+    -	Proponer y liderar proyectos de innovación tecnológica, que apoyen a la mejora continua en los procesos estratégicos de la institución, a través de Transformación Digital del Estado.
+    -	Mantener actualizado el mapa de Sistemas institucional. 
+    -	Proponer, diseñar e implementar y difundir modelos de inteligencia de Negocios, que pongan en valor la información disponible y favorezca la gestión basada en evidencia, favoreciendo la gestión eficiente de los procesos institucionales. `
+  
   },
 
   infra: {
     titulo: "Unidad de Infraestructura, Soporte y Seguridad de la Información",
     nombre: "",
     cargo: "",
-    texto: `Asegura la continuidad operativa de los servicios tecnológicos, infraestructura TI, soporte computacional y seguridad de la información.`
+    texto: `Unidad encargada de la continuidad operativa de los dispositivos informáticos y la seguridad de la información.
+    
+    Sus funciones son:
+    
+    -	Asegurar el funcionamiento de la plataforma de servicios tecnológicos centralizados que soporta el data center de comunicaciones y sistemas institucionales, mediante la implementación, gestión y mantención de la Infraestructura TI (Servidores y Telecomunicaciones).
+    -	Supervisar, coordinar y ejecutar la asistencia técnica del software y hardware institucional, garantizando calidad y oportunidad en la prestación del servicio a los distintos usuarios de la organización.
+    -	Proponer, gestionar y aplicar las políticas de seguridad de la información de la institución, y las recomendadas por otras instituciones relacionadas.
+    -	Coordinar e implementar las necesidades de equipamiento tecnológico de la institución, proponiendo para ello, herramientas que estén en línea con las directrices estratégicas de la institución y cumplan la satisfacción directa de los usuarios.
+    -	Administrar los recursos tecnológicos de la institución velando por el correcto uso de estos dispositivos.
+    -	Implementar y gestionar las soluciones de infraestructura Cloud en sus modalidades LaaS, PaaS y SaaS según sea el caso.
+    -	Gestionar las Cloud de ofimática, entre ellas Office, Correo Electrónico y todos aquellos que se integren a dicha plataforma colaborativa.
+    -	Implementar las mejores prácticas de Administración de Base de Datos, asegurando el óptimo desempeño de las diferentes Bases de Datos y seguridad de los datos e información contenida. 
+    -	Mantener actualizado el inventario de activos de la información institucional, en particular los equipos bajo la custodia de la Dirección de Tecnologías de la Información.`
   }
 };
 
