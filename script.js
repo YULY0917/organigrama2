@@ -8,193 +8,246 @@
 
   gabinete: {
     titulo: "Gabinete",
-    nombre: "Cristian Olivares Pino",
-    cargo: "Jefe de Gabinete",
-    texto: `Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, a través de acciones de coordinación entre sus distintas Divisiones, Direcciones, Unidades y Subunidades para el funcionamiento eficiente del servicio y la implementación de los productos estratégicos. Además, asesora a la autoridad del servicio en todas las materias relacionadas con el quehacer técnico y administrativo de la Subsecretaría.
+    texto: `Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, a través de acciones  de coordinación entre sus distintas Divisiones, Direcciones, Unidades y Subunidades para el  funcionamiento eficiente del servicio y la implementación de los productos estratégicos. Además,  asesora a la autoridad del servicio en todas las materias relacionadas con el quehacer técnico y  administrativo de la Subsecretaría. 
     
-    Gabinete se relacionará directamente con la autoridad entregando la información e insumos necesarios para la toma de decisiones y el adecuado control interno de la Institución.
+    Gabinete se relacionará directamente con la autoridad entregando la información e insumos  necesarios para la toma de decisiones y el adecuado control interno de la Institución. 
     
-    Este se relaciona de manera directa con los jefes/as de Gabinete de los servicios relacionados del sector previsional con el objetivo de entregar los lineamientos de la autoridad y supervisar la implementación de las políticas y el desarrollo del programa de Gobierno. `
+    Este se relaciona de manera directa con las jefaturas de gabinete de los servicios relacionados del  sector previsional con el objetivo de entregar los lineamientos de la autoridad y supervisar la  implementación de las políticas y el desarrollo del programa de Gobierno.   
+    
+    Cabe mencionar que Gabinete tiene bajo su responsabilidad directa a la División Fiscalía, Unidad de  Prensa y Comunicaciones, a la Unidad de Participación Ciudadana y Género y el Área conformada  por los asesores. 
+    
+    Todas las jefaturas de División y Dirección dependerán de la Jefatura de la División de Gabinete en  materia administrativa y en la entrega de lineamientos.  `
   },
 
   auditoria: {
     titulo: "Auditoría Interna",
-    nombre: "Johnny Astudillo Rojas",
-    cargo: "Jefatura Auditoría Interna",
-    texto: `Unidad que depende directamente del Subsecretario/a de Previsión Social, encargada de prestar asesoría especializada en materias de auditoría y control interno a la autoridad superior de la Institución, con el objetivo de evaluar el funcionamiento y el cumplimiento de la normativa en los proceso contables, financieros, administrativos y estratégicos de la Subsecretaría de Previsión Social. 
+    texto: `Unidad que depende directamente la jefatura superior de la Subsecretaría de Previsión Social,  encargada de prestar asesoría especializada en materias de auditoría y control interno a la autoridad  superior de la Institución, con el objetivo de evaluar el funcionamiento y el cumplimiento de la  normativa en los proceso contables, financieros, administrativos y estratégicos de la Subsecretaría  de Previsión Social.  
     
     Sus funciones son:
     
-    - Evaluar en forma permanente los sistemas de control interno institucional y proponer las recomendaciones para su mejoramiento.
-    -	Evaluar el grado de economía y eficiencia con que se utilizan los recursos humanos, financieros y materiales.
-    -	Promover la adopción de mecanismos de autocontrol en las unidades operativas de la organización.
-    -	Verificar que la gestión de la institución se enmarque en los lineamientos estratégicos definidos y que las decisiones de la autoridad se ajusten al ordenamiento jurídico que rige.
-    -	Elaborar y proponer para su aprobación el Programa Anual de Auditoría.
-    -	Efectuar seguimiento de las recomendaciones y observaciones hechas a la administración durante los procesos de auditoría.
-    -	Efectuar seguimiento de las medidas preventivas y correctivas emanadas de los informes de auditoría interna, aprobadas por la autoridad.
-    -	Coordinar y facilitar las orientaciones emanadas del Consejo de Auditoría Interna General de Gobierno (CAIGG) y Auditoría Ministerial.`
+    - Evaluar en forma permanente los sistemas de control interno institucional y proponer las  recomendaciones para su mejoramiento. 
+    - Evaluar el grado de economía y eficiencia con que se utilizan los recursos humanos,  financieros y materiales. 
+    - Promover la adopción de mecanismos de autocontrol en las unidades operativas de la  organización. 
+    - Verificar que la gestión de la institución se enmarque en los lineamientos estratégicos  definidos y que las decisiones de la autoridad se ajusten al ordenamiento jurídico que rige. 
+    - Elaborar y proponer para su aprobación el Programa Anual de Auditoría. - Efectuar seguimiento de las recomendaciones y observaciones hechas a la administración  durante los procesos de auditoría. 
+    - Efectuar seguimiento de las medidas preventivas y correctivas emanadas de los informes de  auditoría interna, aprobadas por la autoridad. 
+    - Coordinar y facilitar las orientaciones emanadas del Consejo de Auditoría Interna General  de Gobierno (CAIGG) y Auditoría Ministerial
+`
   },
 
   fiscalia: {
     titulo: "División Fiscalía",
     nombre: "Jaime Ale Tapia",
     cargo: "Fiscal",
-    texto: `División responsable de velar por la legalidad y control tanto de las actuaciones y/o de los actos administrativos que se suscriban al interior de la Subsecretaría, asesorando al Gabinete, otras Divisiones, Direcciones, Unidades y Subunidades para el cumplimiento de las leyes, reglamentos e instrucciones internas del Servicio. 
+    texto: `División responsable de velar por la legalidad y control tanto de las actuaciones y/o de los actos  administrativos que se suscriban al interior de la Subsecretaría, asesorando al Gabinete, otras  Divisiones, Direcciones, Unidades y Subunidades para el cumplimiento de las leyes, reglamentos e  instrucciones internas del Servicio.   
 
     Sus funciones son:
 
-    -	Asesorar a la autoridad en la dictación de los actos administrativos que requiera la Institución para el debido cumplimiento de sus funciones y todas aquellas materias jurídicas que requiera una interpretación y análisis, proporcionando soluciones oportunas, ajustadas a derecho y en el marco legal vigente.
-    -	Coordinar las acciones relativas al Sistema de Integridad Pública, velando por el estricto cumplimiento de la probidad administrativa y la ética pública, así como los compromisos relativos a la Unidad de Análisis Financiero (UAF) y el sistema interno de prevención de lavado de activos, financiamiento del terrorismo y delitos funcionarios. Corresponde a esta jefatura el cargo de Oficial de Cumplimiento Interno ante la UAF.
-    -	Gestionar respuestas oportunas y adecuadas a las solicitudes de información efectuadas invocando la ley N°20.285, de 2008, sobre Acceso a la Información Pública con el objetivo de cumplir con los principios de relevancia, libertad de información, apertura o transparencia, máxima divulgación, divisibilidad, facilitación, no discriminación, oportunidad, control, responsabilidad y gratuidad. 
-    -	Velar por el cumplimiento de la ley N°20.730, de 2014, que Regula el Lobby y las Gestiones que Representan Intereses Particulares ante la Autoridades y Funcionarios, con el objetivo de registrar y dar publicidad a las reuniones y audiencias solicitadas por lobbistas y gestores de intereses particulares que tengan como finalidad influir en una decisión pública, los viajes que realicen el ejercicio de sus funciones y los regalos que reciban en cuanto autoridad y funcionarios. 
-    -	Corresponde a su jefatura actuar como Ministro de Fe de la Institución. `
- },
+    -	Asesorar a la autoridad en la dictación de los actos administrativos que requiera la Institución  para el debido cumplimiento de sus funciones y todas aquellas materias jurídicas que  requiera una interpretación y análisis, proporcionando soluciones oportunas, ajustadas a  derecho y en el marco legal vigente. 
+    - Coordinar las acciones relativas al Sistema de Integridad Pública, velando por el estricto  cumplimiento de la probidad administrativa y la ética pública, así como los compromisos  relativos a la Unidad de Análisis Financiero (UAF) y el sistema interno de prevención de  lavado de activos, financiamiento del terrorismo y delitos funcionarios. Corresponde a esta  jefatura el cargo de Oficial de Cumplimiento Interno ante la UAF. 
+    - Gestionar respuestas oportunas y adecuadas a las solicitudes de información efectuadas  invocando la ley N°20.285, de 2008, sobre Acceso a la Información Pública con el objetivo  de cumplir con los principios de relevancia, libertad de información, apertura o transparencia,  máxima divulgación, divisibilidad, facilitación, no discriminación, oportunidad, control,  responsabilidad y gratuidad.  
+    - Velar por el cumplimiento de la ley N°20.730, de 2014, que Regula el Lobby y las Gestiones  que Representan Intereses Particulares ante Autoridades y el Funcionariado, con el objetivo  de registrar y dar publicidad a las reuniones y audiencias solicitadas por lobbistas y gestores  de intereses particulares que tengan como finalidad influir en una decisión pública, los viajes  que realicen el ejercicio de sus funciones y los regalos que reciban en cuanto autoridad y  funcionarios. 
+    - Corresponde a su jefatura actuar como Ministro de Fe de la Institución. - Garantizar la legalidad de los actos administrativos de la Subsecretaría mediante el análisis  y estudio de los antecedentes relevantes, asegurando que se dicten conforme a la normativa  legal y administrativa vigente, además de proponer las medidas correctivas que  correspondan cuando sea necesario. 
+    - Velar por el cumplimiento de las normas legales y administrativas aplicables, realizando un  análisis detallado de los antecedentes de acuerdo con la normativa vigente y la  jurisprudencia de la Contraloría General de la República, efectuando un control de legalidad  de los actos sometidos a su revisión. 
+    - Incorporar estándares de calidad en los procedimientos administrativos, promoviendo una  gestión más eficiente y transparente. 
+    - Fomentar el cumplimiento de políticas e instrucciones en materia de ética pública y probidad  administrativa, mediante la implementación de mecanismos adecuados. 
+    - Gestionar respuestas oportunas y adecuadas a las solicitudes de información efectuadas  invocando la ley N°20.285, de 2008, sobre Acceso a la Información Pública (Transparencia  Pasiva).
+    - Fiscalizar el cumplimiento de la ley N°20.730, que regula el lobby y las gestiones que  representen intereses particulares ante autoridades y funcionarios públicos. 
+    - Asesorar y mantener un registro consolidado de los requerimientos del H. Congreso  Nacional, asegurando una adecuada coordinación en las respuestas institucionales. 
+    - Apoyar a la jefatura en la elaboración de informes requeridos por la Contraloría General de  la República. 
+    - Resguardar la coherencia jurídica y técnica de las resoluciones, actos administrativos y  productos finales de la Subsecretaría. 
+    - Revisar y asesorar en el examen de legalidad de los productos finales emitidos por la  Subsecretaría de Previsión Social. 
+    - Realizar las gestiones que le encomiende su superior jerárquico, que digan relación con las  funciones de la División. 
+    - Asesorar y efectuar el control de legalidad de los actos administrativos (bases de licitación,  aprobación de contratos, resoluciones de adjudicación, etc.), relativos a los procesos de  compras y contrataciones públicas regulados por la ley N°19.886, su Reglamento y otras  normas afines. 
+    - Asesorar, apoyar y gestionar todas aquellas acciones necesarias y/o gestiones, para dar  respuesta oportuna a los reclamos e impugnaciones que se presenten en contra de los actos  administrativos relativos a los procesos de compras y contrataciones publicas regulados por  la ley N°19.886 y su Reglamento. 
+    - Actuar como contraparte técnica con las distintas Direcciones y Unidades internas en las  materias referidas a contrataciones públicas, a fin de dar cumplimiento con la misión y  lineamientos de la Subsecretaría en la ejecución de los distintos procesos de contratación. 
+    - Asesorar y efectuar el control de legalidad de los actos relativos a la contratación de personal  y comisiones de servicio al extranjero, cuando así lo requiera la Unidad de Gestión y  Desarrollo de las Personas de la Subsecretaría. 
+    - Apoyar, asesorar y realizar el control de legalidad de los actos administrativos relativo a la  designación de integrantes de los Comités y Comisiones que se relacionan con esta  Subsecretaría de Previsión Social. 
+    - Diagnosticar y levantar aquellos procesos que se llevaran a cabo en el ejercicio de las  funciones la División, a fin de dar cumplimiento con la planificación anual de la misma. 
+    - Asesorar y efectuar el control de legalidad de los actos administrativos relativos a los  nombramientos de las autoridades relacionadas con la Subsecretaría de Previsión Social  (SUSESO, SUPEN, IPS e ISL), así como la gestión de los Convenios de Alta Dirección  Pública (ADP), regulados por la ley N°19.882, el decreto N°172 de 2014 del Ministerio de  Hacienda y otras normas afines. 
+    - Coordinar con la Dirección de Educación Previsional la gestión oportuna del proceso referido  Fondo para la Educación Previsional, regulado en la N°20.255 de 2008, y las respectivas  bases administrativas y técnicas que llamen al Concurso FEP. 
+    - Asesorar y efectuar el control de legalidad de los actos administrativos relativos a la Encuesta  de Protección Social (EPS), en coordinación con la Dirección de Estudios Previsionales. - Realizar las gestiones que le encomiende su superior jerárquico, que digan relación con las  funciones de la División. 
+
+    Además, depende de la División Fiscalía la siguiente Unidad:`
+  },
 
   seguridad: {
     titulo: "Unidad de Seguridad de la Información y Protección de Datos Personales",
-    nombre: "",
-    cargo: "",
-    texto: `Unidad vinculada al resguardo de la seguridad de la información y la protección de datos personales institucionales.`
+    texto: `Unidad encargada de diseñar, implementar, mantener y supervisar el marco institucional de  seguridad de la información y protección de datos personales, asegurando el cumplimiento de las  obligaciones normativas, la adecuada gestión de riesgos y la protección de los activos de información  de la Subsecretaría de Previsión Social.
+    
+    Su quehacer se orienta principalmente al gobierno, cumplimiento y aseguramiento de la seguridad  de la información, estableciendo políticas, procedimientos, controles y mecanismos de supervisión  que resguarden la trazabilidad de la información institucional, así como los derechos de las personas  respecto del tratamiento de sus datos personales. 
+    
+    Asimismo, le corresponderá coordinarse con las unidades de negocio, con el objeto de integrar los  requisitos de seguridad de la información y protección de datos en los procesos, sistemas, servicios  digitales y proyectos institucionales, promoviendo una cultura organizacional orientada a la seguridad  y al cumplimiento.
+    
+    Funciones:
+    
+    - Diseñar, implementar, mantener y mejorar continuamente un Sistema de Gestión de  Seguridad de la Información (SGSI), alineado a estándares nacionales e internacionales,  que permita gestionar de manera sistemática los riesgos asociados a la información y a los  servicios tecnológicos institucionales. 
+    - Diseñar, implementar, mantener un sistema de protección de datos personales alineado a  estándares nacionales, que permita gestionar de manera sistemática los riesgos. - Proponer, desarrollar, actualizar y supervisar el cumplimiento de las políticas, normas,  procedimientos y lineamientos internos en materias de seguridad de la información y  protección de datos personales, asegurando su correcta aplicación en toda la Subsecretaría. 
+    - Identificar, analizar, evaluar y gestionar los riesgos de seguridad de la información,  definiendo controles y planes de tratamiento acordes al nivel de riesgo aceptado por la  institución. 
+    - Supervisar la correcta implementación de controles de seguridad técnicos, organizacionales  y procedimentales, coordinando su aplicación con las unidades responsables de  infraestructura, sistemas y soporte tecnológico. 
+    - Asesorar a las distintas áreas de la Subsecretaría en la incorporación de requisitos de  seguridad de la información y protección de datos en procesos, sistemas, proyectos  tecnológicos, contratos y servicios externalizados. 
+    - Colaborar con la gestión de incidentes de seguridad de la información, incluyendo su  detección, análisis, registro, tratamiento, seguimiento y reporte, en conjunto con las áreas  técnicas correspondientes. 
+    - Definir y supervisar los criterios de clasificación de la información, controles de acceso,  manejo seguro de la información y resguardo de datos personales a lo largo de su ciclo de  vida. 
+    - Gestionar y mantener actualizada la documentación del SGSI, incluyendo políticas,  procedimientos, matrices de riesgo, declaraciones de aplicabilidad, registros y evidencias  requeridas para su correcta operación. 
+    - Coordinar acciones de concientización y capacitación en seguridad de la información y  protección de datos personales para funcionarios y colaboradores, promoviendo buenas  prácticas y el cumplimiento de las políticas institucionales.
+    - Supervisar el cumplimiento de los requisitos de seguridad de la información y protección de  datos en la relación con proveedores y terceros, en coordinación con las áreas de  adquisiciones, contratos y tecnologías de la información. 
+    - Elaborar informes de gestión, indicadores y reportes asociados al estado de la seguridad de  la información y la protección de datos personales, para la toma de decisiones de la jefatura  superior. `
   },
 
   participacion: {
     titulo: "Unidad de Participación Ciudadana y Género",
-    nombre: "Katherine Quijada López",
-    cargo: "Jefatura Unidad de Participación Ciudadana y Género",
-    texto: `Unidad encargada de implementar los mecanismos establecidos en la ley N°20.500, de “Asociaciones y Participación Ciudadana en la Gestión Pública”, fortaleciendo los espacios de participación existentes e incorporando a la ciudadanía en los procesos de formulación de políticas públicas propias del área de desarrollo de la Subsecretaría de Previsión Social. Además de contribuir a que todas las acciones y políticas desarrolladas, tanto a nivel institucional como aquellas dirigidas hacia la ciudadanía, incorporen la perspectiva de género, de modo tal de aportar hacia la disminución de las brechas y barreras existentes en el sistema de Seguridad Social, y la equidad entre mujeres, hombres y disidencias sexo-genéricas.
+    texto: `Unidad responsable de coordinar, asesorar, implementar y dar seguimiento a las acciones  institucionales vinculadas con la participación ciudadana en la gestión pública y la transversalización  del enfoque de género en la Subsecretaría de Previsión Social. 
 
-    Por lo anterior, la Unidad de Participación Ciudadana y Género tiene como objetivo el potenciar la participación ciudadana en la gestión pública e incorporar el enfoque de género en las políticas públicas en materia de seguridad social, aportando a ellas de manera dinámica y en el marco de la innovación pública.
+    En materia de Participación Ciudadana, le corresponde promover e implementar los mecanismos  establecidos en la Ley N°20.500, sobre Asociaciones y Participación Ciudadana en la Gestión  Pública, así como aquellos definidos en la Norma General de Participación Ciudadana del Ministerio  del Trabajo y Previsión Social, fortaleciendo los espacios de diálogo, consulta, información,  deliberación y colaboración con la ciudadanía y las organizaciones de la sociedad civil vinculadas al  ámbito de la seguridad social favoreciendo una gestión pública más inclusiva, informada,  representativa, colaborativa e innovadora. 
+    
+    En materia de género, la Unidad debe contribuir a que las políticas, planes, programas, estudios,  acciones comunicacionales, procesos internos y servicios dirigidos a la ciudadanía incorporen de  manera transversal la perspectiva de género, derechos humanos e interseccionalidad, con el objeto  de aportar a la identificación y disminución de brechas, barreras e inequidades que afectan a mujeres 
+    y hombres en el sistema de seguridad social. 
 
     Funciones:
 
-    -	Establecer una contraparte para la coordinación permanente en cada una de las Instituciones y desarrollar un plan de trabajo para relacionarse con ellas, tanto para participación ciudadana como en género.
-    -	Implementar, de acuerdo con la ley sobre asociaciones y participación ciudadana en la gestión pública, todos los mecanismos señalados y derivados de dicha normativa.
-    -	Generar condiciones necesarias para el adecuado funcionamiento del Consejo de la Sociedad Civil para la Seguridad Social.
-    -	Implementar planes y programas, u otras acciones, que aseguren y promuevan compromisos de fortalecimiento de la sociedad civil y la participación ciudadana de los distintos estamentos, grupos, sectores, sin distinción en la gestión pública.
-    -	Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades.
-    -	Asesorar y brindar asistencia técnica a la Subsecretaría de Previsión Social y a sus servicios relacionados, en la tarea de transversalizar la perspectiva de género en todo su quehacer institucional. 
-    -	Coordinar y asesorar la incorporación de criterios de equidad de género de forma transversal en las políticas de la Institución y de los organismos relacionados de la Subsecretaría de Previsión Social, estableciendo acciones e iniciativas, realizando seguimiento y promoción de la perspectiva de género. Aportar en la formulación de las políticas, programas y acciones para la integración y desarrollo del enfoque de derechos humanos, la perspectiva de género e interseccionalidad. 
-    -	Proponer acciones que permitan la generación de espacios laborales libres de todo tipo de violencia o discriminación en razón de género, desde la perspectiva de la transformación de las prácticas o conductas abusivas, ya sea entre pares o en relaciones laborales jerárquicas.
-    -	Impulsar la dictación y/o actualización de políticas, procedimientos o protocolos institucionales, como, por ejemplo, sobre maltrato, abuso laboral y sexual, entre otros. 
-    -	Coordinación interinstitucional en materia de género, y actuará como contraparte técnica ante otros organismos públicos o privados, velando por la debida articulación entre estos.  Para lo anterior podrá constituir mesas de trabajo, destinadas al estudio de temas que por su especialidad o complejidad lo requieran.
-    -	Proveer asesoramiento técnico y estratégico a las distintas áreas y organismos relacionados con la Subsecretaría de Previsión Social para incorporar criterios de equidad de género en sus políticas y prácticas.
-    -	Desarrollar y promover acciones e iniciativas específicas que fomenten la equidad de género dentro de la institución y sus organismos asociados. `
+    En materia de participación ciudadana: 
+
+  - Coordinar, implementar y efectuar seguimiento a los mecanismos de participación ciudadana  establecidos en la Ley N°20.500, en la Ley N°18.575 y en la Norma General de Participación  Ciudadana del Ministerio del Trabajo y Previsión Social, y en el Instructivo Presidencial para  el fortalecimiento de la participación ciudadana en la gestión pública vigente. 
+  - Proponer, coordinar y ejecutar el Plan Anual de Participación Ciudadana de la Subsecretaría.  
+  - Coordinar la designación de contrapartes permanentes de los servicios relacionados que  integran el Comité de Participación Ciudadana del Sector Previsional, y desarrollar un Plan  Anual de trabajo que oriente su funcionamiento y fortalezca la articulación sectorial en la  materia. 
+  - Fortalecer el funcionamiento del Consejo de la Sociedad Civil de la Subsecretaría de  Previsión Social, generando las condiciones técnicas, metodológicas y administrativas  necesarias para su adecuado funcionamiento. 
+  - Diseñar, coordinar e implementar instancias de diálogo, consulta, información y/o colaboración con la ciudadanía, organizaciones de la sociedad civil y grupos de interés  vinculados al ámbito previsional y de seguridad social.  
+  - Coordinar el desarrollo de cuentas públicas participativas, consultas ciudadanas, diálogos  participativos, encuestas, audiencias u otros mecanismos de participación, asegurando  condiciones de acceso, inclusión, representatividad y pertinencia territorial. 
+  - Sistematizar, analizar y reportar las opiniones, observaciones, propuestas y necesidades  levantadas en los procesos participativos, promoviendo su consideración en la formulación,  implementación, seguimiento y evaluación de políticas, planes, programas y acciones  institucionales.  
+  - Mantener mecanismos de coordinación permanente con las divisiones, departamentos,  unidades y organismos relacionados de la Subsecretaría, a fin de incorporar la participación  ciudadana en los procesos institucionales que correspondan. 
+  
+  En materia de género: 
+  
+  - Coordinar la formulación, implementación, seguimiento y evaluación de compromisos,  planes, medidas e indicadores institucionales orientados a la equidad de género en materias  de seguridad social. 
+  - Asesorar técnica y estratégicamente a las autoridades, divisiones, departamentos, unidades  y organismos relacionados de la Subsecretaría de Previsión Social en la incorporación  transversal del enfoque de género, derechos humanos e interseccionalidad en su quehacer  institucional.  
+  - Promover la incorporación de criterios de equidad de género en políticas, programas,  estudios, estadísticas, instrumentos de planificación, procesos de atención ciudadana,  acciones comunicacionales y productos institucionales.  
+  - Coordinar instancias de trabajo interinstitucional en materia de género, actuando como  contraparte técnica ante organismos públicos, privados, académicos o de la sociedad civil,  cuando corresponda.  
+  - Coordinar la designación de contrapartes permanentes de los servicios relacionados que  integran la Mesa de Transversalización de Género del Sector Previsional, y desarrollar un  plan de trabajo que oriente su funcionamiento y fortalezca la articulación sectorial en materia  de género. 
+  - Proponer, coordinar o participar en mesas de trabajo destinadas al análisis de materias de  género, seguridad social, derechos humanos, corresponsabilidad, cuidados, prevención de  violencias y otras temáticas vinculadas al ámbito de competencia de la Subsecretaría.  
+  - Promover acciones orientadas a generar espacios laborales libres de violencia,  discriminación, acoso laboral, acoso sexual y violencia en el trabajo, en coordinación con las  unidades institucionales competentes.  
+  - Impulsar la elaboración, actualización, difusión y seguimiento de políticas, procedimientos,  protocolos, orientaciones o instrumentos institucionales vinculados con igualdad de género,  conciliación de la vida personal, familiar y laboral, prevención de violencias y no  discriminación.  
+  - Desarrollar y promover acciones de sensibilización, capacitación y difusión interna y externa  en materias de género, seguridad social, derechos humanos, corresponsabilidad y  prevención de la violencia y discriminación.  
+  - Elaborar reportes, informes, minutas técnicas y otros instrumentos de seguimiento que  permitan dar cuenta de los avances, resultados, nudos críticos y oportunidades de mejora  en las materias de competencia de la Unidad. `
   },
 
   asesores: {
     titulo: "Asesores",
-    nombre: "Macarena Pinto Gutiérrez",
-    cargo: "Jefatura Asesores",
-    texto: `Área encargada de proporcionar apoyo a la gestión técnica y política de la Subsecretaría de Previsión Social, en la creación de políticas públicas a través de propuestas de elaboración y modificación del marco normativo y reglamentario en materias previsionales y de seguridad laboral.
+    texto: `Área encargada de proporcionar apoyo a la gestión técnica y política de la Subsecretaría de  Previsión Social, en la creación de políticas públicas a través de propuestas de elaboración y  modificación del marco normativo y reglamentario en materias previsionales y de seguridad laboral. 
     
     Sus funciones son:
     
-    -	Coordinar reuniones y mesas de trabajo para el análisis de políticas públicas.
-    -	Revisión de normativas vigentes, para el análisis de propuestas legales. 
-    -	Diseño de propuestas normativas para la creación políticas públicas.
-    -	Elaboración de minutas y documentos de trabajo para el análisis, discusión, elaboración y evaluación de políticas públicas en materia previsional.
-    -	Acompañamiento a la autoridad en procesos de discusión de proyectos de ley en el Congreso. 
+    -	Coordinar reuniones y mesas de trabajo para el análisis de políticas públicas. 
+    - Revisión de normativas vigentes, para el análisis de propuestas legales.  
+    - Diseño de propuestas normativas para la creación políticas públicas. 
+    - Elaboración de minutas y documentos de trabajo para el análisis, discusión, elaboración y  evaluación de políticas públicas en materia previsional. 
+    - Acompañamiento a la autoridad en procesos de discusión de proyectos de ley en el  Congreso
+ 
 `
   },
 
   prensa: {
     titulo: "Unidad de Prensa y Comunicaciones",
-    nombre: "Eugenio Figueroa Bustos",
-    cargo: "Jefatura Unidad de Prensa y Comunicaciones",
-    texto: `Unidad responsable de generar contenidos informativos sobre las políticas públicas que emanan de la Subsecretaría de Previsión Social, y coordinar su entrega a los medios de comunicación.
+    texto: `Unidad responsable de generar contenidos informativos sobre las políticas públicas que emanan de  la Subsecretaría de Previsión Social, y coordinar su entrega a los medios de comunicación. 
     
     Sus funciones son:
     
-    -	Proponer, diseñar, coordinar y supervisar la implementación de campañas comunicacionales sobre beneficios, programas y políticas previsionales y de seguridad y salud en el trabajo.
-    -	Gestionar entrevistas, reportajes y publicaciones de la autoridad y vocerías técnicas, cuando se estimen necesarias. 
-    -	Mantener un proceso de comunicación continua con los encargados de prensa del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo y servicios relacionados.
-    -	Comunicar a las autoridades la Agenda Pública del o la Subsecretario/a.
-    -	Desarrollar productos audiovisuales y gráficos orientados a la difusión y educación previsional.
-    -	Supervisar y coordinar la correcta aplicación de la imagen corporativa de productos generados por la Institución o por ella patrocinados.
-    -	Administrar y actualizar soportes online informativos de la Subsecretaría: web y redes sociales.
+    -	Proponer, diseñar, coordinar y supervisar la implementación de campañas comunicacionales  sobre beneficios, programas y políticas previsionales y de seguridad y salud en el trabajo. 
+    - Gestionar entrevistas, reportajes y publicaciones de la autoridad y vocerías técnicas, cuando  se estimen necesarias.  
+    - Mantener un proceso de comunicación continua con las personas encargadas de prensa del  Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo y servicios relacionados. 
+    - Comunicar a las autoridades la Agenda Pública del Subsecretario o subsecretaria. - Desarrollar productos audiovisuales y gráficos orientados a la difusión y educación  previsional. 
+    - Supervisar y coordinar la correcta aplicación de la imagen corporativa de productos  generados por la Institución o por ella patrocinados. 
+    - Administrar y actualizar soportes online informativos de la Subsecretaría: web y redes  sociales. 
+
 `
   },
 
   educacion: {
     titulo: "Dirección de Educación Previsional",
-    nombre: "Rodrigo Pérez Fuentes",
-    cargo: "Jefatura Dirección de Educación Previsional",
-    texto: `Dirección encargada de liderar y coordinar los procesos de educación de los ciudadanos sobre temas previsionales, con el objetivo de generar y promover la cultura previsional en Chile dentro del marco de la Política de Educación Previsional.
+    texto: `Dirección encargada de liderar, coordinar y supervisar el desarrollo de políticas, planes y estrategias  de educación previsional, orientadas a fortalecer la cultura previsional de la ciudadanía, promoviendo  acciones de difusión, formación, seguimiento y evaluación en materias previsionales. Asimismo, le  corresponderá la administración y continuidad operativa de las acciones asociadas al Fondo para la  Educación Previsional, en conformidad con los lineamientos institucionales y disponibilidad  presupuestaria vigente.  
     
-    Además, está a cargo de implementar y desarrollar los programas y planes que define la Política de Educación, a través de la Unidad de Educación Previsional y de generar y promover la cultura previsional, a través de la correcta administración del Fondo para la Educación Previsional (FEP), cuyo propósito es apoyar financieramente proyectos, programas, actividades, medidas de promoción y educación previsional.`
+    Sus funciones son:
+    
+    - Proponer lineamientos, políticas y estrategias institucionales en materias de educación  previsional. 
+    - Dirigir y supervisar la implementación de los programas y planes nacionales de educación  previsional que instruya la autoridad. 
+    - Coordinar acciones de educación previsional con las 16 SEREMIS del Trabajo y Previsión  Social a nivel nacional 
+    - Coordinar acciones de educación previsional con organismos públicos, privados y actores  del intersector. 
+    - Representar a la Subsecretaría de Previsión Social ante instancias intersectoriales  vinculadas a educación e inclusión financiera, incluyendo la Comisión Asesora para la  Inclusión Financiera (CAPIF) y las acciones asociadas a la Estrategia Nacional de Inclusión  Financiera (ENIF), promoviendo la incorporación de contenidos previsionales en iniciativas  orientadas al fortalecimiento de capacidades financieras y previsionales de la ciudadanía. 
+    - Administrar y dar continuidad operativa a las acciones asociadas al Fondo para la Educación  Previsional, incluyendo procesos de gestión documental, seguimiento administrativo,  monitoreo de indicadores, revisión de materiales y registro de información asociada a sus  iniciativas y proyectos. 
+    - Supervisar la elaboración, revisión y validación de contenidos y materiales desarrollados en  el marco de programas, licitaciones e iniciativas de educación previsional. 
+    - Supervisar el cumplimiento de metas, indicadores, sistemas de monitoreo y evaluación  asociados a la Dirección. 
+    - Promover el desarrollo y fortalecimiento de herramientas y plataformas de apoyo a la  educación previsional, incluyendo Aula Previsional. 
+    - Controlar, evaluar y efectuar seguimiento de las acciones y programas ejecutados por la  Dirección y la Unidad de Educación Previsional. 
+
+  La Dirección cuenta con una unidad operativa y a cargo de la ejecución del Plan Nacional de Charlas  de Educación Previsional. `
   },
 
   "u-educacion": {
     titulo: "Unidad de Educación Previsional",
-    nombre: "Elizabeth Ramírez Piña",
-    cargo: "Jefatura Unidad de Educación Previsional",
-    texto: `Unidad encargada de desarrollar estrategias educativas con el fin de difundir información en temas previsionales a la ciudadanía, contribuyendo al desarrollo de la cultura previsional.
+    texto: `Unidad encargada de desarrollar estrategias educativas presenciales y telemáticas, con el fin de  difundir información en temas previsionales a la ciudadanía, contribuyendo al desarrollo de la cultura  previsional.  
     
     Sus funciones son:
     
-    -	Implementar y desarrollar los programas y planes de la Política Nacional de Educación Previsional.
-    -	Proponer y diseñar planes y programas de educación previsional para el intersector.
-    -	Crear instrumentos de evaluación y seguimiento de implementación de los planes y programas de educación previsional.
-    -	Velar por la correcta ejecución de los planes y programas impulsados por la Subsecretaría de Previsión Social.
-    -	Controlar, evaluar y efectuar el seguimiento de los programas ejecutados.
-    -	Elaboración de contenidos e insumos para campañas comunicacionales de educación previsional.
-    -	Definir, revisar y/o aprobar todo el material que se publique en virtud del desarrollo del Fondo de Educación Previsional.
+    - Ejecutar programas, actividades y acciones de educación previsional dirigidas a la  ciudadanía y al intersector, en el marco del Plan Nacional de Charlas de Educación  Previsional, con una cobertura territorial nacional. 
+    - Diseñar y elaborar contenidos técnicos y comunicacionales para acciones de difusión, capacitación, sensibilización y formación a través de distintos materiales y formatos para  actividades territoriales, telemáticas, plataforma e-learning y otras actividades de educación  previsional. 
+    - Implementar estrategias y acciones de difusión orientadas al fortalecimiento de la cultura  previsional. 
+    - Ejecutar acciones de seguimiento y monitoreo de programas e iniciativas de educación  previsional.
+    - Aplicar instrumentos de evaluación y seguimiento en las actividades que correspondan. 
+    - Gestionar y actualizar información e indicadores asociados a programas y acciones de  educación previsional. 
+    - Elaborar reportes e insumos técnicos para apoyar la gestión y toma de decisiones de la  Dirección. 
+    - Colaborar en la administración y actualización de plataformas digitales de apoyo a la  educación previsional. 
+    - Elaborar, actualizar y monitorear convenios y alianzas estratégicas en conjunto con otras  unidades del Servicio, que permitan aumentar la cobertura de las acciones de educación  previsional, de la Subsecretaría de Previsión Social. 
+
+
 `
   },
 
   estudios: {
     titulo: "Dirección de Estudios Previsionales",
-    nombre: "Ivonne Bueno Velasco",
-    cargo: "Jefatura Dirección de Estudios Previsionales",
-    texto: `Esta Dirección estará a cargo del análisis, evaluación, estudio y propuesta de políticas en el ámbito de Previsión Social, y de la evaluación permanente de los programas del sector. Además, será el área responsable del mantenimiento de las bases de datos previsionales para el desarrollo de análisis.`
+    texto: `Esta Dirección está a cargo del análisis, evaluación y propuesta de políticas en el ámbito de Previsión  Social, así como de la evaluación permanente de los programas del sector. Para ello, provee  asesoría técnica especializada a las autoridades del sector, aportando el conocimiento necesario  para el diseño, implementación y seguimiento de la reforma previsional y las políticas públicas  asociadas. Asimismo, es responsable de la difusión oportuna y transparente de información  estadística y técnica sobre el sistema previsional. 
+    
+    Del mismo modo, es el área responsable de mantener y gestionar las bases de datos previsionales,  incluida la Encuesta de Protección Social (EPS), principal instrumento de información longitudinal  del sistema. Con este fin, establece vínculos de coordinación con organismos públicos que permiten  el intercambio de información relevante y el trabajo colaborativo en materias previsionales y de  seguridad social.  
+    
+    Para dar cumplimiento a los objetivos señalados, la Dirección se organiza en las siguientes 2  unidades: `
   },
 
   observatorio: {
     titulo: "Unidad Observatorio Previsional",
-    nombre: "Luis Figueroa Medizabal",
-    cargo: "Jefatura Unidad Observatorio Previsional",
-    texto: `Unidad encargada del resguardo y procesamiento de las bases de datos administrativas (internas y externas) de la Subsecretaria de Previsión Social. Asimismo, le corresponderá contribuir a la prospección de contenidos de la reforma y políticas previsionales. Además, es la unidad encargada de la gestión y administración de la Encuesta de Protección Social (EPS) y otras fuentes de información primaria y secundaria. 
+    texto: `Unidad encargada del resguardo y procesamiento de las bases de datos administrativas externas de  la Subsecretaria de Previsión Social. Es, así mismo, la encargada de la gestión y administración de  la Encuesta de Protección Social (EPS) y otras fuentes de información primaria y secundaria.   
 
     Sus funciones son:
    
-    -	Velar por el resguardo de la información de los datos administrativos tanto de la Subsecretaria de Previsión Social como de otros organismos o instituciones del Estado.
-    -	Contribuir con el desarrollo de procesos (validación y depuración) que aseguren un uso eficiente de las bases de datos dentro de la Dirección de Estudios Previsionales.
-    -	Colaborar con el proceso de limpieza, clasificación y orden de los datos disponibles.
-    -	Gestionar el proceso de licitación de la Encuesta de Protección Social y otras encuestas asociadas a la misma.
-    -	Producir estudios, e indicadores cualitativos y cuantitativos a partir de los datos longitudinales, encuestas, y otras fuentes de información cualitativas y cuantitativas de información para el análisis previsional y de seguridad social del país.
-    -	Investigar y proponer metodologías de procesamiento y análisis de información longitudinal.
-    -	Desarrollar una red de contactos y mesas con instituciones lideres en el uso de datos longitudinales para el análisis de la seguridad social. `
+   - Velar por el resguardo de la información de los datos administrativos tanto de la  Subsecretaría de Previsión Social como de otros organismos e instituciones del Estado. 
+   - Contribuir al desarrollo de procesos (validación y depuración) que aseguren un uso eficiente  de las bases de datos al interior de la Dirección de Estudios Previsionales. 
+   - Colaborar en el proceso de limpieza, clasificación y ordenamiento de los datos disponibles. 
+   - Gestionar los procesos de licitación de la Encuesta de Protección Social y otras encuestas  asociadas a la misma.     
+   - Producir estudios e indicadores cualitativos y cuantitativos a partir de los datos  longitudinales, encuestas, y otras fuentes de información cualitativas y cuantitativas de  información para el análisis previsional y de seguridad social del país. 
+   - Investigar y proponer metodologías de procesamiento y análisis de información longitudinal. 
+   - Desarrollar redes de contacto y mesas de trabajo con instituciones líderes en el uso de datos  longitudinales para el análisis de la seguridad social.`
   },
 
   analisis: {
     titulo: "Unidad de Análisis de Políticas Previsionales",
-    nombre: "",
-    cargo: "",
-    texto: `Unidad encargada de elaborar insumos para la conceptualización, análisis de la reforma previsional, prospección y coordinación de políticas públicas previsionales.
+    texto: `Unidad encargada de entregar insumos técnicos para la evaluación de políticas públicas del sector,  así como de proveer antecedentes necesarios para la implementación de la reforma previsional. Con  este fin, desarrolla modelos de análisis, produce información estadística y coordina el trabajo  interinstitucional en materias previsionales. 
     
     Sus funciones son:
     
-    -	Entregar insumos a las autoridades del sector que sirven para el análisis y fundamento de las propuestas de la reforma previsional y políticas públicas previsionales.
-    -	Programar y actualizar el instrumento Técnico de Focalización (ITF) que asigna los beneficios del sistema de Pensiones Solidarias y los beneficios de la Pensión Garantizada Universal. 
-    -	Coordinar el trabajo interinstitucional para la elaboración de contenidos de la reforma y políticas previsionales.
-    -	Extraer información y analizar bases de datos para la elaboración de minutas y documentos de trabajo para la evaluación de propuestas de políticas públicas en el área de pensiones. 
-    -	Desarrollar y aplicar modelos para pronósticos de beneficiarios y costos de diferentes programas o cambios regulatorios del sistema previsional. 
-    -	Elaborar y publicar informes estadísticos mensuales y semestrales que relacionan el pilar solidario y el sistema de seguridad social. 
-    -	Elaborar y publicar notas ciudadanas en materia de pensiones y/o seguridad social. 
-    -	Construir y visualizar en la página Web información interactiva del Sistema de Pensiones.
-    -	Construir y visualizar en la página Web, sección género, que contenga visualizaciones interactivas y documentos de investigación.
-    -	Construir fichas estadísticas semestrales sobre el sistema de seguridad social para las autoridades del sector.
-    -	Proveer de asesoría técnica y administrativa al Consejo Consultivo Previsional y a la Comisión de Usuarios del Sistema de Pensiones. 
-    -	Elaborar documentos técnicos en materia de pensiones y/o seguridad social. 
-    -	Construir bases de datos consolidadas que servirán como insumo para el análisis de información en materia de pensiones.
-    -	Dar respuesta al H. Congreso Nacional y otras instituciones nacionales e internacionales de requerimiento en materia de pensiones y/o previsionales.`
+    -	Entregar insumos a las autoridades del sector para el análisis y fundamentación de las  propuestas de la reforma previsional y de las políticas públicas previsionales. 
+    - Programar y actualizar el instrumento Técnico de Focalización (ITF) que asigna los  beneficios del sistema de Pensiones Solidarias y los beneficios de la Pensión Garantizada  Universal.  
+    - Coordinar el trabajo interinstitucional para la elaboración de contenidos de la reforma y las  políticas previsionales. 
+    - Extraer información y analizar bases de datos para la elaboración de minutas y documentos  de trabajo orientados a la evaluación de propuestas de políticas públicas en el área de  pensiones. 
+    - Desarrollar y aplicar modelos para la proyección de beneficiarios y costos asociados a  diferentes programas o cambios regulatorios del sistema previsional.  
+    - Elaborar y publicar informes estadísticos mensuales y semestrales del pilar no contributivo  y del sistema de seguridad social.  
+    - Elaborar y publicar notas ciudadanas en materia de pensiones y/o seguridad social.  - Construir y visualizar, en el sitio web, información interactiva del Sistema de Pensiones. 
+    - Elaboración de informes relacionados con el sistema de pensiones con enfoque de género. - Proveer de asesoría técnica y administrativa al Consejo Consultivo Previsional y a la Comisión de Usuarios del Sistema de Pensiones. Además de elaborar y gestionar las bases  de licitación de los diferentes estudios encargados por estos dos organismos.  
+    - Elaborar documentos técnicos en materia de pensiones y/o seguridad social.  - Construir bases de datos consolidadas que servirán como insumo para el análisis de  información en materia de pensiones. 
+    - Dar respuesta al H. Congreso Nacional y otras instituciones nacionales e internacionales de  requerimiento en materia de pensiones y/o previsionales.`
   },
 
   coordinacion: {
     titulo: "Dirección de Coordinación Institucional",
-    nombre: "Katia Soto Cárcamo",
-    cargo: "Jefatura Dirección de Coordinación Institucional",
-    texto: `Dirección encargada de coordinar a los servicios relacionados de la Subsecretaría de Previsión Social, con el objetivo de asegurar la calidad de los procesos institucionales involucrados en el análisis, resolución y entrega de los beneficios otorgados a los usuarios, la continuidad operacional y el correcto funcionamiento de éstos.`
+    texto: `Dirección encargada de coordinar a los servicios relacionados de la Subsecretaría de Previsión  Social, con el objetivo de asegurar la calidad de los procesos institucionales involucrados en el  análisis, resolución y entrega de los beneficios otorgados a los usuarios, la continuidad operacional  y el correcto funcionamiento de éstos. Asimismo, es responsable de administrar los requerimientos  ciudadanos, a fin de entregar información necesaria para el ejercicio de sus derechos.
+    
+    Para dar cumplimiento a los objetivos antes mencionados, la Dirección cuenta con 2 Unidades, a  través de la cuales articula la acción coordinada de las instituciones del sector, para proporcionar  información a la autoridad para la toma de decisiones, y gestiona las presentaciones ciudadanas: `
   },
 
   atencion: {
