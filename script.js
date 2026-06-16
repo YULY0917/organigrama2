@@ -250,44 +250,42 @@
 
   atencion: {
     titulo: "Unidad de Atención Ciudadana y OIRS",
-    nombre: "Romina Ibaceta Godoy",
-    cargo: "Jefatura Unidad de Atención Ciudadana y OIRS",
-    texto: `Es la Unidad encargada de administrar y gestionar las respuestas, así como la derivación de las consultas, reclamos, sugerencias y felicitaciones, realizando las acciones necesarias para que la información entregada se encuentre dentro del marco legal vigente y los plazos que establece la ley, asegurando una respuesta oportuna y eficaz, garantizando el ejercicio de los derechos ciudadanos.
+    texto: `Es la Unidad encargada de administrar y gestionar las respuestas, así como la derivación de las  consultas, reclamos, sugerencias y felicitaciones, realizando las acciones necesarias para que la  información entregada se encuentre dentro del marco legal vigente y los plazos que establece la ley,  asegurando una respuesta oportuna y eficaz, garantizando el ejercicio de los derechos ciudadanos. 
   
-    Además, consolida la información de los casos gestionados, realiza análisis de dicha información, y finalmente, pone en conocimiento a la autoridad de las falencias o vacíos evidenciados en materias de competencia de la Subsecretaría, en caso de ser necesario.
+    Además, consolida la información de los casos gestionados, realiza análisis de dicha información, y  finalmente, pone en conocimiento a la autoridad de las falencias o vacíos evidenciados en materias  de competencia de la Subsecretaría, en caso de ser necesario. 
 
-    Funciones:
-
-    -	Recepcionar las consultas y requerimientos espontáneos de personas, agrupaciones, asociaciones que soliciten resolver una consulta, reclamo y/o sugerencia, realizados ante la Subsecretaría a través de los distintos canales de atención dispuestos para ello (presencial, telefónico, web, oficina de partes, redes sociales, etc).
-    -	Analizar y responder las consultas, reclamos, sugerencias y/o felicitaciones presentadas ante la Unidad de Atención Ciudadana de la Subsecretaría de Previsión Social, de manera oportuna y eficiente.
-    -	Gestionar y derivar las consultas, reclamos, sugerencias y felicitaciones que no correspondan a las facultades y atribuciones de la Subsecretaría, a las instituciones que les corresponda conocer la materia del caso.
-    -	Asegurar la trazabilidad de los casos en el sistema de registro NUWAC, desde el ingreso hasta la salida de la respuesta y/o derivación, según corresponda a una institución con o sin convenio NUWAC.
-    -	Apoyar, en caso de que se requiera, las distintas actividades en terreno del servicio para dar respuesta a las consultas ciudadanas que se realizan en terreno.
-    -	Establecer procedimientos y mecanismos que aseguren la calidad y pertinencia de la información, conforme a la normativa legal vigente.
-    -	Realizar análisis de la información recabada por la Unidad y relevar ante el gabinete de la Subsecretaría los casos que se estimen necesarios.
-    -	Asegurar que las funciones de la Oficina de Información, Reclamos y Sugerencias se realicen en el marco de las funciones propias de la Unidad de Atención Ciudadana.
-    -	Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades de la Dirección.
-
-
-  `},
+    Sus Funciones son: 
+    
+    - Recepcionar las consultas y requerimientos espontáneos de personas, agrupaciones,  asociaciones que soliciten resolver una consulta, reclamo y/o sugerencia, realizados ante la  Subsecretaría a través de los distintos canales de atención dispuestos para ello (presencial,  telefónico, web, oficina de partes, redes sociales, etc). 
+    - Analizar y responder las consultas, reclamos, sugerencias y/o felicitaciones presentadas  ante la Unidad de Atención Ciudadana de la Subsecretaría de Previsión Social, de manera  oportuna y eficiente. 
+    - Gestionar y derivar las consultas, reclamos, sugerencias y felicitaciones que no  correspondan a las facultades y atribuciones de la Subsecretaría, a las instituciones que les  corresponda conocer la materia del caso. 
+    - Asegurar la trazabilidad de los casos en el sistema de registro NUWAC, desde el ingreso  hasta la salida de la respuesta y/o derivación, según corresponda a una institución con o sin  convenio NUWAC. 
+    - Apoyar, en caso de que se requiera, las distintas actividades en terreno del servicio para dar  respuesta a las consultas ciudadanas que se realizan en terreno. 
+    - Establecer procedimientos y mecanismos que aseguren la calidad y pertinencia de la  información, conforme a la normativa legal vigente. 
+    - Realizar análisis de la información recabada por la Unidad y relevar ante el gabinete de la  Subsecretaría los casos que se estimen necesarios. 
+    - Asegurar que las funciones de la Oficina de Información, Reclamos y Sugerencias se  realicen en el marco de las funciones propias de la Unidad de Atención Ciudadana. 
+    - Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades de la Dirección. 
+    - Medir la experiencia usuaria de los servicios entregados por la Unidad de Atención  Ciudadana, que permita la mejora continua y la aplicación de acciones correctivas. 
+    - Coordinar encuentros con las áreas de Atención Ciudadana de instituciones del sector  previsional, para el intercambio de experiencias en materias de seguridad social de  relevancia para las personas usuarias. 
+    - Velar por el proceso para el cumplimiento de los indicadores institucionales a cargo de la  Unidad. `
+  },
 
   "coord-inst": {
-    titulo: "Unidad de Coordinación y Seguimiento Legislativo",
-    nombre: "Katherine Cáceres Fuentes",
-    cargo: "Jefatura Unidad de Coordinación y Seguimiento Legislativo",
-    texto: `Unidad responsable de apoyar a la Dirección en el seguimiento, coordinación y gestión de proyectos de desarrollo con las Instituciones del sector, y de sus respectivas planificaciones estratégicas.
+    titulo: "Unidad de Coordinación Institucional",
+    texto: `Es la Unidad responsable de apoyar a la Dirección en el seguimiento, coordinación y gestión de las  políticas públicas con las Instituciones del sector previsional. 
     
-    Además, es responsable de monitorear el desempeño de los canales de atención del sector, y coordinar con ellos actividades orientadas al intercambio de experiencias y hacia la mejora continua de sus procesos.
+    Además, es responsable de efectuar las coordinaciones necesarias con los servicios relacionados  de la Subsecretaría, con el fin de asegurar una implementación coherente, oportuna y eficiente de  las políticas públicas en materia seguridad social. 
     
     Sus funciones son:
     
-    -	Establecer una contraparte para coordinación permanente en cada una de las Instituciones Previsionales y Seguridad Social, desarrollando un plan de trabajo con el objetivo de cumplir las políticas públicas de gobierno en las materias de su competencia.
-    -	Solicitar información para conocer la planificación estratégica de las Instituciones del sector, sus indicadores y sus compromisos de metas.
-    -	Analizar y conocer la experiencia de la ciudadanía en los distintos canales de atención, a fin de proponer mejoras y/o estandarización de éstos.
-    -	Revisión de evaluaciones y/o estudios de satisfacción de usuarios de los canales de atención y sus planes de mejora de las instituciones previsionales y de seguridad social.
-    -	Revisar dentro del sector previsional nacional e internacional, las experiencias exitosas en relación con usuarios en el sector de Seguridad Social, generando instancias para compartirlas y potenciarlas.
-    -	Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades de la Dirección.
-    -	Velar por el proceso para el cumplimiento de los indicadores de PMG y CDC a cargo de la Unidad.`
+    - Establecer una contraparte para coordinación permanente en cada Institución Previsional,  con el objetivo de cumplir las políticas públicas de gobierno en las materias de su  competencia. 
+    - Solicitar información para conocer la planificación estratégica de las Instituciones del sector,  sus indicadores y sus compromisos de metas. 
+    - Requerir las evaluaciones y/o estudios de satisfacción de personas usuarias de los canales  de atención de los servicios relacionados para monitorear sus planes de mejora 
+    - Efectuar reuniones y coordinar mesas de trabajo con los servicios del sector previsional, con  el propósito de articular acciones e identificar hallazgos en las políticas públicas que  requieran seguimiento, asegurando la continuidad de los procesos institucionales y la  adecuada entrega de beneficios previsionales. 
+    - Revisar y analizar circulares publicadas o en consulta de las Superintendencias de  Seguridad Social y de Pensiones, así como dictámenes y normativa relevante asociado a  las instituciones relacionadas. 
+    - Colaborar en la gestión de consultas complejas de las personas usuarias, canalizadas a  través de la Unidad de Atención Ciudadana y OIRS de la Subsecretaría, relacionadas con  materias de competencia de los servicios relacionados. 
+    - Gestionar requerimientos del H. Congreso Nacional, circunscritos a beneficios previsionales  administrados o fiscalizados por los servicios relacionados.  
+    - Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades de la Dirección. - Velar por el proceso para el cumplimiento de los indicadores institucionales a cargo de la  Unidad.`
   },
 
   legislativa: {
