@@ -37,8 +37,6 @@
 
   fiscalia: {
     titulo: "División Fiscalía",
-    nombre: "Jaime Ale Tapia",
-    cargo: "Fiscal",
     texto: `División responsable de velar por la legalidad y control tanto de las actuaciones y/o de los actos  administrativos que se suscriban al interior de la Subsecretaría, asesorando al Gabinete, otras  Divisiones, Direcciones, Unidades y Subunidades para el cumplimiento de las leyes, reglamentos e  instrucciones internas del Servicio.   
 
     Sus funciones son:
