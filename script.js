@@ -194,28 +194,58 @@
     titulo: "Dirección de Coordinación Institucional",
     nombre: "Katia Soto Cárcamo",
     cargo: "Jefatura Dirección de Coordinación Institucional",
-    texto: `Coordina a los servicios relacionados para asegurar la calidad de los procesos institucionales y la continuidad operacional.`
+    texto: `Dirección encargada de coordinar a los servicios relacionados de la Subsecretaría de Previsión Social, con el objetivo de asegurar la calidad de los procesos institucionales involucrados en el análisis, resolución y entrega de los beneficios otorgados a los usuarios, la continuidad operacional y el correcto funcionamiento de éstos.`
   },
 
   atencion: {
     titulo: "Unidad de Atención Ciudadana y OIRS",
     nombre: "Romina Ibaceta Godoy",
     cargo: "Jefatura Unidad de Atención Ciudadana y OIRS",
-    texto: `Administra y gestiona consultas, reclamos, sugerencias y felicitaciones, asegurando respuestas oportunas y dentro del marco legal.`
-  },
+    texto: `Es la Unidad encargada de administrar y gestionar las respuestas, así como la derivación de las consultas, reclamos, sugerencias y felicitaciones, realizando las acciones necesarias para que la información entregada se encuentre dentro del marco legal vigente y los plazos que establece la ley, asegurando una respuesta oportuna y eficaz, garantizando el ejercicio de los derechos ciudadanos.
+  
+    Además, consolida la información de los casos gestionados, realiza análisis de dicha información, y finalmente, pone en conocimiento a la autoridad de las falencias o vacíos evidenciados en materias de competencia de la Subsecretaría, en caso de ser necesario.
+
+    Funciones:
+
+    -	Recepcionar las consultas y requerimientos espontáneos de personas, agrupaciones, asociaciones que soliciten resolver una consulta, reclamo y/o sugerencia, realizados ante la Subsecretaría a través de los distintos canales de atención dispuestos para ello (presencial, telefónico, web, oficina de partes, redes sociales, etc).
+    -	Analizar y responder las consultas, reclamos, sugerencias y/o felicitaciones presentadas ante la Unidad de Atención Ciudadana de la Subsecretaría de Previsión Social, de manera oportuna y eficiente.
+    -	Gestionar y derivar las consultas, reclamos, sugerencias y felicitaciones que no correspondan a las facultades y atribuciones de la Subsecretaría, a las instituciones que les corresponda conocer la materia del caso.
+    -	Asegurar la trazabilidad de los casos en el sistema de registro NUWAC, desde el ingreso hasta la salida de la respuesta y/o derivación, según corresponda a una institución con o sin convenio NUWAC.
+    -	Apoyar, en caso de que se requiera, las distintas actividades en terreno del servicio para dar respuesta a las consultas ciudadanas que se realizan en terreno.
+    -	Establecer procedimientos y mecanismos que aseguren la calidad y pertinencia de la información, conforme a la normativa legal vigente.
+    -	Realizar análisis de la información recabada por la Unidad y relevar ante el gabinete de la Subsecretaría los casos que se estimen necesarios.
+    -	Asegurar que las funciones de la Oficina de Información, Reclamos y Sugerencias se realicen en el marco de las funciones propias de la Unidad de Atención Ciudadana.
+    -	Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades de la Dirección.
+
+
+  `},
 
   "coord-inst": {
     titulo: "Unidad de Coordinación y Seguimiento Legislativo",
     nombre: "Katherine Cáceres Fuentes",
     cargo: "Jefatura Unidad de Coordinación y Seguimiento Legislativo",
-    texto: `Apoya el seguimiento, coordinación y gestión de proyectos con instituciones del sector y monitorea canales de atención para promover mejoras.`
+    texto: `Unidad responsable de apoyar a la Dirección en el seguimiento, coordinación y gestión de proyectos de desarrollo con las Instituciones del sector, y de sus respectivas planificaciones estratégicas.
+    
+    Además, es responsable de monitorear el desempeño de los canales de atención del sector, y coordinar con ellos actividades orientadas al intercambio de experiencias y hacia la mejora continua de sus procesos.
+    
+    Sus funciones son:
+    
+    -	Establecer una contraparte para coordinación permanente en cada una de las Instituciones Previsionales y Seguridad Social, desarrollando un plan de trabajo con el objetivo de cumplir las políticas públicas de gobierno en las materias de su competencia.
+    -	Solicitar información para conocer la planificación estratégica de las Instituciones del sector, sus indicadores y sus compromisos de metas.
+    -	Analizar y conocer la experiencia de la ciudadanía en los distintos canales de atención, a fin de proponer mejoras y/o estandarización de éstos.
+    -	Revisión de evaluaciones y/o estudios de satisfacción de usuarios de los canales de atención y sus planes de mejora de las instituciones previsionales y de seguridad social.
+    -	Revisar dentro del sector previsional nacional e internacional, las experiencias exitosas en relación con usuarios en el sector de Seguridad Social, generando instancias para compartirlas y potenciarlas.
+    -	Coordinar y/o implementar trabajos colaborativos o proyectos inter-Unidades de la Dirección.
+    -	Velar por el proceso para el cumplimiento de los indicadores de PMG y CDC a cargo de la Unidad.`
   },
 
   legislativa: {
     titulo: "División de Asesoría Legislativa y Seguridad Laboral",
     nombre: "Pedro Contador Abraham",
     cargo: "Jefatura División de Asesoría Legislativa y Seguridad Laboral",
-    texto: `Asesora en la preparación y tramitación de proyectos de ley en materias previsionales, seguridad y salud en el trabajo.`
+    texto: `División encargada de asesorar al Subsecretario/a en la preparación y tramitación en el Congreso Nacional de proyectos de ley en el ámbito de la Previsión Social y de Seguridad y Salud en el Trabajo, así como en la negociación y aplicación de los convenios internacionales que digan relación con dichas materias.
+    
+     Además, se encarga de proponer e implementar las políticas públicas y el diálogo social en los ámbitos de su competencia.`
   },
 
   admin: {
