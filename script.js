@@ -299,21 +299,56 @@
     titulo: "Subunidad de Tesorería",
     nombre: "Christian Pérez Díaz",
     cargo: "Jefatura Subunidad de Tesorería",
-    texto: `Controla y maneja los recursos financieros de la Subsecretaría, velando por el cumplimiento de la normativa vigente.`
+    texto: `Subunidad dependiente Unidad de Presupuesto, Finanzas y Control Sectorial, encargada de controlar y manejar los recursos financieros de la Subsecretaría, velando por el cumplimiento de la normativa vigente en materia de operación de flujo monetario. 
+    
+    Sus funciones son:
+    
+    -	Controlar los recursos financieros asignados a la Institución, para dar cumplimiento a las obligaciones contraídas.
+    -	Realizar los pagos de las obligaciones contraídas por la Subsecretaría.
+    -	Velar por la custodia y gestión de los instrumentos de la Subsecretaría.
+    -	Controlar y custodiar los comprobantes contables.
+    -	Efectuar la proyección y registro de la distribución presupuestaria del FEP y del Anteproyecto Regional de Inversión (ARI) y del Programa Público de Inversiones Regionales (PROPIR) en el portal de Chile Indica.
+    -	Efectuar seguimiento a pagos centralizados efectuados por TGR enviando alertas vía correo.
+    -	Elaborar, controlar y gestionar programa de caja mensual con la Dirección de Presupuesto.
+    -	Ejecutar y gestionar las cobranzas a nivel institucional, incluido el Subsidio de Incapacidad Laboral.`
   },
 
   adquisiciones: {
     titulo: "Unidad de Adquisiciones y Servicios Generales",
     nombre: "Carla Miranda Soto",
     cargo: "Jefatura Unidad de Adquisiciones y Servicios Generales",
-    texto: `Gestiona abastecimiento, servicios generales, compras, inventario, activos institucionales y funcionamiento de Oficina de Partes.`
+    texto: `Unidad encargada de la gestión de abastecimiento, servicios generales y control de activos e inventario de la Subsecretaria, dando cumplimiento a la normativa vigente y velando por el uso y control eficiente de los recursos institucionales.
+    
+    Sus funciones son:
+    
+    -	Liderar la elaboración del Plan Anual de Compras Institucional (PAC) que respalda y justifica el gasto público en iniciativas concretas, considerando en la estimación: tiempo, lugar, cantidad, precio, modalidad de compra, y la estructura presupuestaria vigente, entre otros, y hacer seguimiento a su ejecución.
+    -	Apoyar a las contrapartes técnicas en la elaboración de los requerimientos y supervisar la correcta ejecución de los procesos de compras y contrataciones de acuerdo a la ley N°19.886, a su reglamento y normativa vigente y manual interno de la Subsecretaría de Previsión Social.
+    -	Administrar la plataforma de MercadoPúblico para la ejecución de las compras institucionales.
+    -	Administrar y gestionar los servicios generales necesarios para el correcto funcionamiento de la infraestructura institucional y los servicios de apoyo asociados, en coordinación con el administrador del edificio ministerial, en lo que corresponda.
+    -	Administrar, controlar, registrar y tomar las medidas de resguardo de los bienes institucionales.
+    -	Proveer los bienes y servicios que requieran las distintas áreas, de acuerdo con el plan anual de compras. 
+    -	Supervisar y gestionar las prestaciones de servicios asociados a contratos donde es contraparte técnica.
+    -	Supervisar la correcta realización de toma de inventario.
+    -	Supervisar y controlar el correcto y eficiente stock de bodega, entrega de suministros y materiales a los/as funcionarios/as. 
+    -	Gestionar la contratación y coordinación de servicios menores (mantenciones, reparaciones y servicios varios).
+    -	Supervisar el Control de activo fijo, mediante el ingreso de altas y bajas de bienes en el sistema de apoyo existente.
+    -	Supervisión del trabajo de proveedores, para los distintos servicios contratados que digan relación con los servicios generales.
+    -	Control y supervisión del estado de la documentación oficial de la subsecretaría tanto aquella que se resguarda en bodegas internas como externas. Así como realizar anualmente las coordinaciones necesarias para el envío de información a DIBAM.
+    -	Gestionar la formalización de los contratos provenientes de procesos de compras hasta el envío de la Orden de Compra, donde posteriormente comienza la prestación del servicio y queda a cargo de las distintas contrapartes técnicas.
+    -	Mantener el control y correcto funcionamiento de la Oficina de Partes de la Subsecretaría de Previsión Social.`
   },
 
   partes: {
     titulo: "Oficina de Partes",
     nombre: "Jonathan Faundez González",
     cargo: "Jefatura Oficina de Partes",
-    texto: `Gestiona la documentación oficial de ingreso y egreso de la Subsecretaría, manteniendo registro, despacho, control y custodia documental.`
+    texto: `Oficina dependiente de la Unidad de Adquisiciones y Servicios Generales, encargada de la gestión documental de la Subsecretaría, tanto en el ingreso como egreso de la documentación oficial, manteniendo el registro, despacho y control de la información, como también de la custodia oficial de la información de la Subsecretaria en su ámbito de responsabilidad. 
+    
+    Sus funciones son:
+    
+    -	Gestionar la documentación de ingreso y egreso de la Subsecretaría, de manera oportuna y eficiente, manteniendo los registros y controles adecuados.
+    -	Mantener la custodia oficial de la documentación en su ámbito de responsabilidad, velando por su buen resguardo, estado de conservación, administración y control.
+`
   },
 
   inventario: {
@@ -327,14 +362,40 @@
     titulo: "Unidad de Gestión y Desarrollo de Personas",
     nombre: "Taty Orellana",
     cargo: "Jefatura Unidad de Gestión y Desarrollo de Personas",
-    texto: `Gestiona políticas de desarrollo organizacional, administración del personal, capacitación, desempeño, bienestar y ciclo de vida laboral.`
+    texto: `Unidad encargada de la generación e implementación de políticas de desarrollo organizacional de la Subsecretaría, así como la administración y el mejoramiento de los subsistemas de gestión de personas, tales como: evaluación de desempeño, capacitación y formación, remuneraciones y administración del personal.
+    
+    Sus funciones son:
+    
+    -	Planificar y gestionar estratégicamente los distintos subsistemas de gestión de personas (reclutamiento y selección, inducción, capacitación y formación, gestión del desempeño, administración de personal, calidad de vida y bienestar, egreso) contribuyendo al adecuado uso de los recursos disponibles, de acuerdo a los lineamientos institucionales definidos. 
+    -	Proponer y asesorar a la jefatura de dirección respecto a políticas, prácticas, procedimientos e indicadores de gestión de personas. 
+    -	Proponer e implementar proyectos de desarrollo organizacional, orientados a mejorar el rendimiento del personal y a impulsar procesos de cambio organizacional, que contribuyan al cumplimiento de los objetivos de la Subsecretaría y la mejora continua de ambientes laborales. 
+    -	Administrar el ciclo de vida laboral del personal de la Subsecretaría, asegurando el cumplimiento de actos administrativos y procedimentales de la administración pública. 
+    -	Integrar y actuar como contraparte técnica en instancias bipartitas del servicio (capacitación, higiene y seguridad). 
+    -	Garantizar el cumplimiento con calidad y oportunidad de los procesos, actos administrativos y reportes de gestión requeridos por la Dirección de Presupuestos (DIPRES), Subsecretaria de Hacienda, Contraloría General de la República u otro organismo relacionado. 
+    -	Proponer, implementar y difundir al interior de la Institución las políticas de inclusión relevadas por la administración central.
+    -	Coordinación, en materias de Gestión y Desarrollo de Personas de los servicios relacionados.`
   },
 
   control: {
     titulo: "Unidad de Control de Gestión",
     nombre: "Rigoberto Millacura Herrera",
     cargo: "Jefatura Unidad de Control de Gestión",
-    texto: `Dirige procesos y sistemas de control de gestión, indicadores institucionales, PMG, CDC, matriz de riesgos y reportes de gestión.`
+    texto: `Unidad encargada de dirigir los procesos y sistemas de control de gestión de la Subsecretaría de Previsión Social con el objetivo de dar cumplimiento a los compromisos establecidos por el servicio. 
+    
+    Sus funciones son:
+    
+    -	Participar del proceso de formulación y diseño de las Definiciones Estratégicas (formulario A1) del Servicio, en el marco del proceso de formulación presupuestaria del año t+1.
+    -	Encabezar el proceso de levantamiento, seguimiento y evaluación de los indicadores de Desempeño (H) de la Institución, asociados a los objetivos estratégicos y presupuesto solicitado.
+    -	Coordinar la formulación, seguimiento, monitoreo y evaluación de los indicadores y sistemas que componen el Programa de Mejoramiento de la Gestión (PMG), en el marco de la aplicación de la ley N°19.553. de Modernización del Estado.
+    -	Coordinar la formulación, seguimiento, monitoreo y evaluación de los indicadores comprometidos por los equipos de trabajo que conforman el Convenio de Desempeño Colectivo (CDC), en el marco de la aplicación de la ley N°19.553, de Modernización del Estado.
+    -	Elaboración del informe de monitoreo del Sistema de Información de la Gestión (SIG).
+    -	Coordinar y redactar el Balance de Gestión Integral del Servicio.
+    -	Coordinar el proceso de elaboración, actualización, seguimiento y evaluación de la Matriz de Riesgo Institucional de manera anual.
+    -	Coordinar el proceso mensual de actualización del portal de Transparencia Activa, asegurar su correcta publicación y en plazo. Además, realizar los ejercicios de auto fiscalización una vez al año y ser contraparte como enlace ante el Consejo de Transparencia.
+    -	Coordinar y gestionar la publicación de la información correspondiente a Transparencia Proactiva.
+    -	Apoyar el proceso coordinación para la elaboración de la Cuenta Pública Participativa.
+    -	Participar como contraparte en el proceso de formulación de los Convenios de Alta Dirección Pública de Primer nivel Jerárquico.
+    -	Administración de la ley N°20.285 en materia de Transparencia Activa y como enlace ante el Consejo de Transparencia.`
   },
 
   contratos: {
