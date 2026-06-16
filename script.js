@@ -252,14 +252,33 @@
     titulo: "Dirección de Administración y Finanzas",
     nombre: "Lidia Lueiza Baeza",
     cargo: "Jefatura Dirección de Administración y Finanzas",
-    texto: `Administra, gestiona y supervisa los recursos financieros, presupuestarios y materiales de la Subsecretaría.`
+    texto: `Dirección encargada de administrar, gestionar y supervisar los recursos financieros, presupuestarios y materiales de la Subsecretaría de Previsión Social, procurando su correcta ejecución y dando conformidad a la normativa vigente, velando por el cumplimiento de los objetivos institucionales. 
+    
+    Asimismo, le corresponderá la coordinación en materia de planificación presupuestaria y el seguimiento a su ejecución, así como informes de auditorías e indicadores de gestión, entre otros, a los servicios públicos del sector Previsión Social.`
   },
 
   presupuesto: {
     titulo: "Unidad de Presupuesto, Finanzas y Control Sectorial",
     nombre: "Dan Muñoz Silva",
     cargo: "Jefatura Unidad de Presupuesto, Finanzas y Control Sectorial",
-    texto: `Coordina, planifica, gestiona y controla el presupuesto institucional y monitorea la ejecución presupuestaria de servicios relacionados.`
+    texto: `Unidad encargada de coordinar, planificar, gestionar y controlar el presupuesto de la Subsecretaría de Previsión Social y monitorear y controlar la ejecución del presupuesto de los servicios dependientes y relacionados, proponiendo los ajustes necesarios que permitan optimizar el uso de los recursos públicos de acuerdo con la normativa vigente, manteniendo el equilibrio financiero con un riesgo controlado, utilizando para ellos, herramientas de control y gestión.
+    
+    Sus funciones son:
+    
+    -	Coordinar periódicamente el comportamiento de la Ejecución Presupuestaria de la Subsecretaría y sus Servicios dependientes. 
+    -	Coordinar y consolidar formulación presupuestaria de la Subsecretaría y los servicios dependientes.
+    -	Coordinar y realizar seguimiento de glosas presupuestarias de la Subsecretaría y los servicios dependientes.
+    -	Elaborar, controlar y gestionar el presupuesto de la institución, preservando máxima eficiencia y transparencia, en la operación y análisis de los procesos.
+    -	Apoyar, a la Jefatura de Adquisiciones y Servicios Generales, la elaboración del Plan Anual de Compras Institucional (PAC) que respalda y justifica el gasto público en iniciativas concretas, considerando en la estimación: tiempo, lugar, cantidad, precio, modalidad de compra, y la estructura presupuestaria vigente, entre otros.
+    -	Liderar reuniones con los responsables de los centros de costos que ejecutan presupuestos, para garantizar la correcta, eficiente y oportuna ejecución presupuestaria.
+    -	Consolidar la información del Presupuesto Institucional en un formato agregado, considerando la distribución vigente, disponibilidades, ejecución, Plan de Compras, centros de costos, programación de caja, entre otros.
+    -	Responder a los requerimientos de información presupuestaria del Ministerio de Hacienda, de la Dirección de Presupuestos, y de otros organismos que lo requieren.
+    -	Monitorear, analizar y preparar la información de la ejecución del presupuesto asociado al PAC vigente cuando sea requerido.
+    -	Solicitar y consolidar la información a los diferentes centros de costos para preparar el Presupuesto Exploratorio del año siguiente, justificando en las instancias pertinentes su contenido y estructura.
+    -	Coordinar el registro en sistema de gestión financiera los requerimientos presupuestarios, incorporando ajustes y modificaciones cuando proceda.
+    -	Controlar la ejecución de los contratos vigentes de la Subsecretaría, efectuando seguimiento a los hitos y/o productos.
+    -	Desempeñar otras funciones y/o coordinaciones encomendadas por la jefatura, dentro de su ámbito de responsabilidad.
+    -	Análisis y revisión de la documentación de respaldo para el pago de todo lo que provenga de un contrato y/o acuerdo complementario.`
   },
 
   "sub-presupuesto": {
