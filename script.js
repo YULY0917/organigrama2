@@ -3,7 +3,7 @@
     titulo: "Subsecretario de Previsión Social",
     texto: `De conformidad con lo dispuesto en el artículo 41 de la ley Nº20.255 de 2008, el Subsecretario o la Subsecretaria es la jefatura superior de la Subsecretaría de Previsión Social, órgano de colaboración inmediata del Ministerio del Trabajo y Previsión Social. `
   },
-
+    
   gabinete: {
     titulo: "Gabinete",
     texto: `Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, a través de acciones  de coordinación entre sus distintas Divisiones, Direcciones, Unidades y Subunidades para el  funcionamiento eficiente del servicio y la implementación de los productos estratégicos. Además,  asesora a la autoridad del servicio en todas las materias relacionadas con el quehacer técnico y  administrativo de la Subsecretaría. 
