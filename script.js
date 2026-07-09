@@ -167,6 +167,7 @@
 
   educacion: {
     titulo: "Dirección de Educación Previsional",
+    nombre: "Rodrigo Pérez",
     texto: `Dirección encargada de liderar, coordinar y supervisar el desarrollo de políticas, planes y estrategias  de educación previsional, orientadas a fortalecer la cultura previsional de la ciudadanía, promoviendo  acciones de difusión, formación, seguimiento y evaluación en materias previsionales. Asimismo, le  corresponderá la administración y continuidad operativa de las acciones asociadas al Fondo para la  Educación Previsional, en conformidad con los lineamientos institucionales y disponibilidad  presupuestaria vigente.  
     
     Sus funciones son:
@@ -187,6 +188,7 @@
 
   "u-educacion": {
     titulo: "Unidad de Educación Previsional",
+    nombre: "Elizabeth Ramirez",
     texto: `Unidad encargada de desarrollar estrategias educativas presenciales y telemáticas, con el fin de  difundir información en temas previsionales a la ciudadanía, contribuyendo al desarrollo de la cultura  previsional.  
     
     Sus funciones son:
@@ -207,6 +209,7 @@
 
   estudios: {
     titulo: "Dirección de Estudios Previsionales",
+    nombre: "Ivonne Bueno",
     texto: `Esta Dirección está a cargo del análisis, evaluación y propuesta de políticas en el ámbito de Previsión  Social, así como de la evaluación permanente de los programas del sector. Para ello, provee  asesoría técnica especializada a las autoridades del sector, aportando el conocimiento necesario  para el diseño, implementación y seguimiento de la reforma previsional y las políticas públicas  asociadas. Asimismo, es responsable de la difusión oportuna y transparente de información  estadística y técnica sobre el sistema previsional. 
     
     Del mismo modo, es el área responsable de mantener y gestionar las bases de datos previsionales,  incluida la Encuesta de Protección Social (EPS), principal instrumento de información longitudinal  del sistema. Con este fin, establece vínculos de coordinación con organismos públicos que permiten  el intercambio de información relevante y el trabajo colaborativo en materias previsionales y de  seguridad social.  
@@ -216,6 +219,7 @@
 
   observatorio: {
     titulo: "Unidad Observatorio Previsional",
+    nombre: "Luis Figueroa",
     texto: `Unidad encargada del resguardo y procesamiento de las bases de datos administrativas externas de  la Subsecretaria de Previsión Social. Es, así mismo, la encargada de la gestión y administración de  la Encuesta de Protección Social (EPS) y otras fuentes de información primaria y secundaria.   
 
     Sus funciones son:
@@ -231,6 +235,7 @@
 
   analisis: {
     titulo: "Unidad de Análisis de Políticas Previsionales",
+    nombre: "Camilo Calderón",
     texto: `Unidad encargada de entregar insumos técnicos para la evaluación de políticas públicas del sector,  así como de proveer antecedentes necesarios para la implementación de la reforma previsional. Con  este fin, desarrolla modelos de análisis, produce información estadística y coordina el trabajo  interinstitucional en materias previsionales. 
     
     Sus funciones son:
@@ -249,6 +254,7 @@
 
   coordinacion: {
     titulo: "Dirección de Coordinación Institucional",
+    nombre: "Katia Soto",
     texto: `Dirección encargada de coordinar a los servicios relacionados de la Subsecretaría de Previsión  Social, con el objetivo de asegurar la calidad de los procesos institucionales involucrados en el  análisis, resolución y entrega de los beneficios otorgados a los usuarios, la continuidad operacional  y el correcto funcionamiento de éstos. Asimismo, es responsable de administrar los requerimientos  ciudadanos, a fin de entregar información necesaria para el ejercicio de sus derechos.
     
     Para dar cumplimiento a los objetivos antes mencionados, la Dirección cuenta con 2 Unidades, a  través de la cuales articula la acción coordinada de las instituciones del sector, para proporcionar  información a la autoridad para la toma de decisiones, y gestiona las presentaciones ciudadanas: `
@@ -256,6 +262,7 @@
 
   atencion: {
     titulo: "Unidad de Atención Ciudadana y OIRS",
+    nombre: "Romina Ibaceta",
     texto: `Es la Unidad encargada de administrar y gestionar las respuestas, así como la derivación de las  consultas, reclamos, sugerencias y felicitaciones, realizando las acciones necesarias para que la  información entregada se encuentre dentro del marco legal vigente y los plazos que establece la ley,  asegurando una respuesta oportuna y eficaz, garantizando el ejercicio de los derechos ciudadanos. 
   
     Además, consolida la información de los casos gestionados, realiza análisis de dicha información, y  finalmente, pone en conocimiento a la autoridad de las falencias o vacíos evidenciados en materias  de competencia de la Subsecretaría, en caso de ser necesario. 
@@ -278,6 +285,7 @@
 
   "coord-inst": {
     titulo: "Unidad de Coordinación Institucional",
+    nombre: "Katherine Cáceres",
     texto: `Es la Unidad responsable de apoyar a la Dirección en el seguimiento, coordinación y gestión de las  políticas públicas con las Instituciones del sector previsional. 
     
     Además, es responsable de efectuar las coordinaciones necesarias con los servicios relacionados  de la Subsecretaría, con el fin de asegurar una implementación coherente, oportuna y eficiente de  las políticas públicas en materia seguridad social. 
@@ -296,6 +304,7 @@
 
   legislativa: {
     titulo: "División de Asesoría Legislativa y Seguridad Laboral",
+    nombre: "Pedro Contador",
     texto: `División encargada de asesorar al Subsecretario/a en la preparación y tramitación en el Congreso  Nacional de proyectos de ley en el ámbito de la Previsión Social y de Seguridad y Salud en el Trabajo,  así como en la negociación y aplicación de los convenios internacionales que digan relación con  dichas materias. 
     
      Además, se encarga de proponer e implementar las políticas públicas y el diálogo social en los  ámbitos de su competencia.
@@ -323,6 +332,7 @@
 
   admin: {
     titulo: "Dirección de Administración y Finanzas",
+    nombre: "Lidia Lueiza",
     texto: `La Dirección de Administración y Finanzas es la unidad responsable de administrar, gestionar y  supervisar los recursos financieros, presupuestarios y contables de la Subsecretaría de Previsión  Social, velando por el uso eficiente, transparente y oportuno de éstos, en conformidad con la  normativa vigente y los lineamientos institucionales, a fin de contribuir al cumplimiento de la misión  y objetivos estratégicos del Servicio.  
     
     Asimismo, le corresponderá coordinar los procesos de planificación y ejecución presupuestaria,  efectuar el seguimiento y control de la gestión institucional mediante el monitoreo de indicadores, compromisos y acciones de mejora continua, así como apoyar y supervisar estas materias respecto  de los servicios públicos del sector Previsión Social.
@@ -334,6 +344,7 @@
 
   presupuesto: {
     titulo: "Unidad de Presupuesto, Finanzas y Control Sectorial",
+    nombre: "Freddy Gómez",
     texto: `Unidad encargada de coordinar, planificar, gestionar y controlar el presupuesto de la Subsecretaría  de Previsión Social, mantener la contabilidad institucional actualizada, gestionar los cobros y pagos  en forma oportuna, para los registros contables, de acuerdo a la normativa vigente y a las  Instrucciones impartidas por la Contraloría General de la República, Ministerio de Hacienda,  Dirección de Presupuestos y las directrices entregadas por el Ministerio del Trabajo y Previsión  Social. Además, debe monitorear y revisar la ejecución presupuestaria de los servicios dependientes  y relacionados y realizar la coordinación con ellos y el Ministerio del Trabajo y Previsión Social.  
 
     Además, apoyar a la Unidad de Gestión y Desarrollo de las Personas, en el proceso de cálculo y  pago de las remuneraciones y la presentación de las Declaraciones Juradas de Impuestos a la  Renta, de las Remuneraciones y de los Honorarios a Suma Alzada, estas funciones son realizadas  por el Jefe de la Unidad y/o con el apoyo del Tesorero (cálculo de remuneraciones). 
@@ -343,6 +354,7 @@
 
   "sub-presupuesto": {
     titulo: "Subunidad de Presupuesto y Control Sector Previsional",
+    nombre: "Dan Muñoz",
     texto: `Encargada de coordinar, planificar, gestionar y controlar el presupuesto de la Subsecretaría de  Previsión Social, monitorear y revisar la ejecución presupuestaria de los servicios dependientes y  relacionados y realizar la coordinación con ellos y el Ministerio del Trabajo y Previsión Social, de  acuerdo a las directrices entregadas por la Contraloría General de la República, Ministerio de  Hacienda y la Dirección de Presupuestos.
     
     Sus principales funciones son:
@@ -364,6 +376,7 @@
 
   contabilidad: {
     titulo: "Subunidad de Contabilidad",
+    nombre: "Jesús Ancatén",
     texto: `Encargada de gestionar el registro, control y verificación de la contabilidad de la Subsecretaría, con  el objeto de generar información confiable y eficiente que sirva para la toma de decisiones del  servicio, velando por el desarrollo de los procedimientos contables y financieros conforme con la  Resolución N° 16 de fecha 16/02/2015 que aprueba normativa del sistema de contabilidad general  de la nación, aplicando en ello criterios según Contabilidad Gubernamental, NICSP. 
     
     Sus principales funciones son:
@@ -384,6 +397,7 @@
 
   tesoreria: {
     titulo: "Subunidad de Tesorería",
+    nombre: "Christian Pérez",
     texto: `Encargada de controlar y manejar los recursos financieros de la Subsecretaría de Previsión Social,  velando por el cumplimiento de la normativa vigente en materia de operación de flujo monetario.   
     
    Sus principales funciones son: 
@@ -405,6 +419,7 @@
 
   adquisiciones: {
     titulo: "Unidad de Adquisiciones y Servicios Generales",
+    nombre: "Carla Miranda",
     texto: `Unidad encargada de la gestión de abastecimiento, servicios generales y control de activos e  inventario de la Subsecretaria, dando cumplimiento a la normativa vigente y velando por el uso y  control eficiente de los recursos institucionales.  
     
     Sus funciones son:
@@ -427,6 +442,7 @@
 
   partes: {
     titulo: "Oficina de Partes",
+    nombre: "Jonathan Faundez",
     texto: `Oficina dependiente de la Unidad de Adquisiciones y Servicios Generales, encargada de la gestión  documental de la Subsecretaría, tanto en el ingreso como egreso de la documentación oficial,  manteniendo el registro, despacho y control de la información, como también de la custodia oficial  de la información de la Subsecretaria en su ámbito de responsabilidad.  
     
     Sus funciones son:
@@ -438,6 +454,7 @@
 
   inventario: {
     titulo: "Inventario",
+    nombre: "Claudio Ramos",
     texto: `Área Encargada de gestionar, controlar y resguardar los bienes institucionales de la SPS, mediante  la realización de inventarios físicos periódicos, el registro y seguimiento de los movimientos de bienes  (altas, traslados, modificaciones y bajas), y la mantención actualizada de los sistemas y  documentación de control, asegurando el cumplimiento de la normativa vigente, el uso eficiente de  los recursos y la adecuada información a las jefaturas respecto del estado de los activos  institucionales. 
     
   - Realización del inventario físico de los bienes de la SPS en forma semestral, en los términos  establecidos en el Manual de Control de Activos Fijos vigente. 
@@ -453,6 +470,7 @@
 
   personas: {
     titulo: "Unidad de Gestión y Desarrollo de Personas",
+    nombre: "Taty Orellana",
     texto: `Unidad encargada de la generación e implementación de políticas de desarrollo organizacional de la  Subsecretaría, así como la administración y el mejoramiento de los subsistemas de gestión de  personas, tales como: evaluación de desempeño, capacitación y formación, remuneraciones y  administración del personal. 
     
     Sus funciones son:
@@ -469,6 +487,7 @@
 
   control: {
     titulo: "Unidad de Control de Gestión",
+    nombre: "Rigoberto Millacura",
     texto: `Unidad encargada de dirigir los procesos y sistemas de control de gestión de la Subsecretaría de  Previsión Social con el objetivo de dar cumplimiento a los compromisos establecidos por el servicio.   
     
     Sus funciones son:
@@ -487,6 +506,7 @@
 
   contratos: {
     titulo: "Unidad de Gestión de Contratos",
+    nombre: "Alejandra Miranda",
     texto: `Controlar y supervisar de manera eficiente y transparente el ciclo de vida de los contratos de la  institución desde la suscripción de éstos hasta el término, con el fin de dar apoyo a la Contraparte  Técnica responsable, dé cumplimiento de las normativas legales vigentes, la correcta ejecución de  los acuerdos y la protección de los intereses institucionales.
     
     Sus funciones son:
@@ -502,6 +522,7 @@
 
   ti: {
     titulo: "Dirección de Tecnologías de la Información",
+    nombre: "Álvaro Gazmuri",
     texto: `Dirección encargada de proponer, gestionar y ejecutar las actividades relacionadas con el desarrollo  estratégico, técnico y operacional de las tecnologías de la información en la Subsecretaría de  Previsión Social. 
     
     Sus labores están orientadas principalmente a proveer servicios tecnológicos confiables, seguros y  oportunos, que respalden la continuidad operativa de la institución y el adecuado funcionamiento de  sus procesos, mediante la entrega de soporte computacional, la administración de la infraestructura  tecnológica, el desarrollo y mantención de sistemas de información y la aplicación de estándares  técnicos y buenas prácticas en gestión TI. 
@@ -515,6 +536,7 @@
 
   sistemas: {
     titulo: "Unidad de Sistemas e Inteligencia de Negocios",
+    nombre: "Renato Llantén",
     texto: `Unidad encargada de proponer, diseñar, desarrollar, implementar y mantener los sistemas de  información que apoyan los procesos operativos y estratégicos de la Subsecretaría, promoviendo la  automatización, la interoperabilidad y el uso intensivo de la información para la toma de decisiones,  mediante modelos de Inteligencia de Negocios. 
     
     Sus funciones son: 
@@ -533,6 +555,7 @@
 
   infra: {
     titulo: "Unidad de Infraestructura, Soporte y Seguridad de la Información",
+    nombre: "Álvaro Gazmuri",
     texto: `Unidad encargada de asegurar la continuidad operativa de la infraestructura tecnológica, la provisión  de servicios de soporte computacional y la implementación de medidas técnicas de ciberseguridad,  resguardando los activos tecnológicos y la información institucional. 
     
     Sus funciones son:
