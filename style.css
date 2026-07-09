@@ -197,3 +197,25 @@ body.popup-abierto {
 body.popup-abierto{
     overflow:hidden;
 }
+.popup,
+.popup.activo {
+  z-index: 2147483647 !important;
+}
+
+.fl-page,
+.fl-page-content,
+.fl-builder-content,
+.fl-row,
+.fl-row-content-wrap,
+.fl-module,
+.fl-module-content {
+  overflow: visible !important;
+}
+
+.popup::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.65);
+  z-index: -1;
+}
