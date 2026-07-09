@@ -192,3 +192,6 @@ body.popup-abierto {
   overflow: hidden !important;
   height: 100%;
 }
+body.popup-abierto{
+    overflow:hidden;
+}
