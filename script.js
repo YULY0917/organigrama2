@@ -582,30 +582,6 @@ function abrirPopup(id) {
     return;
   }
 
-  let mensaje = info.titulo + "\n\n";
-
-  if (info.nombre) {
-    mensaje += info.nombre + "\n";
-  }
-
-  if (info.cargo) {
-    mensaje += info.cargo + "\n\n";
-  }
-
-  mensaje += info.texto;
-
-  alert(mensaje);
-}
-
-
-function abrirPopup(id) {
-  const info = datos[id];
-
-  if (!info) {
-    alert("Información pendiente de incorporar: " + id);
-    return;
-  }
-
   document.getElementById("popup-titulo").textContent = info.titulo;
   document.getElementById("popup-nombre").textContent = info.nombre || "";
   document.getElementById("popup-cargo").textContent = info.cargo || "";
