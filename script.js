@@ -7,6 +7,7 @@
     
   gabinete: {
     titulo: "Gabinete",
+    nombre: "Cristian Olivares",
     texto: `Ejerce el control general en la gestión de la Subsecretaría de Previsión Social, a través de acciones  de coordinación entre sus distintas Divisiones, Direcciones, Unidades y Subunidades para el  funcionamiento eficiente del servicio y la implementación de los productos estratégicos. Además,  asesora a la autoridad del servicio en todas las materias relacionadas con el quehacer técnico y  administrativo de la Subsecretaría. 
     
     Gabinete se relacionará directamente con la autoridad entregando la información e insumos  necesarios para la toma de decisiones y el adecuado control interno de la Institución. 
