@@ -1,6 +1,7 @@
   const datos = {
   subsecretaria: {
-    titulo: "Subsecretario de Previsión Social",
+    titulo: "Subsecretaria de Previsión Social",
+    nombre: "M. Elisa Cabezón",
     texto: `De conformidad con lo dispuesto en el artículo 41 de la ley Nº20.255 de 2008, el Subsecretario o la Subsecretaria es la jefatura superior de la Subsecretaría de Previsión Social, órgano de colaboración inmediata del Ministerio del Trabajo y Previsión Social. `
   },
     
