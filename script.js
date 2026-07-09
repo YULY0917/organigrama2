@@ -21,6 +21,7 @@
 
   auditoria: {
     titulo: "Auditoría Interna",
+    nombre: "Johnny Astudillo",
     texto: `Unidad que depende directamente la jefatura superior de la Subsecretaría de Previsión Social,  encargada de prestar asesoría especializada en materias de auditoría y control interno a la autoridad  superior de la Institución, con el objetivo de evaluar el funcionamiento y el cumplimiento de la  normativa en los proceso contables, financieros, administrativos y estratégicos de la Subsecretaría  de Previsión Social.  
     
     Sus funciones son:
@@ -37,6 +38,7 @@
 
   fiscalia: {
     titulo: "División Fiscalía",
+    nombre: "Jaime Ale",
     texto: `División responsable de velar por la legalidad y control tanto de las actuaciones y/o de los actos  administrativos que se suscriban al interior de la Subsecretaría, asesorando al Gabinete, otras  Divisiones, Direcciones, Unidades y Subunidades para el cumplimiento de las leyes, reglamentos e  instrucciones internas del Servicio.   
 
     Sus funciones son:
@@ -71,6 +73,7 @@
 
   seguridad: {
     titulo: "Unidad de Seguridad de la Información y Protección de Datos Personales",
+    nombre: "Susana San Martín",
     texto: `Unidad encargada de diseñar, implementar, mantener y supervisar el marco institucional de  seguridad de la información y protección de datos personales, asegurando el cumplimiento de las  obligaciones normativas, la adecuada gestión de riesgos y la protección de los activos de información  de la Subsecretaría de Previsión Social.
     
     Su quehacer se orienta principalmente al gobierno, cumplimiento y aseguramiento de la seguridad  de la información, estableciendo políticas, procedimientos, controles y mecanismos de supervisión  que resguarden la trazabilidad de la información institucional, así como los derechos de las personas  respecto del tratamiento de sus datos personales. 
@@ -94,6 +97,7 @@
 
   participacion: {
     titulo: "Unidad de Participación Ciudadana y Género",
+    nombre: "Katherine Quijada",
     texto: `Unidad responsable de coordinar, asesorar, implementar y dar seguimiento a las acciones  institucionales vinculadas con la participación ciudadana en la gestión pública y la transversalización  del enfoque de género en la Subsecretaría de Previsión Social. 
 
     En materia de Participación Ciudadana, le corresponde promover e implementar los mecanismos  establecidos en la Ley N°20.500, sobre Asociaciones y Participación Ciudadana en la Gestión  Pública, así como aquellos definidos en la Norma General de Participación Ciudadana del Ministerio  del Trabajo y Previsión Social, fortaleciendo los espacios de diálogo, consulta, información,  deliberación y colaboración con la ciudadanía y las organizaciones de la sociedad civil vinculadas al  ámbito de la seguridad social favoreciendo una gestión pública más inclusiva, informada,  representativa, colaborativa e innovadora. 
@@ -130,6 +134,7 @@
 
   asesores: {
     titulo: "Asesores",
+    nobre: "Macarena Pinto",
     texto: `Área encargada de proporcionar apoyo a la gestión técnica y política de la Subsecretaría de  Previsión Social, en la creación de políticas públicas a través de propuestas de elaboración y  modificación del marco normativo y reglamentario en materias previsionales y de seguridad laboral. 
     
     Sus funciones son:
@@ -145,6 +150,7 @@
 
   prensa: {
     titulo: "Unidad de Prensa y Comunicaciones",
+    nombre: "Eugenio Figueroa",
     texto: `Unidad responsable de generar contenidos informativos sobre las políticas públicas que emanan de  la Subsecretaría de Previsión Social, y coordinar su entrega a los medios de comunicación. 
     
     Sus funciones son:
