@@ -587,9 +587,9 @@ function abrirPopup(id) {
   document.getElementById("popup-cargo").textContent = info.cargo || "";
   document.getElementById("popup-texto").textContent = info.texto;
 
-  document.getElementById("popup").style.display = "flex";
+  document.getElementById("popup").classList.add("activo");
 }
 
 function cerrarPopup() {
-  document.getElementById("popup").style.display = "none";
+  document.getElementById("popup").classList.remove("activo");
 }
