@@ -134,7 +134,7 @@
 
   asesores: {
     titulo: "Asesores",
-    nobre: "Macarena Pinto",
+    nobre: "Cristián Olivares",
     texto: `Área encargada de proporcionar apoyo a la gestión técnica y política de la Subsecretaría de  Previsión Social, en la creación de políticas públicas a través de propuestas de elaboración y  modificación del marco normativo y reglamentario en materias previsionales y de seguridad laboral. 
     
     Sus funciones son:
