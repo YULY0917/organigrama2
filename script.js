@@ -585,11 +585,11 @@ function abrirPopup(id) {
   document.getElementById("popup-texto").textContent = info.texto;
 
   document.getElementById("popup").classList.add("activo");
-  document.body.style.overflow = "hidden";
-}
 
+  document.body.classList.add("popup-abierto");
+}
 function cerrarPopup() {
   document.getElementById("popup").classList.remove("activo");
-  document.body.style.overflow = "";
-}
 
+  document.body.classList.remove("popup-abierto");
+}
